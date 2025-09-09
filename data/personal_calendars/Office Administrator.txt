@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7056592559809150982&key=cc6eb4d1-ad5b-4aa2-a3f1-2656a66a7d4b&originalTime=0&startTime=1756776600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756167844",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756780200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cc6eb4d1-ad5b-4aa2-a3f1-2656a66a7d4b_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756776600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Andrew Tate JSS",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/554083431",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7056592559809150982&key=6ff56d22-ddf2-4e26-b9be-7162bf2702df&originalTime=0&startTime=1757289600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757048558",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757295000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6ff56d22-ddf2-4e26-b9be-7162bf2702df_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757289600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Reserved for Yunjie",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/288428980",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 2,
+    "original_count": 2,
+    "cancelled_count": 0,
+    "empty_summary_count": 0,
+    "query_start_time": 1756648800,
+    "query_end_time": 1764507599,
+    "retrieved_at": "2025-09-08T16:14:58.019751"
+  }
+}

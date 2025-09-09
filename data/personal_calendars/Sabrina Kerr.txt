@@ -1,0 +1,4130 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=0&startTime=1743130800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1741923081",
+        "description": "",
+        "end_time": {
+          "timestamp": "1743134400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=14",
+        "start_time": {
+          "timestamp": "1743130800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=fb692bd3-33ac-4c74-ae90-5620381bbec0&originalTime=0&startTime=1742526000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1740539961",
+        "description": "",
+        "end_time": {
+          "timestamp": "1742531400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=6;WKST=MO;BYDAY=FR",
+        "start_time": {
+          "timestamp": "1742526000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OT Hangz ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=be74376c-846e-4310-ab88-4daadbab1c32&originalTime=0&startTime=1755907200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1750659518",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-24",
+          "timezone": "UTC"
+        },
+        "event_id": "be74376c-846e-4310-ab88-4daadbab1c32_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-23",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Progress report Souane",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/556406180",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=5aa06318-3856-4b9c-a8fe-6778be786e82&originalTime=0&startTime=1758585600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1750659542",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-24",
+          "timezone": "UTC"
+        },
+        "event_id": "5aa06318-3856-4b9c-a8fe-6778be786e82_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-23",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Progress report Souane ?new funding",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/330767109",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=4428e140-e13b-48b2-ae9f-3194d6c93a5f&originalTime=0&startTime=1754524800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1751852613",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-08",
+          "timezone": "UTC"
+        },
+        "event_id": "4428e140-e13b-48b2-ae9f-3194d6c93a5f_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-07",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Andrew PR",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/644517943",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=46bc7e8c-1ee5-4e2d-bef5-7b0e51cb40c8&originalTime=0&startTime=1757203200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1751852624",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-08",
+          "timezone": "UTC"
+        },
+        "event_id": "46bc7e8c-1ee5-4e2d-bef5-7b0e51cb40c8_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-07",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Andrew PR",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/328755893",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=f9f359f4-9890-4afa-a9fc-4edde0dbf9e6&originalTime=0&startTime=1759795200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1751852634",
+        "description": "",
+        "end_time": {
+          "date": "2025-10-08",
+          "timezone": "UTC"
+        },
+        "event_id": "f9f359f4-9890-4afa-a9fc-4edde0dbf9e6_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-10-07",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "ANdrew PR ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/307805334",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=c22b1e66-ffe8-46ca-b9bc-fa2232a84c5a&originalTime=0&startTime=1754532000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752020688",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754535600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c22b1e66-ffe8-46ca-b9bc-fa2232a84c5a_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754532000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/813938363",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=fb692bd3-33ac-4c74-ae90-5620381bbec0&originalTime=1753416000&startTime=1753416000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752618657",
+        "description": "",
+        "end_time": {
+          "timestamp": "1753421400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_1753416000",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_0",
+        "start_time": {
+          "timestamp": "1753416000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OT Hangz ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1754020800&startTime=1754020800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752735641",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754024400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1754020800",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1754020800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=f5f7df03-6904-483c-b3d4-fb6ece3d8288&originalTime=0&startTime=1754006400",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1753679043",
+        "description": "with sabrina Telehealth\n",
+        "end_time": {
+          "timestamp": "1754008200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f5f7df03-6904-483c-b3d4-fb6ece3d8288_0",
+        "event_organizer": {
+          "display_name": "Lucinda Youssef",
+          "user_id": "ou_4bec6d78b992104a40d9627b16c1b1a7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_IKKVFCQCXy01WIylKpWP6a@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754006400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Pan Jang Task Analysis",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/824842687",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=de60b63a-fd44-48c6-8903-f96e34d676c3&originalTime=0&startTime=1754280000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753783711",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754283600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "de60b63a-fd44-48c6-8903-f96e34d676c3_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754280000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New OTA Process Training with Ray",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/179756878",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=b6fbb294-6366-47d6-b169-1d0f682d2e5d&originalTime=0&startTime=1754265600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753833101",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754272800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b6fbb294-6366-47d6-b169-1d0f682d2e5d_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "Kogarah NSW, Australia",
+          "latitude": 360,
+          "longitude": 360,
+          "name": "25 President Avenue"
+        },
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754265600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Daniella INAx and ADL",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/175255400",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=7ec8758c-e36c-441a-b916-bd4ccf638ac9&originalTime=0&startTime=1754352000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753846660",
+        "description": "Emma Jackson\n",
+        "end_time": {
+          "timestamp": "1754362800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7ec8758c-e36c-441a-b916-bd4ccf638ac9_0",
+        "event_organizer": {
+          "display_name": "Lucinda Youssef",
+          "user_id": "ou_4bec6d78b992104a40d9627b16c1b1a7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_IKKVFCQCXy01WIylKpWP6a@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754352000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "ADL Review ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/769644816",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=3a0ba356-beab-464d-a726-262652e9ac6f&originalTime=0&startTime=1753920000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753849168",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-01",
+          "timezone": "UTC"
+        },
+        "event_id": "3a0ba356-beab-464d-a726-262652e9ac6f_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-07-31",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "WFH",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/573315590",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=92bf902d-a110-433f-af90-31d0d511bf85&originalTime=0&startTime=1754362800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753852995",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754370000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "92bf902d-a110-433f-af90-31d0d511bf85_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754362800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Deepa Mohan ADL Review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/226058618",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=aeada8ca-4d56-454a-8011-e8eab6dfa22e&originalTime=0&startTime=1755475200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753915281",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-19",
+          "timezone": "UTC"
+        },
+        "event_id": "aeada8ca-4d56-454a-8011-e8eab6dfa22e_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-18",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Wiliam Garth review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/432243476",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=10d17993-cad4-4342-bb18-e31ceab5b5a2&originalTime=0&startTime=1755126000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753915299",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755127800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "10d17993-cad4-4342-bb18-e31ceab5b5a2_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755126000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "William Garth MCC agenda",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/526920383",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=319ed618-826b-4181-a6ac-0e47dd1c88b8&originalTime=0&startTime=1754526600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754010137",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754528400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "319ed618-826b-4181-a6ac-0e47dd1c88b8_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754526600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel to paramatta",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/673348176",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=a8c86743-0562-4945-b43c-df658d036398&originalTime=0&startTime=1754011800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754011808",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754015400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a8c86743-0562-4945-b43c-df658d036398_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754011800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCC outcome report Goloosh",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/108829892",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=966b3420-18ee-4059-a95c-e0214ba9b943&originalTime=0&startTime=1754017200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754011824",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754019000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "966b3420-18ee-4059-a95c-e0214ba9b943_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754017200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Sort out Thomas MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/395408773",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=4555a4f1-923a-42d2-b6e0-c4143f0f4135&originalTime=0&startTime=1754019000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754011851",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754020800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4555a4f1-923a-42d2-b6e0-c4143f0f4135_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754019000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Golnoosh NTS rooms",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/614319875",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=773f1fb0-c396-4486-864c-e0622bc1fda6&originalTime=0&startTime=1754623800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754013718",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754627400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "773f1fb0-c396-4486-864c-e0622bc1fda6_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754623800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Aline Workplace meeting ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/408299087",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=aad3859a-68be-4cc9-8c79-a666d7ce0176&originalTime=0&startTime=1754436600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754020530",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754443800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "aad3859a-68be-4cc9-8c79-a666d7ce0176_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754436600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Inti Vargas ADL Assessment ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/547710816",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=7644575f-7269-4f50-98eb-f558ea64073b&originalTime=0&startTime=1754438400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754020535",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-07",
+          "timezone": "UTC"
+        },
+        "event_id": "7644575f-7269-4f50-98eb-f558ea64073b_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-06",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "WFH",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/877194495",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d49afa9f-4bef-422c-afa3-b6ef8115bce9&originalTime=0&startTime=1754285400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754026064",
+        "description": "Lane Cove\n",
+        "end_time": {
+          "timestamp": "1754289000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d49afa9f-4bef-422c-afa3-b6ef8115bce9_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754285400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Golnoosh NTS appt",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/999054650",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=b770bccf-6144-4099-9d22-ea0f620463ce&originalTime=0&startTime=1754614800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754028146",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754616600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b770bccf-6144-4099-9d22-ea0f620463ce_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754614800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Bibs with Ezanna ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/190633375",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=1b5e33c9-4dd6-4f63-920e-46621a4ca603&originalTime=0&startTime=1754265600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754029839",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-05",
+          "timezone": "UTC"
+        },
+        "event_id": "1b5e33c9-4dd6-4f63-920e-46621a4ca603_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-04",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Golnoosh MCC outcome report",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/195731481",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=a3452d48-dbf5-4ed0-8831-65e7df3128f8&originalTime=0&startTime=1754530200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754010128",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754532000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a3452d48-dbf5-4ed0-8831-65e7df3128f8_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754530200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Thomas MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/795207239",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d3f2c7c0-bb3c-460c-8e0a-f5630779d4e6&originalTime=0&startTime=1754456400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754387409",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754458200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d3f2c7c0-bb3c-460c-8e0a-f5630779d4e6_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754456400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jay MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/463438340",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=23e7bc8d-5f28-42e5-b2b2-1dc0e075a22d&originalTime=0&startTime=1756875600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754457853",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756877400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "23e7bc8d-5f28-42e5-b2b2-1dc0e075a22d_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756875600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jay MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/649844447",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=17c72c6c-f6e1-49fb-8517-f42b3c68ca4c&originalTime=0&startTime=1755144000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754523230",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755147600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "17c72c6c-f6e1-49fb-8517-f42b3c68ca4c_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "Sydney NSW, Australia",
+          "latitude": 360,
+          "longitude": 360,
+          "name": "11/501 George Street"
+        },
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755144000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Xiang Li MCC F2F",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=865044ec-1057-485e-b04a-5f5f343d4ad8&originalTime=0&startTime=1755565200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754527357",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755572400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "865044ec-1057-485e-b04a-5f5f343d4ad8_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755565200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Deepa Mohan ADL review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/332745514",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=ddc74a49-e816-436f-89e8-a938e6d3ace2&originalTime=0&startTime=1755561600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754527368",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755565200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ddc74a49-e816-436f-89e8-a938e6d3ace2_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755561600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/905857834",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=5f65b0b8-651f-44f0-ab39-a7b92bb866ea&originalTime=0&startTime=1755572400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754527380",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755576000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5f65b0b8-651f-44f0-ab39-a7b92bb866ea_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755572400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/619192456",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=320eb094-d469-4581-9f89-314d9d31e41a&originalTime=0&startTime=1754537400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754527608",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754539200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "320eb094-d469-4581-9f89-314d9d31e41a_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754537400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "ANDREW PR",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/938831415",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=72e4048d-cbe5-4cfe-90b5-0072c3c72170&originalTime=0&startTime=1754539200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754527613",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754541000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "72e4048d-cbe5-4cfe-90b5-0072c3c72170_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754539200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Thomas shiz",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/240899331",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=ba3f81b6-0168-42c1-98ce-09d8b916da8c&originalTime=0&startTime=1754541000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754527625",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754542800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ba3f81b6-0168-42c1-98ce-09d8b916da8c_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754541000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Deepa and rajesh billing",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/841829162",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=6a1e6456-1fca-43af-bf35-07671de6da5e&originalTime=0&startTime=1755127800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754540674",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755129600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6a1e6456-1fca-43af-bf35-07671de6da5e_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755127800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Peter",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/912046571",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=62bf18a2-cc68-440c-b34a-84af9eb3cc74&originalTime=0&startTime=1755043200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754540687",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-14",
+          "timezone": "UTC"
+        },
+        "event_id": "62bf18a2-cc68-440c-b34a-84af9eb3cc74_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-13",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Call Peter tomorrow ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/348961259",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=01699da6-bd95-485a-bfa8-00eea0293137&originalTime=0&startTime=1754611200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754611266",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754616600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "01699da6-bd95-485a-bfa8-00eea0293137_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754611200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Sabrina",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/976803942",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=846aeaa1-6d1d-40de-840f-5d8896b6c5d0&originalTime=0&startTime=1754866800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754864157",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754870400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "846aeaa1-6d1d-40de-840f-5d8896b6c5d0_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754866800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/801075800",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=8ae106d1-4ab9-4e24-850b-d37eb06f6392&originalTime=0&startTime=1754874000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754864186",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754877600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8ae106d1-4ab9-4e24-850b-d37eb06f6392_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754874000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/104140221",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d937d994-215d-4d05-b4fc-acbef5d9475c&originalTime=0&startTime=1754870400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754864175",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754874000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d937d994-215d-4d05-b4fc-acbef5d9475c_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "NSW, Australia",
+          "latitude": 360,
+          "longitude": 360,
+          "name": "Liverpool"
+        },
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754870400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Andrew MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/337080920",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=82f456df-86ee-4e8e-8e84-695064037096&originalTime=0&startTime=1754881200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754864215",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754883000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "82f456df-86ee-4e8e-8e84-695064037096_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754881200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Pan Jiang report",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/932244769",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=b487c9a2-20b1-4305-913c-89ccd482e85d&originalTime=0&startTime=1754883000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754864228",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754884800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b487c9a2-20b1-4305-913c-89ccd482e85d_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754883000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Xiang Li insurer call",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/678634186",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=df390b81-03bf-4294-8029-2ed8c5abf21f&originalTime=0&startTime=1754879400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754864234",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754881200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "df390b81-03bf-4294-8029-2ed8c5abf21f_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754879400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lunch",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/922930052",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=91095368-9d8a-4c5c-b91f-1b101134762a&originalTime=0&startTime=1754877600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754864247",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754879400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "91095368-9d8a-4c5c-b91f-1b101134762a_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754877600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Alex ORP and RTW plan",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/439054936",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1756440000&startTime=1756440000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754871978",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756443600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1756440000",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1756440000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=a9de4ba1-7759-4d4e-841c-d818067eca61&originalTime=0&startTime=1754949600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754876819",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754982000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a9de4ba1-7759-4d4e-841c-d818067eca61_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754949600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Reports",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/254606541",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1755230400&startTime=1755230400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754883770",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755234000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1755230400",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1755230400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=5fb74b2b-0b17-43f5-946d-96f5b0804579&originalTime=0&startTime=1755131400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754892328",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755136800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5fb74b2b-0b17-43f5-946d-96f5b0804579_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755131400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Rajesh Initial",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/423695848",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=8b09538b-37aa-4c3b-9f26-264eff2603a5&originalTime=0&startTime=1755837000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754873624",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755840600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8b09538b-37aa-4c3b-9f26-264eff2603a5_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755837000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "OES Team meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/606080598",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=db05a228-63e4-49f9-8a86-f55a98e522bc&originalTime=0&startTime=1755054000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754542332",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755061200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db05a228-63e4-49f9-8a86-f55a98e522bc_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "Rhodes NSW, Australia",
+          "latitude": 360,
+          "longitude": 360,
+          "name": "744/2 Marquet Street"
+        },
+        "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755054000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Xiang Li ADL Review",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=9cb66804-ad5e-42ba-a73b-9ed78d33e78b&originalTime=0&startTime=1755149400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754634209",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755153000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9cb66804-ad5e-42ba-a73b-9ed78d33e78b_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755149400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Sabrina Case Reviews ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/238563006",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=89acd6f7-bcbf-469c-b1de-d520312465d2&originalTime=0&startTime=1755648000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754976599",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-22",
+          "timezone": "UTC"
+        },
+        "event_id": "89acd6f7-bcbf-469c-b1de-d520312465d2_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-20",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Goulburn TBC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/425876607",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=ac1b905f-e441-42ae-9504-406201768754&originalTime=0&startTime=1755126000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755067606",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755127800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ac1b905f-e441-42ae-9504-406201768754_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755126000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Goulburn Plan",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/117002464",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=7dc24d8b-c3b8-4b5f-8262-a66137b39b1e&originalTime=0&startTime=1757379600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755133639",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757381400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7dc24d8b-c3b8-4b5f-8262-a66137b39b1e_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757379600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Suman Singh MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/324038199",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d2374cf1-a877-4947-b6ae-50c8d776fe64&originalTime=0&startTime=1757635200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755133664",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-13",
+          "timezone": "UTC"
+        },
+        "event_id": "d2374cf1-a877-4947-b6ae-50c8d776fe64_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-12",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "PR Thomas",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/795158027",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=4a8eb175-814f-4fb8-8e21-7e4f7df03e5c&originalTime=0&startTime=1755554400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755133683",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755556200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4a8eb175-814f-4fb8-8e21-7e4f7df03e5c_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755554400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Andrew MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/334108136",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=fc976417-f343-4d39-9943-eaaf44703925&originalTime=0&startTime=1756080000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755133827",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-26",
+          "timezone": "UTC"
+        },
+        "event_id": "fc976417-f343-4d39-9943-eaaf44703925_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=14",
+        "start_time": {
+          "date": "2025-08-25",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Payday",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/748054116",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d0cfc6b0-43ce-44c7-bf87-0eeee4dbf6fa&originalTime=0&startTime=1755651600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755149885",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755655200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d0cfc6b0-43ce-44c7-bf87-0eeee4dbf6fa_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755651600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Henry Hurly INAx",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/202469551",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=63207405-9570-4187-911e-305d472f8e6f&originalTime=0&startTime=1755662400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755150039",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755666000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "63207405-9570-4187-911e-305d472f8e6f_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755662400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Melvin Perez INAx",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/931939717",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=0250afc9-9885-4c97-9818-a352b5520147&originalTime=0&startTime=1755819000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755151224",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755820800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0250afc9-9885-4c97-9818-a352b5520147_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755819000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jay NTS review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/637130106",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=7048b937-2fc5-41a2-83e9-a10670724758&originalTime=0&startTime=1755226800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755151241",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755228600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7048b937-2fc5-41a2-83e9-a10670724758_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755226800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "ask Jay if happy to attend NTS",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/420533626",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=7d668440-ac4e-48fd-a79a-96fa6854830f&originalTime=0&startTime=1755734400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755151393",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-22",
+          "timezone": "UTC"
+        },
+        "event_id": "7d668440-ac4e-48fd-a79a-96fa6854830f_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-21",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "f/u Thomas ORP approval",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/592042548",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=597568f7-422f-40ea-a888-3d3f9064d03d&originalTime=0&startTime=1755212400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755153622",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755214200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "597568f7-422f-40ea-a888-3d3f9064d03d_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755212400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Deepaben insurer",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/337793554",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=aebc0552-251d-40dc-9ef1-1756a617a2b5&originalTime=0&startTime=1755214200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755153754",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755216000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "aebc0552-251d-40dc-9ef1-1756a617a2b5_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755214200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Forward closure email for Tan Hao Phan to danny and vincent ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/208032274",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=b736f5cb-1e4a-46d8-8131-8a29e67f367a&originalTime=0&startTime=1755486000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755221220",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755493200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b736f5cb-1e4a-46d8-8131-8a29e67f367a_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755486000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Rami ADL assessment",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/346277805",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=c435ebb9-6904-4a67-a001-a7f3da06fc57&originalTime=0&startTime=1755482400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755221228",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755486000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c435ebb9-6904-4a67-a001-a7f3da06fc57_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755482400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/670433240",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=c63775fd-a500-4470-aac3-f7bf8d410268&originalTime=0&startTime=1755493200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755221234",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755496800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c63775fd-a500-4470-aac3-f7bf8d410268_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755493200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/430360493",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=c4f93c82-8b4b-4f95-984f-15806d33d215&originalTime=0&startTime=1755657000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755222322",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755660600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c4f93c82-8b4b-4f95-984f-15806d33d215_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755657000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Emily Reece INAx",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/645136344",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=711c71e1-277b-4455-81fa-cec630bcd545&originalTime=0&startTime=1755730800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755222737",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755738000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "711c71e1-277b-4455-81fa-cec630bcd545_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755730800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Alan Hill ADL ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/831389656",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=5fc30095-bc03-4fc7-8861-9b4c138017a1&originalTime=0&startTime=1755559800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755498745",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755561600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5fc30095-bc03-4fc7-8861-9b4c138017a1_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755559800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Teams Charlie Ho and Bethany - email ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/885276637",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=c3f3120c-2372-41f2-8de7-b82471a12c0f&originalTime=0&startTime=1756767600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755559688",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756769400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c3f3120c-2372-41f2-8de7-b82471a12c0f_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756767600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Andrew MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/389708300",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=7d679357-4bc0-4402-9ba0-18944c9c38ec&originalTime=0&startTime=1756423800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755559700",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756425600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7d679357-4bc0-4402-9ba0-18944c9c38ec_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756423800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Andrew MCC agenda",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/988641804",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=b9a57eca-71f3-4e25-ba3d-4dc17157133b&originalTime=0&startTime=1755579600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755559859",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755581400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b9a57eca-71f3-4e25-ba3d-4dc17157133b_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755579600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Deepa Outcome email",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/825528497",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=cb95c9cb-ce35-4d18-b8e9-2bf04ffbef8b&originalTime=0&startTime=1755581400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755559869",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755583200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cb95c9cb-ce35-4d18-b8e9-2bf04ffbef8b_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755581400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Andrew MCC outcome",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/685719245",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=2d81824a-8100-4c1f-87e8-bf7bdb152845&originalTime=0&startTime=1755583200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755559875",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755585000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2d81824a-8100-4c1f-87e8-bf7bdb152845_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755583200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Andrew RTW plan",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/644563878",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=71315689-071a-469e-b698-df629a0ab747&originalTime=0&startTime=1755577800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755559886",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755579600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "71315689-071a-469e-b698-df629a0ab747_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755577800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call new people ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/784467771",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=690775fa-d2ee-47af-82ce-900104ed7fb3&originalTime=0&startTime=1755585000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755559968",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755586800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "690775fa-d2ee-47af-82ce-900104ed7fb3_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755585000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Send f/u email to Simin and Gillian",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/427325964",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=12fd1053-05bd-4f54-9c41-1e3fc44f2a2e&originalTime=0&startTime=1755669600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755583415",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755671400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "12fd1053-05bd-4f54-9c41-1e3fc44f2a2e_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755669600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Inti report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/922971516",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=db09547a-881e-44a7-8448-58960731c149&originalTime=0&startTime=1755671400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755583428",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755673200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db09547a-881e-44a7-8448-58960731c149_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755671400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Rami services ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/513700440",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=fb692bd3-33ac-4c74-ae90-5620381bbec0&originalTime=1757044800&startTime=1757044800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755645200",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757050200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_1757044800",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_0",
+        "start_time": {
+          "timestamp": "1757044800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OT Hangz ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=4cc0dc17-1534-4783-aa86-72a71e62d9a5&originalTime=0&startTime=1755666000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755657076",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755669600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4cc0dc17-1534-4783-aa86-72a71e62d9a5_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755666000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Outcome emails ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/654020921",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=0c4e0cc0-07a6-4531-8ec9-a28978628ceb&originalTime=0&startTime=1755738000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755657090",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755745200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0c4e0cc0-07a6-4531-8ec9-a28978628ceb_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755738000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/596374398",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=54f821df-cc17-4fce-8717-b1de922f60bf&originalTime=0&startTime=1756083600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755659944",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756085400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "54f821df-cc17-4fce-8717-b1de922f60bf_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756083600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Henry MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/492155127",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=a414e705-8b03-418f-8120-d01984151a81&originalTime=0&startTime=1755748800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755734451",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755750600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a414e705-8b03-418f-8120-d01984151a81_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755748800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Xiang Li's insurer to chase up NTS approval and introduce self ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=c62e7bd8-d5ed-4ce4-9665-08bd1349fd59&originalTime=0&startTime=1755817200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755753848",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755819000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c62e7bd8-d5ed-4ce4-9665-08bd1349fd59_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755817200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Melvin MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/312671791",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=59f09292-d429-48e2-af71-669e9552429d&originalTime=0&startTime=1755820800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755753874",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755822600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "59f09292-d429-48e2-af71-669e9552429d_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755820800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Xiang Li",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/400401188",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=8264c466-5ada-42a5-bf88-6f526ae7ea7b&originalTime=0&startTime=1755829800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755755873",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755831600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8264c466-5ada-42a5-bf88-6f526ae7ea7b_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755829800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Bill Daniela comms",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/553656487",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=53da833e-06ab-4697-8be9-568c76902372&originalTime=0&startTime=1755835200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755831420",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755837000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "53da833e-06ab-4697-8be9-568c76902372_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755835200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Daniela",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/210980779",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=28673d10-9908-46ba-87fd-47fdac4755a3&originalTime=0&startTime=1755842400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755836365",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755844200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "28673d10-9908-46ba-87fd-47fdac4755a3_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755842400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Daniela insurer",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/961104053",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=8c52f3ad-f46c-4a6a-844c-9196c355d228&originalTime=0&startTime=1756450800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755820759",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756452600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8c52f3ad-f46c-4a6a-844c-9196c355d228_0",
+        "event_organizer": {
+          "display_name": "Jenna O'Hagan",
+          "user_id": "ou_6b568ac7ea58f3fb5970d68f1d76db1f"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_cWhIs99JAc0QWqJq9wq25c@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756450800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "GIRLS RUNNN",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/770342000",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=44142665-010b-463e-9a0e-b9028ae1f141&originalTime=0&startTime=1756090800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755844377",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756092600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "44142665-010b-463e-9a0e-b9028ae1f141_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756090800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "F/u Daniela payments ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/656694586",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=7794079e-fc2b-405f-b0ab-96e14904e805&originalTime=0&startTime=1756089000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755844386",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756090800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7794079e-fc2b-405f-b0ab-96e14904e805_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756089000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Tell Souane about work",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/769482042",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=104d6df7-6d6a-46a5-a49a-bd0a2109c640&originalTime=0&startTime=1756092600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755844397",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756094400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "104d6df7-6d6a-46a5-a49a-bd0a2109c640_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756092600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Ray for Inti services",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/550083001",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=c507bae3-9d05-447b-8878-65cc7bd3e091&originalTime=0&startTime=1756698300",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756086337",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756701900",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c507bae3-9d05-447b-8878-65cc7bd3e091_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756698300",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Xiang Li NTS MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/211072376",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=c3339b0e-dd6c-4a4d-b257-45734f9646b2&originalTime=0&startTime=1756094400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756086371",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756096200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c3339b0e-dd6c-4a4d-b257-45734f9646b2_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756094400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Xiang Li insurer again ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/763271912",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=fdfbe5e0-a000-478b-80d8-97ef6ee08b81&originalTime=0&startTime=1756162800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756090683",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756191600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fdfbe5e0-a000-478b-80d8-97ef6ee08b81_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756162800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Katrina, Gabriel, Rami, Goulburn ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/170440399",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=391fd420-ba8f-40df-bc16-61606e5bc504&originalTime=0&startTime=1756098000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756094133",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756099800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "391fd420-ba8f-40df-bc16-61606e5bc504_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756098000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Aline",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/270406634",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=208d6bb8-ca19-49fd-aa45-a1197891bb3f&originalTime=0&startTime=1758758400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756166977",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-26",
+          "timezone": "UTC"
+        },
+        "event_id": "208d6bb8-ca19-49fd-aa45-a1197891bb3f_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-25",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Alex PR",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/708207378",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=3cdf44f3-b8b8-49e5-b0c8-4e6276be2819&originalTime=0&startTime=1756265400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756175842",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756267200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3cdf44f3-b8b8-49e5-b0c8-4e6276be2819_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756265400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Amy-Jo Handover Meeting ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/987437639",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=aa1dce71-d2b3-4023-88f6-0d025e58d945&originalTime=0&startTime=1756251000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756175863",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756252800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "aa1dce71-d2b3-4023-88f6-0d025e58d945_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756251000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Melvin employer",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/362909938",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d72093fb-83e3-4c59-bb96-01cb8ce5477c&originalTime=0&startTime=1756252800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756175876",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756254600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d72093fb-83e3-4c59-bb96-01cb8ce5477c_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756252800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Gabriel NES",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/392138994",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=8e4728ce-5fe6-4a5e-8d19-3abc87db83aa&originalTime=0&startTime=1756254600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756175890",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756256400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8e4728ce-5fe6-4a5e-8d19-3abc87db83aa_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756254600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Rami and Inti services quotes",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/573050434",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=04bc4ec3-557b-4ec2-9636-851cd12c4183&originalTime=0&startTime=1756256400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756175906",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756265400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "04bc4ec3-557b-4ec2-9636-851cd12c4183_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756256400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Initial reports from Goulburn",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/654086386",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d27b7155-130b-4f2d-9305-25c49da7510a&originalTime=0&startTime=1756965600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756258215",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756969200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d27b7155-130b-4f2d-9305-25c49da7510a_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756965600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Aline Tome MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/666880152",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=8f28a041-986b-4569-afb0-3aae3dd4580a&originalTime=0&startTime=1756765800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756258227",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756767600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8f28a041-986b-4569-afb0-3aae3dd4580a_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756765800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/672779670",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=b973436c-6ca8-45bc-b1a2-7cf61a45b6bd&originalTime=0&startTime=1756769400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756258234",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756771200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b973436c-6ca8-45bc-b1a2-7cf61a45b6bd_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756769400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/943168708",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=0230d7bc-b353-4b27-bf0d-4fa2bc21c8a9&originalTime=0&startTime=1756342800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756341218",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756344600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0230d7bc-b353-4b27-bf0d-4fa2bc21c8a9_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756342800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Katrina Allen - email insurer ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/939156106",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=008ed464-a9e7-4493-83f4-69e4cba97811&originalTime=0&startTime=1756344600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756341225",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756346400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "008ed464-a9e7-4493-83f4-69e4cba97811_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756344600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Daniela email insurer",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/385710808",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=935994b8-ecb8-4bbe-b00e-2c9a72fd2c21&originalTime=0&startTime=1756359000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756341236",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756360800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "935994b8-ecb8-4bbe-b00e-2c9a72fd2c21_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756359000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New people contact",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/516941709",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d224e62a-3f6d-4770-9279-4454920d59f8&originalTime=0&startTime=1756357200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756341246",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756359000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d224e62a-3f6d-4770-9279-4454920d59f8_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756357200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Thomas new RTW plan",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/279673560",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=fb60fafd-1989-4f15-a466-813542119180&originalTime=0&startTime=1756684800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756344596",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-02",
+          "timezone": "UTC"
+        },
+        "event_id": "fb60fafd-1989-4f15-a466-813542119180_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-01",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Jay MCC agenda",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/512453301",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=9273b70f-f681-48e5-aafc-e33accd3e75a&originalTime=0&startTime=1754784000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756344607",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-11",
+          "timezone": "UTC"
+        },
+        "event_id": "9273b70f-f681-48e5-aafc-e33accd3e75a_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-10",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Jay PR",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/664988587",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=f5642b8f-6bd8-4166-ba33-648515078534&originalTime=0&startTime=1757462400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756344620",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-11",
+          "timezone": "UTC"
+        },
+        "event_id": "f5642b8f-6bd8-4166-ba33-648515078534_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-10",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Jay PR",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/288058037",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=fc059e07-0da5-46e4-802b-e91e04c15917&originalTime=0&startTime=1757289600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756345332",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-10",
+          "timezone": "UTC"
+        },
+        "event_id": "fc059e07-0da5-46e4-802b-e91e04c15917_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-08",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Goulburn",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/472999538",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=659c156b-912c-4fc0-a244-3abb118b5270&originalTime=0&startTime=1756350000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756346027",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756357200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "659c156b-912c-4fc0-a244-3abb118b5270_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756350000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Reports",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/329360252",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=ae315193-8778-4d76-87d3-2c2b7414f569&originalTime=0&startTime=1756346400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756346055",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756348200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ae315193-8778-4d76-87d3-2c2b7414f569_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756346400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Melvin Goulburn",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/943891324",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=ef4e639e-abea-45dc-a9d1-f10fa375a295&originalTime=0&startTime=1756348200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756346065",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756350000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ef4e639e-abea-45dc-a9d1-f10fa375a295_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756348200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lunchhhhhhhhhhh ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/631093144",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=127c8352-276b-4676-b36e-19089f782f1a&originalTime=0&startTime=1756339200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756346071",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-29",
+          "timezone": "UTC"
+        },
+        "event_id": "127c8352-276b-4676-b36e-19089f782f1a_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-28",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "WFH",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/728217496",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d95f3a0a-9b64-473e-bbe9-37b3cbc6df38&originalTime=0&startTime=1756857600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756346152",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-04",
+          "timezone": "UTC"
+        },
+        "event_id": "d95f3a0a-9b64-473e-bbe9-37b3cbc6df38_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-03",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "WFH",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/284113110",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=6318d031-d21b-4dae-97a4-bbf002da9d29&originalTime=0&startTime=1756944000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756346155",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-05",
+          "timezone": "UTC"
+        },
+        "event_id": "6318d031-d21b-4dae-97a4-bbf002da9d29_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-04",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "WFH",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/828880792",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=d692f304-87e7-44ff-96e6-ead5572a9621&originalTime=0&startTime=1757307600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756345272",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757311200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d692f304-87e7-44ff-96e6-ead5572a9621_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757307600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Melvin Perez Workplace ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/177846168",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=95c84040-6db5-4d62-8b94-e8f8de9c2593&originalTime=0&startTime=1756425600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756362808",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756427400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "95c84040-6db5-4d62-8b94-e8f8de9c2593_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756425600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Daniela",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/888109359",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=27487a3d-9f10-4953-8505-a055d272f077&originalTime=0&startTime=1756427400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756362811",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756429200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "27487a3d-9f10-4953-8505-a055d272f077_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756427400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Katrina",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/234877907",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=dab59baa-cd79-49cf-80ee-665fb052057d&originalTime=0&startTime=1756429200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756362816",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756432800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "dab59baa-cd79-49cf-80ee-665fb052057d_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756429200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Thomas",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/125922395",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=7e96c444-2228-469d-863c-68630498b7a4&originalTime=0&startTime=1756434600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756362906",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756441800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7e96c444-2228-469d-863c-68630498b7a4_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756434600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New peope",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/699634331",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=fc7ede69-1577-4801-9a72-64d6b7b9ada4&originalTime=0&startTime=1756443600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756370753",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756445400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fc7ede69-1577-4801-9a72-64d6b7b9ada4_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756443600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Deepaben Chaundari ???",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/595239124",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7477348703420317702&key=14f401e4-6955-4a3e-9cea-0bce4c0134f0&originalTime=0&startTime=1756445400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756370764",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756447200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "14f401e4-6955-4a3e-9cea-0bce4c0134f0_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_MQ18eoIO7p2paANlOmgixa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756445400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Deepa Mohan ADL review report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/418881748",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 132,
+    "original_count": 151,
+    "cancelled_count": 18,
+    "empty_summary_count": 1,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:35.429817"
+  }
+}

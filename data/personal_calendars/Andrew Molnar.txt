@@ -1,0 +1,643 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=64217383-42cc-426a-bec7-baf641fbbed4&originalTime=0&startTime=1759971600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1732843159",
+        "description": "",
+        "end_time": {
+          "timestamp": "1759975200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "64217383-42cc-426a-bec7-baf641fbbed4_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "Commercial Road, Rouse Hill NSW, Australia",
+          "latitude": 360,
+          "longitude": 360,
+          "name": "Rouse Hill Family Medical Practice"
+        },
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1759971600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lunch with Drs Rouse Hill Family Medical",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=9f59cd61-3671-4353-b476-7ec1a6caf2eb&originalTime=0&startTime=1747958400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1747787725",
+        "description": "",
+        "end_time": {
+          "timestamp": "1747960200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9f59cd61-3671-4353-b476-7ec1a6caf2eb_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;UNTIL=20270520T135959Z;INTERVAL=2;BYDAY=FR",
+        "start_time": {
+          "timestamp": "1747958400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Fortnightly catch up",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/531340977",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=cd0c7739-0397-4293-9b11-2f132d0f712a&originalTime=0&startTime=1757979000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752538344",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757980800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cd0c7739-0397-4293-9b11-2f132d0f712a_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757979000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Silks app",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/519326982",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=22bb6484-cabb-4261-bb84-3e36c7204aa5&originalTime=0&startTime=1754265600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753924284",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754267400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "22bb6484-cabb-4261-bb84-3e36c7204aa5_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754265600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Meeting with Dayna Parramatta",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/233329252",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=df3bcc21-5faa-4f41-8ebe-8c67711d9c87&originalTime=0&startTime=1755490500",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754461597",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755492300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "df3bcc21-5faa-4f41-8ebe-8c67711d9c87_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755490500",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Chatswood meeting - 2:15pm",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/988824931",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=c364775f-c155-4996-b787-966698e2f772&originalTime=0&startTime=1756773000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755658759",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756776600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c364775f-c155-4996-b787-966698e2f772_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756773000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Dr Kabir - Kellyville ridge",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/675923270",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=6d3ac662-8174-40f6-a69e-676061532264&originalTime=0&startTime=1756081800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755661734",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756083600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6d3ac662-8174-40f6-a69e-676061532264_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756081800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Meeting with Veronica Dr Kabirs Blacktown clinic",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=65a53735-25fd-41b7-9410-9cd6b026adbf&originalTime=0&startTime=1756170000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755661774",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756171800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "65a53735-25fd-41b7-9410-9cd6b026adbf_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756170000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Tuesday Villawood meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/979699903",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=8c273ad2-d6df-45af-b057-d6632dbc465a&originalTime=0&startTime=1756260000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755661805",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756261800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8c273ad2-d6df-45af-b057-d6632dbc465a_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756260000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lunch with Lawyer ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/182043600",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=311e0037-549e-4ba6-81e5-92954da594b5&originalTime=0&startTime=1756339200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755661823",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756341000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "311e0037-549e-4ba6-81e5-92954da594b5_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756339200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "WeCare Bathurst Dr Sarju and Matthew Marks 10:15am",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/796631864",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=629f18eb-16bf-4d61-a2c0-817ccfbbbce7&originalTime=0&startTime=1756431000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755844859",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756434600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "629f18eb-16bf-4d61-a2c0-817ccfbbbce7_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756431000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Rachell Ann David Interview",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/171950294",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=5dc02b9f-cfd8-419a-87ba-c4175e8f40f6&originalTime=0&startTime=1756436400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755845144",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756440000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5dc02b9f-cfd8-419a-87ba-c4175e8f40f6_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756436400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Maggie Li Interview",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/706242468",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=d5a2474a-c635-4d10-b811-4ec54ab841c1&originalTime=0&startTime=1756443600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755845562",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756446300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d5a2474a-c635-4d10-b811-4ec54ab841c1_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756443600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Teodora Siljanovska Interview",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/643531931",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=2ffd6890-c82b-4b43-9e98-22843c117d8e&originalTime=0&startTime=1756433700",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756079929",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756436400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2ffd6890-c82b-4b43-9e98-22843c117d8e_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756433700",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Stanley Wang Interview (TBC)",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/477216268",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=39898731-b8c0-44fc-8fea-269c17eea59e&originalTime=0&startTime=1757548800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756201178",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-12",
+          "timezone": "UTC"
+        },
+        "event_id": "39898731-b8c0-44fc-8fea-269c17eea59e_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-11",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Villawood meetings",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=250df18b-419a-4db3-858c-52d06d0256ca&originalTime=0&startTime=1757635200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756201247",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-13",
+          "timezone": "UTC"
+        },
+        "event_id": "250df18b-419a-4db3-858c-52d06d0256ca_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-12",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Meeting in Lithgow",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=3c1627b3-bfd0-4f1f-9770-c9c6b9846a29&originalTime=0&startTime=1757575800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756366081",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757577600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3c1627b3-bfd0-4f1f-9770-c9c6b9846a29_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757575800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Electrician coming Lauren looking after",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/366958417",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=9b530e5b-37ea-4ac5-8f12-ef83a6d8aef8&originalTime=0&startTime=1756760400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756366174",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756769400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9b530e5b-37ea-4ac5-8f12-ef83a6d8aef8_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756760400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Plasterer between 7-9am",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/786762245",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7433937135130378252&key=dddb814b-4c09-4717-94e6-e8bf7b1a29ba&originalTime=0&startTime=1757973600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756366268",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757975400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "dddb814b-4c09-4717-94e6-e8bf7b1a29ba_0",
+        "event_organizer": {
+          "display_name": "Andrew Molnar",
+          "user_id": "ou_20c83083c164c0370fcb6555b062b68b"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_SzLWRAZ1NzqliHWP1trlAg@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757973600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Painters coming 8am",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/540273100",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 20,
+    "original_count": 21,
+    "cancelled_count": 1,
+    "empty_summary_count": 0,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:40.376726"
+  }
+}

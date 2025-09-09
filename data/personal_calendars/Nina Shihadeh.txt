@@ -1,0 +1,1506 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=0a2bf679-acaf-4b3d-aea3-8e6e03df6d98&originalTime=0&startTime=1721797200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1721173840",
+        "description": "",
+        "end_time": {
+          "timestamp": "1721800800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0a2bf679-acaf-4b3d-aea3-8e6e03df6d98_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=14",
+        "start_time": {
+          "timestamp": "1721797200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review Meeting ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/209499293",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=fb692bd3-33ac-4c74-ae90-5620381bbec0&originalTime=0&startTime=1742526000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1740539961",
+        "description": "",
+        "end_time": {
+          "timestamp": "1742531400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=6;WKST=MO;BYDAY=FR",
+        "start_time": {
+          "timestamp": "1742526000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OT Hangz ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=a0b1e005-610c-4a9a-819c-47c549ac6368&originalTime=0&startTime=1753488000",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1749012765",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-16",
+          "timezone": "UTC"
+        },
+        "event_id": "a0b1e005-610c-4a9a-819c-47c549ac6368_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-07-26",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=c083895a-6610-4390-8d2e-e6dff006271f&originalTime=0&startTime=1753747200",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1749532733",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-19",
+          "timezone": "UTC"
+        },
+        "event_id": "c083895a-6610-4390-8d2e-e6dff006271f_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-07-29",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=ae77c5c5-f246-41a0-8352-be0ec85e2055&originalTime=0&startTime=1723669200",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718665665",
+        "description": "",
+        "end_time": {
+          "timestamp": "1723672800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ae77c5c5-f246-41a0-8352-be0ec85e2055_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1723669200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Ro Bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/725653995",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=5639be0b-85ff-42f7-8431-323ecb797f0a&originalTime=0&startTime=1720213200",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718665539",
+        "description": "",
+        "end_time": {
+          "timestamp": "1720216800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5639be0b-85ff-42f7-8431-323ecb797f0a_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1720213200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Charlotte Bday",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/631781298",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=14441f2c-64c4-4a2c-ac6f-2c00414644c2&originalTime=0&startTime=1721509200",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718665626",
+        "description": "",
+        "end_time": {
+          "timestamp": "1721512800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "14441f2c-64c4-4a2c-ac6f-2c00414644c2_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1721509200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Chonny Bday",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/440637931",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=eb130dc4-ce81-4e32-9686-eb03c162eea3&originalTime=0&startTime=1709744400",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718665467",
+        "description": "",
+        "end_time": {
+          "timestamp": "1709748000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "eb130dc4-ce81-4e32-9686-eb03c162eea3_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1709744400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Yiming Bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/503934638",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=234507ce-b142-4afb-8802-01b24cf2db23&originalTime=0&startTime=1729886400",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718688996",
+        "description": "",
+        "end_time": {
+          "timestamp": "1729890000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "234507ce-b142-4afb-8802-01b24cf2db23_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1729886400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Ezanna's Bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/811899371",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=26ddc81e-063e-41c8-8cdb-dcf9725a81fa&originalTime=0&startTime=1733947200",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718689169",
+        "description": "",
+        "end_time": {
+          "timestamp": "1733950800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "26ddc81e-063e-41c8-8cdb-dcf9725a81fa_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1733947200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lou's Bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/825950000",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=f591e63b-c51f-4486-97ce-a4eec3c9754b&originalTime=0&startTime=1730584800",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718689048",
+        "description": "",
+        "end_time": {
+          "timestamp": "1730588400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f591e63b-c51f-4486-97ce-a4eec3c9754b_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1730584800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Vincent Bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/195691054",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=3b20e3d1-7ec4-4204-b849-2cc0e0b17485&originalTime=0&startTime=1726344000",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718688935",
+        "description": "",
+        "end_time": {
+          "timestamp": "1726347600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b20e3d1-7ec4-4204-b849-2cc0e0b17485_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1726344000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Wen's bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/146774507",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=029c7a56-bc5e-49f6-9e9b-1c379a7d2d40&originalTime=0&startTime=1730923200",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718689083",
+        "description": "",
+        "end_time": {
+          "timestamp": "1730926800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "029c7a56-bc5e-49f6-9e9b-1c379a7d2d40_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1730923200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Pranshu Bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/337017848",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=029926eb-f543-4221-8095-f971e8b54e69&originalTime=0&startTime=1731182400",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718689104",
+        "description": "",
+        "end_time": {
+          "timestamp": "1731186000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "029926eb-f543-4221-8095-f971e8b54e69_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1731182400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Susanna's bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/307945041",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=0&startTime=1743130800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1741923081",
+        "description": "",
+        "end_time": {
+          "timestamp": "1743134400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=14",
+        "start_time": {
+          "timestamp": "1743130800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=219d3e8a-a704-495a-9f86-c97341107cdc&originalTime=0&startTime=1720731600",
+        "attendee_ability": "none",
+        "color": -1,
+        "create_time": "1718665587",
+        "description": "",
+        "end_time": {
+          "timestamp": "1720735200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "219d3e8a-a704-495a-9f86-c97341107cdc_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=YEARLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1720731600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Joey Bday ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/439728024",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=a227b77c-670e-47b7-b441-50200cb18cc6&originalTime=0&startTime=1760052600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752557619",
+        "description": "",
+        "end_time": {
+          "timestamp": "1760056200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "a227b77c-670e-47b7-b441-50200cb18cc6_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1760052600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "PIP  Review - Pranshu",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/989189637",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=fb692bd3-33ac-4c74-ae90-5620381bbec0&originalTime=1753416000&startTime=1753416000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752618657",
+        "description": "",
+        "end_time": {
+          "timestamp": "1753421400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_1753416000",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_0",
+        "start_time": {
+          "timestamp": "1753416000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OT Hangz ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=1b6507bd-e13d-4edd-abd0-9f6a949c1d68&originalTime=0&startTime=1755558000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752618712",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755586800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "1b6507bd-e13d-4edd-abd0-9f6a949c1d68_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755558000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Please take it easy on me - no meetings ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/330619886",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=0a2bf679-acaf-4b3d-aea3-8e6e03df6d98&originalTime=1754456400&startTime=1754456400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752735669",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754460000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0a2bf679-acaf-4b3d-aea3-8e6e03df6d98_1754456400",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "0a2bf679-acaf-4b3d-aea3-8e6e03df6d98_0",
+        "start_time": {
+          "timestamp": "1754456400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review Meeting ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/209499293",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=de60b63a-fd44-48c6-8903-f96e34d676c3&originalTime=0&startTime=1754280000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753783711",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754283600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "de60b63a-fd44-48c6-8903-f96e34d676c3_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754280000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New OTA Process Training with Ray",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/179756878",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1756440000&startTime=1756440000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754871978",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756443600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1756440000",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1756440000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1755230400&startTime=1755230400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754883770",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755234000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1755230400",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1755230400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1754020800&startTime=1754020800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752735641",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754024400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1754020800",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1754020800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=81ecf388-65b3-4496-b2e1-253045a99149&originalTime=0&startTime=1755561600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753927671",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-22",
+          "timezone": "UTC"
+        },
+        "event_id": "81ecf388-65b3-4496-b2e1-253045a99149_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-19",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Jess in Bathurst",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/102607188",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=483fa452-58b8-47d6-ab74-9690e80bdfa9&originalTime=0&startTime=1755738000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755058530",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755741600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "483fa452-58b8-47d6-ab74-9690e80bdfa9_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755738000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Tara Farrell Second Interview ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/671946063",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=d60d3802-ea39-40d0-9991-96c93768cd98&originalTime=0&startTime=1755750600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755645040",
+        "description": "Link: https://us06web.zoom.us/j/87244421095?pwd=zjaMobZFh98XEF1MTp1L914AeMUhKK.1\nMeeting ID: 872 4442 1095\nPasscode: 506571\n",
+        "end_time": {
+          "timestamp": "1755753300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d60d3802-ea39-40d0-9991-96c93768cd98_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755750600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jack Zhao 2nd Interview via Zoom",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/724552141",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=84c7fbda-1e96-43de-b659-51a3779b31df&originalTime=0&startTime=1755732600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754444379",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755735300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "84c7fbda-1e96-43de-b659-51a3779b31df_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755732600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Annabel - QA Case Reviews",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/426366449",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=64a927c4-f31c-41ba-becc-1de89a62445b&originalTime=0&startTime=1755745200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754885464",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755747900",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "64a927c4-f31c-41ba-becc-1de89a62445b_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755745200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Daniel Scacciotti Interview",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/153242985",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=fa2d8200-21c8-43a7-8c64-2195ed5d490b&originalTime=0&startTime=1755819000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1747016877",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755822600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fa2d8200-21c8-43a7-8c64-2195ed5d490b_0",
+        "event_organizer": {
+          "display_name": "Jessica Wong",
+          "user_id": "ou_86cb799a33a2c575ab23634f6aa4551a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_gyCF0FojAkv3ThXb0SS2Uc@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755819000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jess - End of Probation Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/179525216",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=4e4f9b3e-ba2f-4498-93a0-3294ab66a05c&originalTime=0&startTime=1755824400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754873492",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755828000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4e4f9b3e-ba2f-4498-93a0-3294ab66a05c_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755824400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Leaders Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/605425238",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=8b09538b-37aa-4c3b-9f26-264eff2603a5&originalTime=0&startTime=1755837000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754873624",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755840600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8b09538b-37aa-4c3b-9f26-264eff2603a5_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755837000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "OES Team meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/606080598",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=cd290424-2ee1-489d-aba7-e87642f4911f&originalTime=0&startTime=1755660600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753675926",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755666000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cd290424-2ee1-489d-aba7-e87642f4911f_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755660600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "PIP Monthly Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/861591640",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=a7ee0976-8e53-48ca-9ed8-be39615cb405&originalTime=0&startTime=1755655200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755645152",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755658800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a7ee0976-8e53-48ca-9ed8-be39615cb405_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755655200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lunch ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/100364888",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=bfa23ef8-2a5a-48e0-8daf-ca05c57526d4&originalTime=0&startTime=1755651600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755645160",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755655200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "bfa23ef8-2a5a-48e0-8daf-ca05c57526d4_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755651600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Siesta ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/832011223",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=46ec0338-6145-4b7c-aff3-d2affc4dae96&originalTime=0&startTime=1755741600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755645173",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755745200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "46ec0338-6145-4b7c-aff3-d2affc4dae96_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755741600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lunch ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/128137274",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=e38e8067-d9df-4301-9d22-fe3cfcfe7cc8&originalTime=0&startTime=1755831600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755645179",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755835200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e38e8067-d9df-4301-9d22-fe3cfcfe7cc8_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755831600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "DND",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/588741591",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=570a23d4-2926-47da-8b47-31c8ddd5bd8c&originalTime=0&startTime=1756080000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755127125",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756082700",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "570a23d4-2926-47da-8b47-31c8ddd5bd8c_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756080000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Carmen Choi Interview",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/169786770",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=fb692bd3-33ac-4c74-ae90-5620381bbec0&originalTime=1757044800&startTime=1757044800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755645200",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757050200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_1757044800",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_0",
+        "start_time": {
+          "timestamp": "1757044800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OT Hangz ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=328742bb-a1bb-46e6-a6f5-2fd83250aaee&originalTime=0&startTime=1757289600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755734762",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757293200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "328742bb-a1bb-46e6-a6f5-2fd83250aaee_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757289600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Livian - Month 1 Probation Review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/207317631",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=e70a7405-6930-4a1d-a1a0-f44383c0ffe7&originalTime=0&startTime=1756083600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755571283",
+        "description": "Link: https://us06web.zoom.us/j/86247346486?pwd=3ETUZEkiusSd9GWbuA01LlHa5GwVbw.1\nMeeting ID: 862 4734 6486\n Passcode: 564669\n",
+        "end_time": {
+          "timestamp": "1756086300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e70a7405-6930-4a1d-a1a0-f44383c0ffe7_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756083600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Oluwaseun Babatunde (Shay) 2nd Interview Zoom",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/738776323",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=1496d715-5498-4920-95de-11883b7a08a8&originalTime=0&startTime=1756783800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755742065",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756787400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "1496d715-5498-4920-95de-11883b7a08a8_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756783800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Annabel - End of Probation Review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/331432499",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=d1e0d99e-3e89-4fec-b835-ae6c5bc52ad9&originalTime=0&startTime=1758241800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752557500",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758247200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "d1e0d99e-3e89-4fec-b835-ae6c5bc52ad9_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758241800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "PIP Monthly Meeting - Pranshu",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/889884795",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=5372e46b-d816-4cb9-85e8-aa39837061c9&originalTime=0&startTime=1756427400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756170802",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756432800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5372e46b-d816-4cb9-85e8-aa39837061c9_0",
+        "event_organizer": {
+          "display_name": "Livian Zhang",
+          "user_id": "ou_b4ec87c24545c213d4081b3d7d2f4e03"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_nYXc5t5ARjYrwTIM2Osoje@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756427400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Cao Mei Yan Initial Ax",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/744116666",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7204981526525231109&key=4c9f7764-8199-47a0-a638-ebb9f793f652&originalTime=0&startTime=1756348200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756347163",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756350000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4c9f7764-8199-47a0-a638-ebb9f793f652_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756348200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Chatsssss",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/409832459",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 46,
+    "original_count": 59,
+    "cancelled_count": 9,
+    "empty_summary_count": 4,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:31.143168"
+  }
+}

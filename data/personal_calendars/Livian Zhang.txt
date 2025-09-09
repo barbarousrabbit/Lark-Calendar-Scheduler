@@ -1,0 +1,715 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=0f57234d-90d5-405c-a2e6-2a1ca87e397d&originalTime=0&startTime=1754866800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753670389",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754870400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0f57234d-90d5-405c-a2e6-2a1ca87e397d_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754866800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Livian - Orientation",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/241323695",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=5b443464-d45b-475d-86a6-c0c5aee3b444&originalTime=0&startTime=1755043200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753675850",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755057600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5b443464-d45b-475d-86a6-c0c5aee3b444_0",
+        "event_organizer": {
+          "display_name": "Wen Xu",
+          "user_id": "ou_e28edf34a29e794d892406f5cea5e6bd"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755043200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Elaine ADL Review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/874599675",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=8be0a60d-7809-474f-9582-2e314684d5e5&originalTime=0&startTime=1754956800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754289726",
+        "description": "Maqurie Fields and Baulkenhills\n",
+        "end_time": {
+          "timestamp": "1754974800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8be0a60d-7809-474f-9582-2e314684d5e5_0",
+        "event_organizer": {
+          "display_name": "Wen Xu",
+          "user_id": "ou_e28edf34a29e794d892406f5cea5e6bd"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754956800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hannah ADL x2 ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/789105628",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=3a080e41-9f95-4771-8341-1d8b910f9838&originalTime=0&startTime=1755129600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754890699",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755149400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3a080e41-9f95-4771-8341-1d8b910f9838_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755129600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/848583569",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=7ebddc1f-5872-449f-9a49-2bdc0b11f22b&originalTime=0&startTime=1755142200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754886159",
+        "description": "3 McDonald Pl McGrath Hill NSW 2756\n\nBackground:\nClient to get surgery - TBC \nDaniel's partner is currently managing uni/work and their 3 children \nADL assessment December 2024 \n4 cleaning services per fortnigh\n",
+        "end_time": {
+          "timestamp": "1755145800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7ebddc1f-5872-449f-9a49-2bdc0b11f22b_0",
+        "event_organizer": {
+          "display_name": "Vidisha Kamath Pai",
+          "user_id": "ou_9337fc5b90de866f5aa69cdb71fa08ab"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3KTnUBU3GbgcwZcVzuBWNb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755142200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Daniel Vaughan - ADL review ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/379230258",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=eccef639-bf58-4c27-88c5-94f883136095&originalTime=0&startTime=1755046800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753667240",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755054000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "eccef639-bf58-4c27-88c5-94f883136095_0",
+        "event_organizer": {
+          "display_name": "Elaine Mernagh",
+          "user_id": "ou_8d2ebd7d44ddfb177bc21d2a95b2b567"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": "1/26 De Witt Street, Bankstown, NSW, 2200"
+        },
+        "organizer_calendar_id": "larksuite.com_V557pXL4Xws6A3fJYXhU0e@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755046800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Xian Hua Chen ADL review with Livian ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/794450068",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=8b09538b-37aa-4c3b-9f26-264eff2603a5&originalTime=0&startTime=1755837000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754873624",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755840600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8b09538b-37aa-4c3b-9f26-264eff2603a5_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755837000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "OES Team meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/606080598",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=23c84ffc-e3ab-4d29-921e-9f96f13df216&originalTime=0&startTime=1755133200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754889044",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755135000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "23c84ffc-e3ab-4d29-921e-9f96f13df216_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755133200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "M. Yehya - WPM",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/998931109",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=430f6ff6-7dac-4e7c-8992-c17b8f52a5ce&originalTime=0&startTime=1755576000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755234265",
+        "description": " [Table] \n\n",
+        "end_time": {
+          "timestamp": "1755579600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "430f6ff6-7dac-4e7c-8992-c17b8f52a5ce_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755576000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Sunita Kumar ADL",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/462851355",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=a717278f-9685-426a-a513-c72aef69a1fc&originalTime=0&startTime=1755572400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755234277",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755583200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a717278f-9685-426a-a513-c72aef69a1fc_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755572400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/170554094",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=0e3cccae-ff94-4e85-9cda-8baf230d1507&originalTime=0&startTime=1755667800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755654635",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755669600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0e3cccae-ff94-4e85-9cda-8baf230d1507_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755667800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call new client",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/901053931",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=58fe8f9c-500d-4856-9c02-a344a4d0b64b&originalTime=0&startTime=1756076400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755671987",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756087200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "58fe8f9c-500d-4856-9c02-a344a4d0b64b_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756076400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/391343671",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=e92e705f-77ab-4296-b0f4-bf3ecc8cb8ff&originalTime=0&startTime=1756080000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755671970",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756083600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e92e705f-77ab-4296-b0f4-bf3ecc8cb8ff_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "Saint Johns Park NSW, Australia",
+          "latitude": 360,
+          "longitude": 360,
+          "name": "5 Glebe Pl"
+        },
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756080000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Washington Neron - ADL",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/366793395",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=65bbd861-9c04-4010-93a9-869362a938a0&originalTime=0&startTime=1756087200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755672124",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756089000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "65bbd861-9c04-4010-93a9-869362a938a0_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756087200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Washington Neron - send outcome of assessment email",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/514183859",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=7a50b793-02c8-4160-8af9-2e1fbe1b697a&originalTime=0&startTime=1756684800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755672093",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-02",
+          "timezone": "UTC"
+        },
+        "event_id": "7a50b793-02c8-4160-8af9-2e1fbe1b697a_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-01",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Washington Neron ADL report due",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/801496998",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=328742bb-a1bb-46e6-a6f5-2fd83250aaee&originalTime=0&startTime=1757289600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755734762",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757293200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "328742bb-a1bb-46e6-a6f5-2fd83250aaee_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757289600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Livian - Month 1 Probation Review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/207317631",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=d3862b8d-0dcb-4793-a028-8ace9028d98e&originalTime=0&startTime=1756166400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755740509",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-27",
+          "timezone": "UTC"
+        },
+        "event_id": "d3862b8d-0dcb-4793-a028-8ace9028d98e_0",
+        "event_organizer": {
+          "display_name": "Livian Zhang",
+          "user_id": "ou_b4ec87c24545c213d4081b3d7d2f4e03"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_nYXc5t5ARjYrwTIM2Osoje@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-08-26",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Sunita Kumar ADL report due",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/210716340",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=5372e46b-d816-4cb9-85e8-aa39837061c9&originalTime=0&startTime=1756427400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756170802",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756432800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5372e46b-d816-4cb9-85e8-aa39837061c9_0",
+        "event_organizer": {
+          "display_name": "Livian Zhang",
+          "user_id": "ou_b4ec87c24545c213d4081b3d7d2f4e03"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_nYXc5t5ARjYrwTIM2Osoje@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756427400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Cao Mei Yan Initial Ax",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/744116666",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=7bcc2acc-b4ff-4aad-b3f6-8de2903acd2a&originalTime=0&startTime=1757048400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756250770",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757055600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7bcc2acc-b4ff-4aad-b3f6-8de2903acd2a_0",
+        "event_organizer": {
+          "display_name": "Joey Thong",
+          "user_id": "ou_a9d55f3c604d453354dce3669fa60307"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1TMFpzznyG8vCXEND49xgf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757048400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hao Zhu FCE",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/518674427",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=0875a0f2-8ae5-4818-a2b8-d65a1c2c4b95&originalTime=0&startTime=1756944000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756192956",
+        "description": "Washington Neron\nWith Dr Sarah",
+        "end_time": {
+          "timestamp": "1756945800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0875a0f2-8ae5-4818-a2b8-d65a1c2c4b95_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "feishu.cn_Oaw46N4eN6TaREbLhnYBld@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756944000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Livian F2F MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/560922091",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7535988661717549088&key=bfd2246a-ac75-4529-b482-183aef8a7c6a&originalTime=0&startTime=1756789200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756278352",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756791000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "bfd2246a-ac75-4529-b482-183aef8a7c6a_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756789200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Washington Neron MCC Agenda",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/195861992",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 22,
+    "original_count": 26,
+    "cancelled_count": 4,
+    "empty_summary_count": 0,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:17.388493"
+  }
+}

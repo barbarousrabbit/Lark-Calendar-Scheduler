@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-09-08T16:16:19.843095",
+  "oauth": {
+    "code": "4IJuzad6GfCxQwJdrFBzcI3GKEiBJ7XG",
+    "url": "https://example.com/oauth2/callback?code=4IJuzad6GfCxQwJdrFBzcI3GKEiBJ7XG&state=abc123",
+    "client_id": "cli_a735216a7178d009",
+    "redirect_uri": "https://example.com/oauth2/callback",
+    "token_retrieved": true,
+    "token": {
+      "token_type": "Bearer",
+      "access_token": "eyJhbGciOiJFUzI1NiIsImZlYXR1cmVfY29kZSI6IkZlYXR1cmVPQXV0aEpXVFNpZ25fU0ciLCJraWQiOiI3NTQ2Mzg4MzQ0MjY4MzU3NjM1IiwidHlwIjoiSldUIn0.eyJqdGkiOiI3NTQ3NTk4MzM4NTQ4MzY3Mzk5IiwiaWF0IjoxNzU3MzEyMTc5LCJleHAiOjE3NTczMTkzNzksInZlciI6InYxIiwidHlwIjoiYWNjZXNzX3Rva2VuIiwiY2xpZW50X2lkIjoiY2xpX2E3MzUyMTZhNzE3OGQwMDkiLCJzY29wZSI6ImF1dGg6dXNlci5pZDpyZWFkIGNhbGVuZGFyOmNhbGVuZGFyIGNhbGVuZGFyOmNhbGVuZGFyOnJlYWQgY2FsZW5kYXI6Y2FsZW5kYXI6cmVhZG9ubHkiLCJhdXRoX2lkIjoiNzU0NzU5ODMyMzgzNDcxNjE5MiIsImF1dGhfdGltZSI6MTc1NzMxMjE3NSwiYXV0aF9leHAiOjE3ODg4NDgxNzUsInVuaXQiOiJsYXJrc2dhd3MiLCJ0ZW5hbnRfdW5pdCI6ImxhcmtzZ2F3cyIsIm9wYXF1ZSI6dHJ1ZSwiZW5jIjoiQWlRa0FRRUNBTVlEQUFFQkF3QUNBUTBBQXdzTEFBQUFBd0FBQUFkR1pXRjBkWEpsQUFBQUVHOWhkWFJvWDI5d1lYRjFaVjlxZDNRQUFBQUlWR1Z1WVc1MFNXUUFBQUFCTUFBQUFBUlVhVzFsQUFBQUNqRTNOVGN5T0RrMk1EQVBBQVFNQUFBQUFRb0FBV0xGSWxtdmdBQWlDd0FDQUFBQURIb0RYVzFrME5QUjN2Yml0QXNBQXdBQUFEQ3RvQVcxVkVxb2pQeWJKTmlnNVAvN0Q0V3VDODYyK3VZYXhTMzRLK09Zb1ZIS21uQTZGaEF1dkVReU9TWkpJSmNBQ3dBRkFBQUFDV3hoY210eloyRjNjd0E0VlhPVk0wc2ZyN2xtZVdNTkJNSGwxV0F1RWw5eGNlYVlVSjBHR3BkYjZRb0hBbHpuNEYzYkVvYTdVQ3VpdVkvaVVydWw4a3o2NitSQ3lMMWo3R0R6aGE4alVHMG5xQU80RjY5TE1vTlZUQXltNmdtc1VYTnRWWXl3TDdvOTZTV2NmYjQ5a0Zud0lIZWVWQkZjMFpncTA3VzhiNngyY1E2ODJzKzdlUjNkM1dqTnFsLzlNaWlEckkzY2tGdkhhR3V1Q2pBPSIsImVuY192ZXIiOiJ2MSJ9.2k8n476T_CYN6MCWvwFgO82TjPDWL9agFqBldbnXBHOW6ibFe2rZm7_FZFgKmh64ZUD409OuZzf6yoDwbfQ3cg",
+      "expires_in": 7200,
+      "scope": "auth:user.id:read calendar:calendar calendar:calendar:read calendar:calendar:readonly",
+      "code": 0,
+      "retrieved_at": "2025-09-08T16:16:19.359922"
+    }
+  },
+  "status": {
+    "oauth_complete": true,
+    "last_updated": "2025-09-08T16:16:19.843130"
+  }
+}

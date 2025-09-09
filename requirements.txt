@@ -1,0 +1,7 @@
+# 项目依赖包列表
+# 使用 pip install -r requirements.txt 安装
+customtkinter==5.2.2
+pyperclip==1.9.0
+requests==2.32.4
+schedule==1.2.0
+psutil==7.0.0 

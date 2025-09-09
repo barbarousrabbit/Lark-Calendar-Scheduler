@@ -1,0 +1,298 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=ad171cf8-0ae6-427c-aaaf-ce2357df521d&originalTime=0&startTime=1761091200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748583234",
+        "description": "",
+        "end_time": {
+          "date": "2025-10-23",
+          "timezone": "UTC"
+        },
+        "event_id": "ad171cf8-0ae6-427c-aaaf-ce2357df521d_0",
+        "event_organizer": {
+          "display_name": "Ezanna Sin",
+          "user_id": "ou_bee09d5a84da460adf83400579345eb1"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_raTQGM0ixPCvvqz2uaiSCd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-10-22",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Andrew's B'day",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/596827560",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=fc1ce9f5-94ad-48e1-be6d-a3c1cbfb7dc8&originalTime=0&startTime=1760227200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748583248",
+        "description": "",
+        "end_time": {
+          "date": "2025-10-13",
+          "timezone": "UTC"
+        },
+        "event_id": "fc1ce9f5-94ad-48e1-be6d-a3c1cbfb7dc8_0",
+        "event_organizer": {
+          "display_name": "Ezanna Sin",
+          "user_id": "ou_bee09d5a84da460adf83400579345eb1"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_raTQGM0ixPCvvqz2uaiSCd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-10-12",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Keiki's B'day",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/865787304",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=7fee0aa7-8cd6-4947-9499-7fec0b661fe0&originalTime=0&startTime=1757894400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748583282",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-16",
+          "timezone": "UTC"
+        },
+        "event_id": "7fee0aa7-8cd6-4947-9499-7fec0b661fe0_0",
+        "event_organizer": {
+          "display_name": "Ezanna Sin",
+          "user_id": "ou_bee09d5a84da460adf83400579345eb1"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_raTQGM0ixPCvvqz2uaiSCd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-15",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Wen's B'day",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/642735160",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=11c7e69f-1684-47a9-93fe-9104282f6b07&originalTime=0&startTime=1757808000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748583315",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-15",
+          "timezone": "UTC"
+        },
+        "event_id": "11c7e69f-1684-47a9-93fe-9104282f6b07_0",
+        "event_organizer": {
+          "display_name": "Ezanna Sin",
+          "user_id": "ou_bee09d5a84da460adf83400579345eb1"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_raTQGM0ixPCvvqz2uaiSCd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-14",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Ange's B'day",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/820561990",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=2ca9a90a-7d17-4111-add4-e9ac4aa56b74&originalTime=0&startTime=1757462400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748583328",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-11",
+          "timezone": "UTC"
+        },
+        "event_id": "2ca9a90a-7d17-4111-add4-e9ac4aa56b74_0",
+        "event_organizer": {
+          "display_name": "Ezanna Sin",
+          "user_id": "ou_bee09d5a84da460adf83400579345eb1"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_raTQGM0ixPCvvqz2uaiSCd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-10",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Danny's B'day",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/390421560",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=300c9e6f-5390-4af8-8586-23d3f315caa2&originalTime=0&startTime=1754526600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753841489",
+        "description": "Jiaqin He - F2F\nVoC sign off \n",
+        "end_time": {
+          "timestamp": "1754528400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "300c9e6f-5390-4af8-8586-23d3f315caa2_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Oaw46N4eN6TaREbLhnYBld@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754526600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Zebin F2F MCC & Voc sign off",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=2712f110-e7d9-4a48-ae93-2f4bbbbd4067&originalTime=0&startTime=1754627400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753942462",
+        "description": "Lori Sandalic - to be resheduled ASAP, Dr Taslima did not call on Monday 04/08\n",
+        "end_time": {
+          "timestamp": "1754629200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2712f110-e7d9-4a48-ae93-2f4bbbbd4067_0",
+        "event_organizer": {
+          "display_name": "Vincent Chan",
+          "user_id": "ou_c3be7cc0a3568fbd7fa47aee8887a168"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "feishu.cn_mJTzUzlGWp9YB6pf2mH6Nf@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754627400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Niamh Tele MCC - Dr Taslima",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/730803443",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=19a6a834-0509-4607-985f-a03ff2730855&originalTime=0&startTime=1755824400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754872251",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755828000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "19a6a834-0509-4607-985f-a03ff2730855_0",
+        "event_organizer": {
+          "display_name": "Ezanna Sin",
+          "user_id": "ou_bee09d5a84da460adf83400579345eb1"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_raTQGM0ixPCvvqz2uaiSCd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755824400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "BR Team Meeting",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7361969253988630534&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 9,
+    "original_count": 11,
+    "cancelled_count": 2,
+    "empty_summary_count": 0,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:20.687001"
+  }
+}

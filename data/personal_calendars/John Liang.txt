@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [],
+    "total_count": 0,
+    "original_count": 2,
+    "cancelled_count": 2,
+    "empty_summary_count": 0,
+    "query_start_time": 1756648800,
+    "query_end_time": 1764507599,
+    "retrieved_at": "2025-09-08T16:14:53.380190"
+  }
+}

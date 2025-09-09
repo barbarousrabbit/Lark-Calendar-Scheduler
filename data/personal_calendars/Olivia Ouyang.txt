@@ -1,0 +1,2477 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=88214bfd-bcc1-473d-badf-9613a0bde89f&originalTime=0&startTime=1760313600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752216465",
+        "description": "",
+        "end_time": {
+          "date": "2025-10-25",
+          "timezone": "UTC"
+        },
+        "event_id": "88214bfd-bcc1-473d-badf-9613a0bde89f_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-10-13",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Annual Leaves",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/531278572",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=0619b9d8-002b-4304-ba1a-47f48d431d2c&originalTime=0&startTime=1754026200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752820772",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754028000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0619b9d8-002b-4304-ba1a-47f48d431d2c_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754026200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "10th JSS Lina Diaz",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/614620083",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=8adac2a8-34f3-447b-9106-912556deef6c&originalTime=0&startTime=1754368200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753159866",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754370000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8adac2a8-34f3-447b-9106-912556deef6c_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754368200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "6th JSS Emma Jackson Whatsapp",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/437643030",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=7bdff1e8-b200-4bae-ab8d-2ee23ffc8ab6&originalTime=0&startTime=1754539200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753334396",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754541000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7bdff1e8-b200-4bae-ab8d-2ee23ffc8ab6_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754539200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "8th JSS Gabriel Barbaro 6520100",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/862345072",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=e84ccbc4-cbcf-4a16-8c9f-8dc8b47b8ab8&originalTime=0&startTime=1754544600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753338845",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754546400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e84ccbc4-cbcf-4a16-8c9f-8dc8b47b8ab8_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754544600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "5th JSS Xutong Yan Y12 student 75C012320",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/677205841",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=9cd174b7-14e1-434c-8749-a8ec3b3f3ac0&originalTime=0&startTime=1754614800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753422102",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754616600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9cd174b7-14e1-434c-8749-a8ec3b3f3ac0_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754614800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "8th JSS Julie-Anne Heath ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/452523898",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=aab1df60-d0b9-4e7a-823e-a84b5b4af366&originalTime=0&startTime=1754971200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753423788",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754973000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "aab1df60-d0b9-4e7a-823e-a84b5b4af366_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754971200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Xiaochun Lin - 6JSS - 4 cold Cancassing",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/829784852",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=4973a107-7b77-4261-b6b9-0cc545ae364f&originalTime=0&startTime=1755133200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753424141",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755135000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4973a107-7b77-4261-b6b9-0cc545ae364f_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755133200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Hong Wu Shao",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/325334591",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=953ecaf5-598c-46b8-9da7-d6a990847c07&originalTime=0&startTime=1754267400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753332761",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754269200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "953ecaf5-598c-46b8-9da7-d6a990847c07_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754267400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "prepare for Aaron resume",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/536001686",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=763ce74c-6ba4-4277-8ac4-0422b71465c8&originalTime=0&startTime=1754958600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753751860",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754960400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "763ce74c-6ba4-4277-8ac4-0422b71465c8_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754958600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "8th JSS Geofery Wright  - roaster Manager",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/209627340",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=8c1b32c7-b065-43e4-b92f-bbd749b221cf&originalTime=0&startTime=1754443800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753751966",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754445600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8c1b32c7-b065-43e4-b92f-bbd749b221cf_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754443800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "prepare Gabriel Barbaro checklist",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/838493082",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=116e2dbc-5f82-4d72-ab62-94b96a4a08ea&originalTime=0&startTime=1754370000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753149514",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754371800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "116e2dbc-5f82-4d72-ab62-94b96a4a08ea_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754370000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "4th JSS Zhiyong Yang",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/887131246",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=7a745e31-781c-41cb-8807-b479c9dedcaf&originalTime=0&startTime=1754960400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753765536",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754962200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7a745e31-781c-41cb-8807-b479c9dedcaf_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754960400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "5th JSS Xuetao Yue",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/651223950",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=4293e0eb-670c-4d6b-bf54-b7adf6ca2f5b&originalTime=0&startTime=1755144000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753924152",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755145800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4293e0eb-670c-4d6b-bf54-b7adf6ca2f5b_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755144000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "8th JSS Craig Lonergan-Woolworth",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/873307148",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=3d4f2555-56d4-4df2-8db8-f8f7147247bb&originalTime=0&startTime=1754269200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753922579",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754271000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3d4f2555-56d4-4df2-8db8-f8f7147247bb_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754269200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Prepare Craig checklist and send to him",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/323937234",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=e9afa5fb-adc8-4335-bdb0-3855672dd8f6&originalTime=0&startTime=1754020800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753916045",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754022600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e9afa5fb-adc8-4335-bdb0-3855672dd8f6_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754020800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "5th JSS Bingyu Zhai 7353055",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/570137561",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=2b81bf63-811d-49e4-94f0-f4dadf088a09&originalTime=0&startTime=1754004600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753941969",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754006400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2b81bf63-811d-49e4-94f0-f4dadf088a09_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754004600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Prepare for Lina checklist",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/822829366",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=ee8d1a06-4f36-462b-baae-dbeec75df951&originalTime=0&startTime=1754438400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753751911",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754440200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ee8d1a06-4f36-462b-baae-dbeec75df951_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754438400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "send out Geofery Wright checklist",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/884272349",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=c6d96664-a4b8-434f-a3ce-0bcc2366b87a&originalTime=0&startTime=1755145800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754022984",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755147600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c6d96664-a4b8-434f-a3ce-0bcc2366b87a_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755145800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "6th JSS Bingyu Zhai",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/911019589",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=b28ebde3-bd48-4cf8-816d-568257516112&originalTime=0&startTime=1755475200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754264037",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755477000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b28ebde3-bd48-4cf8-816d-568257516112_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755475200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "prepare for Mu and Jiang's resume",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/264397192",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=55070b5b-b057-4820-bf89-8f842ac1b70c&originalTime=0&startTime=1755577800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754368771",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755579600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "55070b5b-b057-4820-bf89-8f842ac1b70c_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755577800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "7th JSS Emma Jackson Whatsapp",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/551891064",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=42a48057-8b2c-4247-9d94-329a29ff1385&originalTime=0&startTime=1755565200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754369586",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755567000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "42a48057-8b2c-4247-9d94-329a29ff1385_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755565200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "5th JSS Zhiyong Yang",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/897960836",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=17269f73-7a2e-4a2f-bcb7-f06608772f95&originalTime=0&startTime=1754528400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752732389",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754530200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "17269f73-7a2e-4a2f-bcb7-f06608772f95_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754528400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "3rd JSS Cheng Zhi Wan - CPT very nice",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/247261069",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=5707288c-648b-4aff-83df-48ddfabb7c7d&originalTime=0&startTime=1754544600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754521008",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754546400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5707288c-648b-4aff-83df-48ddfabb7c7d_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754544600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Duoyi Liu Interview coaching",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/429839619",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=9c6b371f-d986-4f30-854f-e62bbf13f2b6&originalTime=0&startTime=1755057600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753332711",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755059400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9c6b371f-d986-4f30-854f-e62bbf13f2b6_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755057600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "2nd JSS Aaron Kinghorn",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/446580917",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=58a808f5-8492-4009-9e01-fca7e2d4d039&originalTime=0&startTime=1754438400",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1754525532",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-07",
+          "timezone": "UTC"
+        },
+        "event_id": "58a808f5-8492-4009-9e01-fca7e2d4d039_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-08-06",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=3bbcaf4c-4e20-4925-a5bd-342573a6d5d9&originalTime=0&startTime=1755750600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754546212",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755752400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3bbcaf4c-4e20-4925-a5bd-342573a6d5d9_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755750600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": " 4th JSS Cheng Zhi Wan - CPT very nice",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/915403037",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=d6c1973f-3ed9-4d67-91ee-cf1a99c576bd&originalTime=0&startTime=1755736200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754609784",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755738000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d6c1973f-3ed9-4d67-91ee-cf1a99c576bd_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755736200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Guoting Zhang",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/401125878",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=686ac267-132e-42d3-a455-ee63a89cb6d3&originalTime=0&startTime=1754616600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754282398",
+        "description": "ECs as mentioned,  this workshop will be the final consultation and training session to embed learnings and make any changes to our NEW, BETTER LMA template. This will be your opportunity to ask any questions (to limit the track changes for subsequent LMA submissions) or suggest any improvements to be made to make your jobs easier. \n\nTLs - please invite your Vocational Assessors who may be utilising their RC students as a resource to complete LMAs during their upcoming placement period, as a task recommended by me to allow you to fully assess RC competencies - mostly for Crystal as RC Student Supervisor and Coordinator.  \n",
+        "end_time": {
+          "timestamp": "1754621100",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "686ac267-132e-42d3-a455-ee63a89cb6d3_0",
+        "event_organizer": {
+          "display_name": "Anastasia Hadjidemetri",
+          "user_id": "ou_d4c505df7178c2c156d78f186da65986"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_Ockl2Wb2dn03HR74X75qBf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754616600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "LMA workshop",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/871150968",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=e421e1fa-0eb6-4ab7-a549-3dd9bafdf492&originalTime=0&startTime=1754890200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754792798",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754892000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e421e1fa-0eb6-4ab7-a549-3dd9bafdf492_0",
+        "event_organizer": {
+          "display_name": "Jessica Elguindy",
+          "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754890200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Team Meeting - strategies to optimise employer leads unique to clients unique RTW goals",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/207056439",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=40fab205-e74e-4d16-b7dc-2069c2d58158&originalTime=0&startTime=1755046800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753935887",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755048600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "40fab205-e74e-4d16-b7dc-2069c2d58158_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755046800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "3nd JSS Mario Gomes",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/206198640",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=8d768907-7ed0-453d-8ee0-4042a9ed53a1&originalTime=0&startTime=1755842400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754892387",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755844200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8d768907-7ed0-453d-8ee0-4042a9ed53a1_0",
+        "event_organizer": {
+          "display_name": "Jessica Elguindy",
+          "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755842400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "End of week celebration",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/545795414",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=a2b2240c-e189-4144-8164-abd7d3213252&originalTime=0&startTime=1755475200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754892342",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755478800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a2b2240c-e189-4144-8164-abd7d3213252_0",
+        "event_organizer": {
+          "display_name": "Jessica Elguindy",
+          "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755475200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "EC Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/646262102",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=c3a72f9d-03f2-40fb-8da0-f4bc7d4864e0&originalTime=0&startTime=1761798600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754546247",
+        "description": "",
+        "end_time": {
+          "timestamp": "1761800400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c3a72f9d-03f2-40fb-8da0-f4bc7d4864e0_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1761798600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "6th JSS Xutong Yan Y12 student (Hold) ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/414576925",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=4d7336d7-885f-458a-a7ba-076605cf1d0e&originalTime=0&startTime=1756342800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755059811",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756344600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4d7336d7-885f-458a-a7ba-076605cf1d0e_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756342800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "3rd JSS Aaron Kinghorn",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/267325980",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=736b50de-3a8c-4713-bff4-c396d064ee4f&originalTime=0&startTime=1755833400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755047883",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755837000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "736b50de-3a8c-4713-bff4-c396d064ee4f_0",
+        "event_organizer": {
+          "display_name": "Anastasia Hadjidemetri",
+          "user_id": "ou_d4c505df7178c2c156d78f186da65986"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_Ockl2Wb2dn03HR74X75qBf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755833400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/278425925",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=3389d3d0-e041-4de3-935d-c85e9c963e6c&originalTime=0&startTime=1756785600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755147290",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756787400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3389d3d0-e041-4de3-935d-c85e9c963e6c_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756785600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Thuy Li Liu",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/477839702",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=a1550617-f7e8-42a7-9893-863d2e368615&originalTime=0&startTime=1756774800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755566162",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756776600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a1550617-f7e8-42a7-9893-863d2e368615_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756774800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "6th JSS Zhiyong Yang",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/970870209",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=8d4830a1-20a7-4e98-90bf-435adcc8b5fa&originalTime=0&startTime=1755576000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754358902",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755577800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8d4830a1-20a7-4e98-90bf-435adcc8b5fa_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755576000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Qi Biao Tang - delivery driver",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/511407496",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=91af6c80-3aae-48da-a15b-7a5a1b69109a&originalTime=0&startTime=1755565200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753402169",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755567000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "91af6c80-3aae-48da-a15b-7a5a1b69109a_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755565200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Baoling Lyu 吕- Kitchen Hand",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/153539013",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=fdce250c-9f99-4c30-9336-bf827ce151ab&originalTime=0&startTime=1755738000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755572503",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755739800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fdce250c-9f99-4c30-9336-bf827ce151ab_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755738000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Baoling Lyu 吕- Kitchen Hand",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/642210090",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=0764dd7a-3a10-481c-96e4-5cd7abae7589&originalTime=0&startTime=1756699200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755577350",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756701000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0764dd7a-3a10-481c-96e4-5cd7abae7589_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756699200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "2nd JSS Qi Biao Tang - delivery driver",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/280969779",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=05c8dce0-33cb-4967-8507-44780481f409&originalTime=0&startTime=1756787400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755578350",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756789200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "05c8dce0-33cb-4967-8507-44780481f409_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756787400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "8th JSS Emma Jackson Whatsapp",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/340027300",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=59fe1eaa-7545-4f3f-bbfd-590afbb59df1&originalTime=0&startTime=1756252800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755578371",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756254600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "59fe1eaa-7545-4f3f-bbfd-590afbb59df1_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756252800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Prepare checklist for Emma",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/629347068",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=7d27d4d0-402f-4aa2-b288-ec9a32f60614&originalTime=0&startTime=1756355400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755133789",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756357200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7d27d4d0-402f-4aa2-b288-ec9a32f60614_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756355400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "2nd JSS Hong Wu Shao ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/521236023",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=62881e55-577a-4572-a358-f99714ff6b7c&originalTime=0&startTime=1756258200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755582001",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756260000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "62881e55-577a-4572-a358-f99714ff6b7c_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756258200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Prepare for Qi Biao Tang resume",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/846650211",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=c99d29fd-2d3d-4b1d-a426-0484eb0beda6&originalTime=0&startTime=1755748800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755063752",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755750600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c99d29fd-2d3d-4b1d-a426-0484eb0beda6_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755748800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "7th JSS Bingyu Zhai",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/120416932",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=8494e023-4ed4-49f3-ae34-5aba84da36b3&originalTime=0&startTime=1755838800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754003775",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755840600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8494e023-4ed4-49f3-ae34-5aba84da36b3_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755838800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "10th JSS Lina Diaz",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/736058648",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=d34ab9d8-7b66-43de-9888-a3cc57dbbcb5&originalTime=0&startTime=1756346400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754609639",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756348200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d34ab9d8-7b66-43de-9888-a3cc57dbbcb5_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756346400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "PT",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/469162086",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=72d9ea24-8879-4304-8dc0-dcfd2c63c544&originalTime=0&startTime=1756945800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755739092",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756947600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "72d9ea24-8879-4304-8dc0-dcfd2c63c544_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756945800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "2nd JSS Guoting Zhang",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/435313720",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=ee414e57-1872-4357-9640-83e187cedb0a&originalTime=0&startTime=1756947600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755739136",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756949400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ee414e57-1872-4357-9640-83e187cedb0a_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756947600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "2nd JSS Baoling Lyu 吕- Kitchen Hand",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/648011686",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=2e6623f1-423b-4291-ba70-00a2d3d66c6d&originalTime=0&startTime=1756427400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755741239",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756429200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2e6623f1-423b-4291-ba70-00a2d3d66c6d_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756427400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "prepare for Guoting Zhang/Baoling Lyu resume",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/411977396",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=0b33af32-2e15-4d61-84aa-4ef372e1e065&originalTime=0&startTime=1756094400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752715399",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756096200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0b33af32-2e15-4d61-84aa-4ef372e1e065_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756094400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "2nd JSS Ian Castillo Weekly Job log",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/113780915",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=31bd38d9-0a0c-405f-8a41-064ab0213022&originalTime=0&startTime=1756690200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755750030",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756692000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "31bd38d9-0a0c-405f-8a41-064ab0213022_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756690200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "8th JSS Bingyu Zhai",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/409151854",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=22921a8d-d739-420e-89e0-fa43b1385109&originalTime=0&startTime=1756962000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755751405",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756963800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "22921a8d-d739-420e-89e0-fa43b1385109_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756962000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "5th JSS Cheng Zhi Wan - CPT very nice",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/667829637",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=790d6a69-5b2d-4936-a621-281490ba9f12&originalTime=0&startTime=1756951200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755823056",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756953000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "790d6a69-5b2d-4936-a621-281490ba9f12_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756951200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "PT",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/645313371",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=12bbddde-4c2d-4ce2-8a62-2b9b31861a35&originalTime=0&startTime=1756773000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755823116",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756774800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "12bbddde-4c2d-4ce2-8a62-2b9b31861a35_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756773000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Alejandra Gutierrez Rojas",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/973052447",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=972e069b-dc48-421d-9191-bf599a767e59&originalTime=0&startTime=1758160800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752216401",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758162600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "972e069b-dc48-421d-9191-bf599a767e59_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758160800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "PT",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/104478254",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=ae408dcf-6075-4b33-9f6d-c76b30f2fab4&originalTime=0&startTime=1759370400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752216416",
+        "description": "",
+        "end_time": {
+          "timestamp": "1759372200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ae408dcf-6075-4b33-9f6d-c76b30f2fab4_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1759370400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "PT",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/405686790",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=e4ef4b5f-c8dd-48d6-a105-184bd9a4fe11&originalTime=0&startTime=1757397600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752128346",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757399400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e4ef4b5f-c8dd-48d6-a105-184bd9a4fe11_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757397600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "3rd JSS Richard Tian - only 6 JSS",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/444762124",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=c424e2a4-983d-4a54-9025-21f13c8b9a01&originalTime=0&startTime=1756101600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755839816",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756105200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c424e2a4-983d-4a54-9025-21f13c8b9a01_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756101600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New VOC Template - Q &A",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/921203407",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=2ed77852-7aa2-43a2-8947-c92d18d52615&originalTime=0&startTime=1756078200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755741885",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756080000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2ed77852-7aa2-43a2-8947-c92d18d52615_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756078200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "contact new client Jiaqing He ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/498155777",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=98676005-3223-4131-83ba-5158b517615d&originalTime=0&startTime=1756254600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754974388",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756256400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "98676005-3223-4131-83ba-5158b517615d_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756254600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "prepare for Xiaochun Lin resume",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/570316795",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=6fde94c2-defe-4d22-b6e7-7a933647b658&originalTime=0&startTime=1756258200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755479211",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756260000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6fde94c2-defe-4d22-b6e7-7a933647b658_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756258200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hong Wu Shao resume",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/626830397",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=e1aab6b8-490b-4c42-9bd7-aa179543448f&originalTime=0&startTime=1756081800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755863963",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756083600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e1aab6b8-490b-4c42-9bd7-aa179543448f_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756081800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "job seeking skill checklist - Lina",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/264891307",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=ff18dd0d-43a7-4834-8a94-668528b92e1d&originalTime=0&startTime=1756080000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756078184",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756081800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ff18dd0d-43a7-4834-8a94-668528b92e1d_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756080000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Maya Delluci",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/998958731",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=2cb8f85c-fed9-46af-af8b-44bb91ee227f&originalTime=0&startTime=1755648000",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1756086274",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-21",
+          "timezone": "UTC"
+        },
+        "event_id": "2cb8f85c-fed9-46af-af8b-44bb91ee227f_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-08-20",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=6b3d66f5-d571-4087-900a-9e64368a0c25&originalTime=0&startTime=1756252800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755050868",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756254600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6b3d66f5-d571-4087-900a-9e64368a0c25_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756252800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Cold Canvasing for Geofery Wright",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/726222196",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=3321265c-5e6b-48f9-a4a0-d25ca6bb1a92&originalTime=0&startTime=1756170000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755048597",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756171800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3321265c-5e6b-48f9-a4a0-d25ca6bb1a92_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756170000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "4th JSS Mario Gomes",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/567274510",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=7b16bef1-1c56-4375-96d3-7d4fd86b90fc&originalTime=0&startTime=1756168200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754961152",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756170000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7b16bef1-1c56-4375-96d3-7d4fd86b90fc_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756168200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "6th JSS Xuetao Yue",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/789046144",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=667ff61c-98f6-4797-b3af-7a21db66a736&originalTime=0&startTime=1756875600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756098475",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756877400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "667ff61c-98f6-4797-b3af-7a21db66a736_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756875600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "3rd JSS Ian Castillo Weekly Job log",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/388854085",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=325811ef-4180-442b-871e-2746b673d36d&originalTime=0&startTime=1757046600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756096288",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757048400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "325811ef-4180-442b-871e-2746b673d36d_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757046600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "1st JSS Jiaqing He",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/273148925",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=b802b49a-e3bc-4155-b9be-77a2ab321685&originalTime=0&startTime=1757379600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756171127",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757381400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b802b49a-e3bc-4155-b9be-77a2ab321685_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757379600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "5th JSS Mario Gomes",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/313835935",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=57b4967e-abaa-494b-9d56-4894a9227ea3&originalTime=0&startTime=1757377800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756169268",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757379600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "57b4967e-abaa-494b-9d56-4894a9227ea3_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757377800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "7th JSS Xuetao Yue",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/547067291",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=db088a9a-8836-4dad-8eca-4e0a0fe6f6f9&originalTime=0&startTime=1756180800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754972286",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756182600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db088a9a-8836-4dad-8eca-4e0a0fe6f6f9_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756180800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "2nd JSS Xiaochun Lin very nice no education - 6JSS - 4 cold Cancassing",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/854606353",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=070ebacc-367d-4395-962c-edaab02bdcd8&originalTime=0&startTime=1757392200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756182476",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757394000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "070ebacc-367d-4395-962c-edaab02bdcd8_0",
+        "event_organizer": {
+          "display_name": "Olivia Ouyang",
+          "user_id": "ou_b6255fab2409ac924652005ac7c365b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_V4c5Kk5FxrJTWL6UTGmUqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757392200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "3th JSS Xiaochun Lin very nice no education - 6JSS - 4 cold Cancassing",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/562129674",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=4aed6f02-a9a9-4be2-b5b1-0208e0b31ee0&originalTime=0&startTime=1755819000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755742296",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755820800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4aed6f02-a9a9-4be2-b5b1-0208e0b31ee0_0",
+        "event_organizer": {
+          "display_name": "Jessica Elguindy",
+          "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755819000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Catch up - Olivia",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/857882881",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7341233864172601350&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 78,
+    "original_count": 88,
+    "cancelled_count": 10,
+    "empty_summary_count": 0,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:26.857617"
+  }
+}

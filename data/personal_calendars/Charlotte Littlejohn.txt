@@ -1,0 +1,2523 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=0a2bf679-acaf-4b3d-aea3-8e6e03df6d98&originalTime=0&startTime=1721797200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1721173840",
+        "description": "",
+        "end_time": {
+          "timestamp": "1721800800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0a2bf679-acaf-4b3d-aea3-8e6e03df6d98_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=14",
+        "start_time": {
+          "timestamp": "1721797200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review Meeting ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/209499293",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=b725283f-dcec-4f75-aab4-849f801fde15&originalTime=0&startTime=1722384000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1722222477",
+        "description": "",
+        "end_time": {
+          "timestamp": "1722387600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b725283f-dcec-4f75-aab4-849f801fde15_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=MONTHLY;INTERVAL=1;BYDAY=5WE",
+        "start_time": {
+          "timestamp": "1722384000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Joey",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/740825824",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=873de7f2-54be-45fb-becc-751542586e2b&originalTime=0&startTime=1743724800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1741128099",
+        "description": "",
+        "end_time": {
+          "date": "2025-04-05",
+          "timezone": "UTC"
+        },
+        "event_id": "873de7f2-54be-45fb-becc-751542586e2b_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=MONTHLY;UNTIL=20260504T135959Z;INTERVAL=1;BYMONTHDAY=4",
+        "start_time": {
+          "date": "2025-04-04",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Christiana PR Due",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/869270073",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=916ef33e-640c-4c9f-add2-b9bf7bfb9d5a&originalTime=0&startTime=1760563800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1744872395",
+        "description": "",
+        "end_time": {
+          "timestamp": "1760565600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "916ef33e-640c-4c9f-add2-b9bf7bfb9d5a_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_BjdJADmloWcp71HQBAWUgd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1760563800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Durability 26 Dian Zhao",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/278554362"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=513f597e-a0a9-4b5b-a5af-7b0c65f75f92&originalTime=0&startTime=1756679400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1744872441",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756681200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "513f597e-a0a9-4b5b-a5af-7b0c65f75f92_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_BjdJADmloWcp71HQBAWUgd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756679400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Durability 26 Younsuck Woo",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/628257824",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=8543f65b-5613-485b-91bc-92db60b6d29e&originalTime=0&startTime=1748394000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748169051",
+        "description": "",
+        "end_time": {
+          "timestamp": "1748397600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8543f65b-5613-485b-91bc-92db60b6d29e_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=1;BYDAY=WE",
+        "start_time": {
+          "timestamp": "1748394000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Jenna",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/411360864",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=2626958f-817b-4c6f-8547-1b9874cf2e01&originalTime=0&startTime=1757376000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748588833",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-10",
+          "timezone": "UTC"
+        },
+        "event_id": "2626958f-817b-4c6f-8547-1b9874cf2e01_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-09",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Elaine Bday",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/490075091",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=aeec87e7-9271-433a-9169-335ccd73eced&originalTime=0&startTime=1759017600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748588852",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-29",
+          "timezone": "UTC"
+        },
+        "event_id": "aeec87e7-9271-433a-9169-335ccd73eced_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-28",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Winnie Bday",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/871785098",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=a6a30ebe-6ce6-4856-a5ad-752ffc4d6970&originalTime=0&startTime=1761696000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748588870",
+        "description": "",
+        "end_time": {
+          "date": "2025-10-30",
+          "timezone": "UTC"
+        },
+        "event_id": "a6a30ebe-6ce6-4856-a5ad-752ffc4d6970_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-10-29",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Amelia Bday",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/958731545",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=ad693cc1-2939-4dae-a52c-83b339b6d2f5&originalTime=0&startTime=1762473600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1748588885",
+        "description": "",
+        "end_time": {
+          "date": "2025-11-08",
+          "timezone": "UTC"
+        },
+        "event_id": "ad693cc1-2939-4dae-a52c-83b339b6d2f5_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-11-07",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Pranshu Bday",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/835469246",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7ffa05ec-ef71-4294-914c-d66c855693b3&originalTime=0&startTime=1748818800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1746584618",
+        "description": "",
+        "end_time": {
+          "timestamp": "1748824200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7ffa05ec-ef71-4294-914c-d66c855693b3_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=MONTHLY;INTERVAL=1;BYDAY=1MO",
+        "start_time": {
+          "timestamp": "1748818800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review Capacity/Stats",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/787500614",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7d8e3a20-1248-4edf-9242-71769acfbc5d&originalTime=0&startTime=1749607200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1749518665",
+        "description": "",
+        "end_time": {
+          "timestamp": "1749610800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7d8e3a20-1248-4edf-9242-71769acfbc5d_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=1;BYDAY=WE",
+        "start_time": {
+          "timestamp": "1749607200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Devanshi",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/313445779",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=5b96c50e-05cc-4e41-ac15-b716ccf95395&originalTime=0&startTime=1750914000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1749794446",
+        "description": "",
+        "end_time": {
+          "timestamp": "1750917600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5b96c50e-05cc-4e41-ac15-b716ccf95395_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=MONTHLY;INTERVAL=1;BYDAY=4TH",
+        "start_time": {
+          "timestamp": "1750914000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Jess",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/762369317",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=0&startTime=1743130800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1741923081",
+        "description": "",
+        "end_time": {
+          "timestamp": "1743134400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=14",
+        "start_time": {
+          "timestamp": "1743130800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=24aa23cd-401e-4fa4-8416-f13a38770f44&originalTime=0&startTime=1746752400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1745821242",
+        "description": "",
+        "end_time": {
+          "timestamp": "1746756000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "24aa23cd-401e-4fa4-8416-f13a38770f44_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=42",
+        "start_time": {
+          "timestamp": "1746752400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "EP/PT Crew ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/217993845",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=9f546a6c-6415-4ba5-9249-df149162f2a9&originalTime=0&startTime=1759795200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752454887",
+        "description": "",
+        "end_time": {
+          "date": "2025-10-08",
+          "timezone": "UTC"
+        },
+        "event_id": "9f546a6c-6415-4ba5-9249-df149162f2a9_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-10-07",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Oscar Gutierrez 26 wk durability",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/381073066",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1756440000&startTime=1756440000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754871978",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756443600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1756440000",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1756440000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=b210ea57-eb12-4664-885b-9f87a163127e&originalTime=0&startTime=1755043200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754875383",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755046800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b210ea57-eb12-4664-885b-9f87a163127e_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=1;BYDAY=WE",
+        "start_time": {
+          "timestamp": "1755043200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Lucinda",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/112330603",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=2b6466bb-78c4-4585-bb70-be10287e3205&originalTime=0&startTime=1756858500",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754893739",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756862100",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2b6466bb-78c4-4585-bb70-be10287e3205_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756858500",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Meg Bruce MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/501544523",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=98f9cc1e-a1f8-4521-94b7-08f59fe7aa5b&originalTime=0&startTime=1756857600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754893750",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756858500",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "98f9cc1e-a1f8-4521-94b7-08f59fe7aa5b_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756857600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/667605094",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=36801622-4e84-4d1b-8ca4-764c19511f60&originalTime=0&startTime=1755561600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754890861",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-20",
+          "timezone": "UTC"
+        },
+        "event_id": "36801622-4e84-4d1b-8ca4-764c19511f60_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=1;BYDAY=TU",
+        "start_time": {
+          "date": "2025-08-19",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "WFH",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/256531770",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=fa1ab9e8-531c-4396-925f-2d13074e79ea&originalTime=0&startTime=1756267200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755142916",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fa1ab9e8-531c-4396-925f-2d13074e79ea_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=WE",
+        "start_time": {
+          "timestamp": "1756267200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Winnie",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/638718458",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=4d697987-e1e6-47e5-b47e-b71f03d425b0&originalTime=0&startTime=1756094400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755217229",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756099800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4d697987-e1e6-47e5-b47e-b71f03d425b0_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=14",
+        "start_time": {
+          "timestamp": "1756094400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Vidisha ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/998467018",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=d3a6b3bc-c5e2-4739-92e8-e70dd047e603&originalTime=0&startTime=1756339200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755645437",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-29",
+          "timezone": "UTC"
+        },
+        "event_id": "d3a6b3bc-c5e2-4739-92e8-e70dd047e603_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=1;BYDAY=TH",
+        "start_time": {
+          "date": "2025-08-28",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "WFH",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/865235544",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=8543f65b-5613-485b-91bc-92db60b6d29e&originalTime=1756256400&startTime=1756256400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755667392",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756260000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8543f65b-5613-485b-91bc-92db60b6d29e_1756256400",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "8543f65b-5613-485b-91bc-92db60b6d29e_0",
+        "start_time": {
+          "timestamp": "1756256400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Jenna",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/411360864",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=5b96c50e-05cc-4e41-ac15-b716ccf95395&originalTime=1756357200&startTime=1756270800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755822707",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756274400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5b96c50e-05cc-4e41-ac15-b716ccf95395_1756357200",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "5b96c50e-05cc-4e41-ac15-b716ccf95395_0",
+        "start_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Jess",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/762369317",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7d8e3a20-1248-4edf-9242-71769acfbc5d&originalTime=1758679200&startTime=1758679200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755833898",
+        "description": "5-month mark\n",
+        "end_time": {
+          "timestamp": "1758684600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7d8e3a20-1248-4edf-9242-71769acfbc5d_1758679200",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "7d8e3a20-1248-4edf-9242-71769acfbc5d_0",
+        "start_time": {
+          "timestamp": "1758679200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case/Training Review - Devanshi",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/313445779",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=4d697987-e1e6-47e5-b47e-b71f03d425b0&originalTime=1756094400&startTime=1756085400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755478468",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756090800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4d697987-e1e6-47e5-b47e-b71f03d425b0_1756094400",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "4d697987-e1e6-47e5-b47e-b71f03d425b0_0",
+        "start_time": {
+          "timestamp": "1756085400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Vidisha ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/998467018",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=cd9287ac-0c5e-47ce-8d40-cd7fb79b5954&originalTime=0&startTime=1759460400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756100879",
+        "description": "Ratha Pov \n",
+        "end_time": {
+          "timestamp": "1759467600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cd9287ac-0c5e-47ce-8d40-cd7fb79b5954_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1759460400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Medico-legal FCE ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/338824688",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=98f28cb4-c480-4fd8-9f48-744825b7158f&originalTime=0&startTime=1756303200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756182803",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756823400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "98f28cb4-c480-4fd8-9f48-744825b7158f_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756303200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jess on Leave",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/152786769",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=fa1ab9e8-531c-4396-925f-2d13074e79ea&originalTime=1756267200&startTime=1756431000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756266691",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756434600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fa1ab9e8-531c-4396-925f-2d13074e79ea_1756267200",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "fa1ab9e8-531c-4396-925f-2d13074e79ea_0",
+        "start_time": {
+          "timestamp": "1756431000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Winnie",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/638718458",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=b5cef461-9ddc-4e4b-9893-78550e0edbea&originalTime=1757466000&startTime=1757635200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756276796",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757638800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b5cef461-9ddc-4e4b-9893-78550e0edbea_1757466000",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "b5cef461-9ddc-4e4b-9893-78550e0edbea_0",
+        "start_time": {
+          "timestamp": "1757635200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Joey",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/869865409",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=b5cef461-9ddc-4e4b-9893-78550e0edbea&originalTime=0&startTime=1744160400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1743054903",
+        "description": "",
+        "end_time": {
+          "timestamp": "1744164000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b5cef461-9ddc-4e4b-9893-78550e0edbea_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=MONTHLY;UNTIL=20251007T125959Z;INTERVAL=1;WKST=MO;BYDAY=2WE",
+        "start_time": {
+          "timestamp": "1744160400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Joey",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/869865409",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=a4f957ae-5f24-448e-9f4e-8d9fa9320c60&originalTime=0&startTime=1760050800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756335657",
+        "description": "",
+        "end_time": {
+          "timestamp": "1760054400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a4f957ae-5f24-448e-9f4e-8d9fa9320c60_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=MONTHLY;INTERVAL=1;BYDAY=2FR",
+        "start_time": {
+          "timestamp": "1760050800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Joey",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/869865409",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=8543f65b-5613-485b-91bc-92db60b6d29e&originalTime=1756861200&startTime=1756872000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756335685",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756875600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8543f65b-5613-485b-91bc-92db60b6d29e_1756861200",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "8543f65b-5613-485b-91bc-92db60b6d29e_0",
+        "start_time": {
+          "timestamp": "1756872000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Jenna",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/411360864",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7d8e3a20-1248-4edf-9242-71769acfbc5d&originalTime=1756864800&startTime=1756868400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756335697",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756872000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7d8e3a20-1248-4edf-9242-71769acfbc5d_1756864800",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "7d8e3a20-1248-4edf-9242-71769acfbc5d_0",
+        "start_time": {
+          "timestamp": "1756868400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Devanshi",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/313445779",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=3c14ba43-5036-42c1-a6b8-fb0bdf64a357&originalTime=0&startTime=1756690200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756082931",
+        "description": "Van Dang Le - Dr Sarah\n",
+        "end_time": {
+          "timestamp": "1756692000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3c14ba43-5036-42c1-a6b8-fb0bdf64a357_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_O5ZBV27jlRk9ptQvmlaRLb@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756690200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lucinda F2F MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/691334634",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=6f434b7e-bff1-46bd-a983-3fd5065f5945&originalTime=0&startTime=1756862100",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754893760",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756863900",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6f434b7e-bff1-46bd-a983-3fd5065f5945_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756862100",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/793082516",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=280dea67-2abc-4acf-bcea-477e94dd5b6c&originalTime=0&startTime=1756702800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756680377",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756704600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "280dea67-2abc-4acf-bcea-477e94dd5b6c_0",
+        "event_organizer": {
+          "display_name": "Winnie Liang",
+          "user_id": "ou_e114e01461165b827d74ebb2595e5fa8"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_9946OZ3XRRVh2XATrDUsKc@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756702800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hong Wu Shao handover ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/868366805",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=c54605d6-a224-4b23-b5df-7c151aa05997&originalTime=0&startTime=1758844800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756691049",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758848400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c54605d6-a224-4b23-b5df-7c151aa05997_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758844800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jenna - End of Probation",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/699816458",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=99796517-b00d-4f6f-8a26-d97c194d83cf&originalTime=0&startTime=1756942200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755064826",
+        "description": "Mukhtar Malik\nSheik Tohid\n",
+        "end_time": {
+          "timestamp": "1756951200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "99796517-b00d-4f6f-8a26-d97c194d83cf_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756942200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NRMA Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/456325244",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=e16772b1-1ce8-4bab-870a-4007dbf2dffb&originalTime=0&startTime=1756879200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756701169",
+        "description": "Mukhtar Malik\nSheik Tohid\n",
+        "end_time": {
+          "timestamp": "1756882800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e16772b1-1ce8-4bab-870a-4007dbf2dffb_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756879200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NRMA Prep",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/795939988",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=1b077c1c-fe55-4085-b7f4-2d129024ad20&originalTime=0&startTime=1757484000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756703541",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757487600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "1b077c1c-fe55-4085-b7f4-2d129024ad20_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757484000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/594507127",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=8543f65b-5613-485b-91bc-92db60b6d29e&originalTime=1757466000&startTime=1757466000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756705297",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757469600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8543f65b-5613-485b-91bc-92db60b6d29e_1757466000",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "8543f65b-5613-485b-91bc-92db60b6d29e_0",
+        "start_time": {
+          "timestamp": "1757466000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Jenna",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/411360864",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=de0fc68b-4466-414f-9cf1-aa0b221cf0db&originalTime=0&startTime=1758168000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756706239",
+        "description": "Brian Fredericks (not with Dr Zondar pls)\n",
+        "end_time": {
+          "timestamp": "1758169800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "de0fc68b-4466-414f-9cf1-aa0b221cf0db_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_O5ZBV27jlRk9ptQvmlaRLb@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758168000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Charlotte MCC ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/186368418",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=f1d085d8-d04e-4b39-bce7-ac6604c38914&originalTime=0&startTime=1758690000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756709582",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758697200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f1d085d8-d04e-4b39-bce7-ac6604c38914_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758690000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jenna probation review prep",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/329130392",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=8f25d65e-edd2-4176-b413-bcfea05c2972&originalTime=0&startTime=1757043000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756710132",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757044800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8f25d65e-edd2-4176-b413-bcfea05c2972_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757043000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lucinda/ Hannah - Leave Handover",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/387933997",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=b210ea57-eb12-4664-885b-9f87a163127e&originalTime=1756857600&startTime=1756854000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756335676",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756857600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b210ea57-eb12-4664-885b-9f87a163127e_1756857600",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "b210ea57-eb12-4664-885b-9f87a163127e_0",
+        "start_time": {
+          "timestamp": "1756854000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review/Training Update - Lucinda",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/112330603",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=8aa2b29d-0fc5-40de-a94c-f98cb5007361&originalTime=0&startTime=1757046600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756704017",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757048400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8aa2b29d-0fc5-40de-a94c-f98cb5007361_0",
+        "event_organizer": {
+          "display_name": "Joey Thong",
+          "user_id": "ou_a9d55f3c604d453354dce3669fa60307"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1TMFpzznyG8vCXEND49xgf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757046600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hua Xu Handover",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/545240746",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=75ea503f-30e0-46bf-ad45-3385c137008a&originalTime=0&startTime=1756850400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756706403",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756852200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "75ea503f-30e0-46bf-ad45-3385c137008a_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756850400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "PC Bingyu",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/937905397",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=ed384963-fe7f-4e12-8e13-09ea81ce2f32&originalTime=0&startTime=1757476800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756703513",
+        "description": "Strathfield Plaza - Dr Henry Gao\n",
+        "end_time": {
+          "timestamp": "1757484000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ed384963-fe7f-4e12-8e13-09ea81ce2f32_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757476800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Majd Zahr MCC and INA",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/587260882",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=422f4f2f-5152-480e-ab7a-969ebe3391bc&originalTime=0&startTime=1756963800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756711839",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756967400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "422f4f2f-5152-480e-ab7a-969ebe3391bc_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756963800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Stats Review ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/720942932",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=13d4e0d5-8ade-40c4-8279-82b07212b54a&originalTime=0&startTime=1756954800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756711763",
+        "description": "Acting Senior / Project Reviews \n",
+        "end_time": {
+          "timestamp": "1756958400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "13d4e0d5-8ade-40c4-8279-82b07212b54a_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756954800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/860611558",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=d4f2cddb-3ee5-4f33-b336-1945edefc805&originalTime=0&startTime=1760918400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756777759",
+        "description": "",
+        "end_time": {
+          "date": "2025-10-21",
+          "timezone": "UTC"
+        },
+        "event_id": "d4f2cddb-3ee5-4f33-b336-1945edefc805_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-10-20",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Danny Shiber Re-open",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/670688210",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=0fd206c4-7685-4ca1-8a9e-60c1aaba3b5d&originalTime=0&startTime=1758495600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756778322",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758497400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0fd206c4-7685-4ca1-8a9e-60c1aaba3b5d_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758495600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Contact Mohammed Physio",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/322710312",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7eb297e4-6021-4042-ad9c-3d4583b0e3c7&originalTime=0&startTime=1757264400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756785006",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757611800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7eb297e4-6021-4042-ad9c-3d4583b0e3c7_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757264400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Winnie on Leave",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/878100164",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=259f9a30-87ee-4974-916c-6fed946c5981&originalTime=0&startTime=1759359600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756100929",
+        "description": "",
+        "end_time": {
+          "timestamp": "1759374000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "259f9a30-87ee-4974-916c-6fed946c5981_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1759359600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Medico FCE Prep",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/623315801",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=db42d57a-eeea-4523-a0af-902fc3d5fd4c&originalTime=0&startTime=1756944000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756710175",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-05",
+          "timezone": "UTC"
+        },
+        "event_id": "db42d57a-eeea-4523-a0af-902fc3d5fd4c_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "FREQ=MONTHLY;INTERVAL=1;BYDAY=1TH",
+        "start_time": {
+          "date": "2025-09-04",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "Monthly Bonus Noms ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/820687670",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7677ff0b-a4f1-4d5c-8497-c842fe090e1f&originalTime=0&startTime=1756940400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756880814",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756942200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7677ff0b-a4f1-4d5c-8497-c842fe090e1f_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756940400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Catch-up pre NRMA",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/267740670",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=e3949872-f844-49e5-b4d3-55fe86662394&originalTime=0&startTime=1757041200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756792519",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757043000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e3949872-f844-49e5-b4d3-55fe86662394_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757041200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review Ayusha/Yen closure ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/396400656",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=24aa23cd-401e-4fa4-8416-f13a38770f44&originalTime=1757638800&startTime=1758848400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756705301",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758852000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "24aa23cd-401e-4fa4-8416-f13a38770f44_1757638800",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "24aa23cd-401e-4fa4-8416-f13a38770f44_0",
+        "start_time": {
+          "timestamp": "1758848400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "EP/PT Crew ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/217993845",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1757649600&startTime=1757649600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757028977",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757653200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1757649600",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1757649600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=9959a904-5adb-459c-8902-088431118fd7&originalTime=0&startTime=1757377800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756347442",
+        "description": "Weicong Li \nWith Dr Zandor\n",
+        "end_time": {
+          "timestamp": "1757379600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9959a904-5adb-459c-8902-088431118fd7_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_O5ZBV27jlRk9ptQvmlaRLb@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757377800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lucinda MCC F2F",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=ed591f2f-4205-4fa7-9f21-9001f276c7fe&originalTime=0&startTime=1757995200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756702546",
+        "description": "Ali Ghazi \n",
+        "end_time": {
+          "timestamp": "1757997000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ed591f2f-4205-4fa7-9f21-9001f276c7fe_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Oaw46N4eN6TaREbLhnYBld@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757995200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Tele MCC Lucinda",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/979417667",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7ffa05ec-ef71-4294-914c-d66c855693b3&originalTime=1756681200&startTime=1756681200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757046273",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756690200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7ffa05ec-ef71-4294-914c-d66c855693b3_1756681200",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "7ffa05ec-ef71-4294-914c-d66c855693b3_0",
+        "start_time": {
+          "timestamp": "1756681200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review Capacity/Stats",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/787500614",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7ffa05ec-ef71-4294-914c-d66c855693b3&originalTime=1759701600&startTime=1759788000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757052508",
+        "description": "",
+        "end_time": {
+          "timestamp": "1759793400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7ffa05ec-ef71-4294-914c-d66c855693b3_1759701600",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "7ffa05ec-ef71-4294-914c-d66c855693b3_0",
+        "start_time": {
+          "timestamp": "1759788000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review Capacity/Stats",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/787500614",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=1d6b235d-dc28-4031-a0d4-a391a4d06788&originalTime=0&startTime=1759701600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757052520",
+        "description": "",
+        "end_time": {
+          "timestamp": "1759730400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "1d6b235d-dc28-4031-a0d4-a391a4d06788_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1759701600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Public Holiday",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/530732915",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=e39f10bc-fa03-466d-aad3-4a55ccb1eb73&originalTime=0&startTime=1757304000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757046301",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757309400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e39f10bc-fa03-466d-aad3-4a55ccb1eb73_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757304000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Winnie - Action Review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/849777307",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=43e6f37b-7d6a-4197-bcca-d8c9c9383320&originalTime=0&startTime=1757287800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756275282",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757289600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "43e6f37b-7d6a-4197-bcca-d8c9c9383320_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757287800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Handover Kim + Nondas",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/433257932",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=2f63d07a-9df2-4da2-b1d5-0e4e671660df&originalTime=0&startTime=1757473200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756703534",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757476800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2f63d07a-9df2-4da2-b1d5-0e4e671660df_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757473200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/685340023",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=606c1fdd-fff8-42de-9a1e-0f9d428623af&originalTime=0&startTime=1757309400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757290165",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757322000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "606c1fdd-fff8-42de-9a1e-0f9d428623af_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757309400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Doc Reviews",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/301766434",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=7d8e3a20-1248-4edf-9242-71769acfbc5d&originalTime=1757469600&startTime=1757462400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757290296",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757466000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7d8e3a20-1248-4edf-9242-71769acfbc5d_1757469600",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "7d8e3a20-1248-4edf-9242-71769acfbc5d_0",
+        "start_time": {
+          "timestamp": "1757462400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Devanshi",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/313445779",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=b210ea57-eb12-4664-885b-9f87a163127e&originalTime=1757462400&startTime=1757469600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757290302",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757473200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b210ea57-eb12-4664-885b-9f87a163127e_1757462400",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "b210ea57-eb12-4664-885b-9f87a163127e_0",
+        "start_time": {
+          "timestamp": "1757469600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Lucinda",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/112330603",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=4d697987-e1e6-47e5-b47e-b71f03d425b0&originalTime=1757304000&startTime=1757292300",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757049015",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757297700",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4d697987-e1e6-47e5-b47e-b71f03d425b0_1757304000",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "4d697987-e1e6-47e5-b47e-b71f03d425b0_0",
+        "start_time": {
+          "timestamp": "1757292300",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Review - Vidisha ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/998467018",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=d8f5d85e-b485-4606-b7ac-b23739484b50&originalTime=0&startTime=1757487600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757309837",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757489400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d8f5d85e-b485-4606-b7ac-b23739484b50_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757487600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "David FCE report due ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/129625085",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=ec3bbc9e-c4b3-422d-a5a7-4d494f17366e&originalTime=0&startTime=1757375100",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757050261",
+        "description": "Graham Taylor \n",
+        "end_time": {
+          "timestamp": "1757376900",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ec3bbc9e-c4b3-422d-a5a7-4d494f17366e_0",
+        "event_organizer": {
+          "display_name": "Lucinda Youssef",
+          "user_id": "ou_4bec6d78b992104a40d9627b16c1b1a7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_IKKVFCQCXy01WIylKpWP6a@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757375100",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Lucinda MCC Bathurst ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/387790501",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=5bb7453f-d364-47ee-b811-350d54ce9046&originalTime=0&startTime=1757379600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757310227",
+        "description": "Bingyu Zhai re LMA\nQiu re closure\nWilliam Ang re approval\nTuan re hold \n",
+        "end_time": {
+          "timestamp": "1757385000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5bb7453f-d364-47ee-b811-350d54ce9046_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757379600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Case Manager PCs",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/286345275",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=d6c9b3a3-ca3b-4f09-a3f8-0a290cdc313f&originalTime=0&startTime=1757372400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757310145",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757374200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d6c9b3a3-ca3b-4f09-a3f8-0a290cdc313f_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757372400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Bingyu PR send out",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/317745434",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=41cc3591-561b-40c6-9f77-8340c44cbfc2&originalTime=0&startTime=1757386800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757310285",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757392200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "41cc3591-561b-40c6-9f77-8340c44cbfc2_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757386800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "David FCE report",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/918106467",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=27f80ba6-8dfc-4a11-af97-b1a991df498b&originalTime=0&startTime=1757368800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757310300",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757372400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "27f80ba6-8dfc-4a11-af97-b1a991df498b_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757368800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Allocations",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/379203939",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 80,
+    "original_count": 116,
+    "cancelled_count": 35,
+    "empty_summary_count": 1,
+    "query_start_time": 1756648800,
+    "query_end_time": 1764507599,
+    "retrieved_at": "2025-09-08T16:14:58.760432"
+  }
+}
