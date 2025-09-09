@@ -1,0 +1,410 @@
+{
+  "comparison_time": "2025-08-11T13:00:31.904102",
+  "last_fetch_time": "2025-08-11T12:11:10.999701",
+  "new_events_summary": {
+    "Charlotte Littlejohn": {
+      "calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+      "new_events_count": 1,
+      "new_events": [
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7193153725500882950&key=de56edb8-df72-47b6-bbac-66fcd5704e89&originalTime=0&startTime=1755235800",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "create_time": "1754878497",
+          "description": "",
+          "end_time": {
+            "timestamp": "1755238500",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "de56edb8-df72-47b6-bbac-66fcd5704e89_0",
+          "event_organizer": {
+            "display_name": "Charlotte Littlejohn",
+            "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_o4LdcwngCezq1G5LGddS0d@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1755235800",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "Jack Hui Interview",
+          "vchat": {
+            "meeting_url": "https://vc-sg.larksuite.com/j/876592244",
+            "vc_type": "vc"
+          },
+          "visibility": "default"
+        }
+      ]
+    },
+    "Jessica Elguindy": {
+      "calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+      "new_events_count": 5,
+      "new_events": [
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7374552127324209158&key=05c6e962-d498-452d-ba1d-78789268ded6&originalTime=0&startTime=1755475200",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "description": "",
+          "end_time": {
+            "date": "2025-08-19",
+            "timezone": "UTC"
+          },
+          "event_id": "05c6e962-d498-452d-ba1d-78789268ded6_0",
+          "event_organizer": {
+            "display_name": "Jessica Elguindy",
+            "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+          },
+          "free_busy_status": "free",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "date": "2025-08-18",
+            "timezone": "UTC"
+          },
+          "status": "confirmed",
+          "summary": "",
+          "visibility": "default"
+        },
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7374552127324209158&key=40c55413-cf6b-4cf6-ab9e-53f611746a09&originalTime=0&startTime=1755216000",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "description": "",
+          "end_time": {
+            "date": "2025-08-16",
+            "timezone": "UTC"
+          },
+          "event_id": "40c55413-cf6b-4cf6-ab9e-53f611746a09_0",
+          "event_organizer": {
+            "display_name": "Jessica Elguindy",
+            "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+          },
+          "free_busy_status": "free",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "date": "2025-08-15",
+            "timezone": "UTC"
+          },
+          "status": "confirmed",
+          "summary": "",
+          "visibility": "default"
+        },
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7374552127324209158&key=c37e096d-9271-43a2-887a-2b39bbdeea8c&originalTime=0&startTime=1755131400",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "description": "",
+          "end_time": {
+            "timestamp": "1755133200",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "c37e096d-9271-43a2-887a-2b39bbdeea8c_0",
+          "event_organizer": {
+            "display_name": "Jessica Elguindy",
+            "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1755131400",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "",
+          "visibility": "default"
+        },
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7374552127324209158&key=166ecf2a-f0ed-46f3-9714-3881d32a05ea&originalTime=0&startTime=1755061200",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "description": "",
+          "end_time": {
+            "timestamp": "1755063000",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "166ecf2a-f0ed-46f3-9714-3881d32a05ea_0",
+          "event_organizer": {
+            "display_name": "Jessica Elguindy",
+            "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1755061200",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "",
+          "visibility": "default"
+        },
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7374552127324209158&key=eb870f0b-f579-478b-af51-177cc51b9b64&originalTime=0&startTime=1754974800",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "description": "",
+          "end_time": {
+            "timestamp": "1754976600",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "eb870f0b-f579-478b-af51-177cc51b9b64_0",
+          "event_organizer": {
+            "display_name": "Jessica Elguindy",
+            "user_id": "ou_eec64bb60a45738f476e4fe63741f251"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_47qKyzwQMejZrqWXRkRZje@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1754974800",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "",
+          "visibility": "default"
+        }
+      ]
+    },
+    "Amelia Leavey": {
+      "calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+      "new_events_count": 3,
+      "new_events": [
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7382047981971800069&key=040000008200E00074C5B7101A82E008000000007093C7E2B90ADC01000000000000000010000000F0FF748F87530746A13E095CB6B9D77A&originalTime=0&startTime=0",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "description": "",
+          "end_time": {
+            "timestamp": "0",
+            "timezone": ""
+          },
+          "event_id": "040000008200E00074C5B7101A82E008000000007093C7E2B90ADC01000000000000000010000000F0FF748F87530746A13E095CB6B9D77A_0",
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "location": {
+            "address": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Microsoft Teams Meeting"
+          },
+          "organizer_calendar_id": "feishu.cn_WeU8UvLF4V6vxhnplEhjnd@group.calendar.feishu.cn",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "0",
+            "timezone": ""
+          },
+          "status": "confirmed",
+          "summary": "",
+          "visibility": "default"
+        },
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7382047981971800069&key=2e91bd1a-834e-4056-92f5-188c3ac647fe&originalTime=0&startTime=1755042300",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "create_time": "1754880212",
+          "description": "",
+          "end_time": {
+            "timestamp": "1755045900",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "2e91bd1a-834e-4056-92f5-188c3ac647fe_0",
+          "event_organizer": {
+            "display_name": "Amelia Leavey",
+            "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1755042300",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "Gregory Chapman teleMCC",
+          "vchat": {
+            "vc_type": "no_meeting"
+          },
+          "visibility": "default"
+        },
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7382047981971800069&key=5a771c81-675f-46a2-b485-dbb9c487be12&originalTime=0&startTime=1754976600",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "create_time": "1754880766",
+          "description": "",
+          "end_time": {
+            "timestamp": "1754978400",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "5a771c81-675f-46a2-b485-dbb9c487be12_0",
+          "event_organizer": {
+            "display_name": "Amelia Leavey",
+            "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1754976600",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "Catch-up call with Bernard ",
+          "vchat": {
+            "vc_type": "no_meeting"
+          },
+          "visibility": "default"
+        }
+      ]
+    },
+    "Dr Zandor's MCC": {
+      "calendar_id": "feishu.cn_Oaw46N4eN6TaREbLhnYBld@group.calendar.feishu.cn",
+      "new_events_count": 1,
+      "new_events": [
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7520094617669910567&key=505dfe2c-de19-4839-af42-76e16cefff05&originalTime=0&startTime=1756429200",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "create_time": "1754878589",
+          "description": "Mr Andrew Kearney\n",
+          "end_time": {
+            "timestamp": "1756431000",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "505dfe2c-de19-4839-af42-76e16cefff05_0",
+          "event_organizer": {
+            "display_name": "Coco Won",
+            "user_id": "ou_5cde63e1cfc1579b8612443cb0b7c37c"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "feishu.cn_Oaw46N4eN6TaREbLhnYBld@group.calendar.feishu.cn",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1756429200",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "Coco MCC (telehealth)",
+          "vchat": {
+            "meeting_url": "https://vc-sg.larksuite.com/j/285916276",
+            "vc_type": "vc"
+          },
+          "visibility": "default"
+        }
+      ]
+    },
+    "Winnie Liang": {
+      "calendar_id": "larksuite.com_9946OZ3XRRVh2XATrDUsKc@group.calendar.larksuite.com",
+      "new_events_count": 3,
+      "new_events": [
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7459557295367749638&key=77c2751d-3132-4ffa-b045-7456822f3b33&originalTime=0&startTime=1755235800",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "create_time": "1754879035",
+          "description": "",
+          "end_time": {
+            "timestamp": "1755237600",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "77c2751d-3132-4ffa-b045-7456822f3b33_0",
+          "event_organizer": {
+            "display_name": "Winnie Liang",
+            "user_id": "ou_e114e01461165b827d74ebb2595e5fa8"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_9946OZ3XRRVh2XATrDUsKc@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1755235800",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "schedule Aocheng - 0609 MCC ",
+          "vchat": {
+            "meeting_url": "https://vc-sg.larksuite.com/j/374037869",
+            "vc_type": "vc"
+          },
+          "visibility": "default"
+        },
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7459557295367749638&key=734a0872-745d-4116-8e0b-c8f494555c18&originalTime=0&startTime=1755817200",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "create_time": "1754879054",
+          "description": "",
+          "end_time": {
+            "timestamp": "1755819000",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "734a0872-745d-4116-8e0b-c8f494555c18_0",
+          "event_organizer": {
+            "display_name": "Winnie Liang",
+            "user_id": "ou_e114e01461165b827d74ebb2595e5fa8"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_9946OZ3XRRVh2XATrDUsKc@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1755817200",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "schedule Lauren MCC ",
+          "vchat": {
+            "meeting_url": "https://vc-sg.larksuite.com/j/558690113",
+            "vc_type": "vc"
+          },
+          "visibility": "default"
+        },
+        {
+          "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7459557295367749638&key=9167d6d0-dc86-4d54-b947-9cb6da365564&originalTime=0&startTime=1754974800",
+          "attendee_ability": "can_invite_others",
+          "color": -1,
+          "create_time": "1754880201",
+          "description": "",
+          "end_time": {
+            "timestamp": "1754976600",
+            "timezone": "Australia/Sydney"
+          },
+          "event_id": "9167d6d0-dc86-4d54-b947-9cb6da365564_0",
+          "event_organizer": {
+            "display_name": "Winnie Liang",
+            "user_id": "ou_e114e01461165b827d74ebb2595e5fa8"
+          },
+          "free_busy_status": "busy",
+          "is_exception": false,
+          "organizer_calendar_id": "larksuite.com_9946OZ3XRRVh2XATrDUsKc@group.calendar.larksuite.com",
+          "recurrence": "",
+          "start_time": {
+            "timestamp": "1754974800",
+            "timezone": "Australia/Sydney"
+          },
+          "status": "confirmed",
+          "summary": "update zhiling RTWP ",
+          "vchat": {
+            "meeting_url": "https://vc-sg.larksuite.com/j/653835380",
+            "vc_type": "vc"
+          },
+          "visibility": "default"
+        }
+      ]
+    }
+  },
+  "total_new_events": 13
+}

@@ -1,0 +1,1684 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=78707f3b-b09b-4cc4-a559-29df8af460b7&originalTime=0&startTime=1753660800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1747274661",
+        "description": "",
+        "end_time": {
+          "date": "2025-08-16",
+          "timezone": "UTC"
+        },
+        "event_id": "78707f3b-b09b-4cc4-a559-29df8af460b7_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-07-28",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/520113907",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=15558091-a3b3-414f-a1a1-033b75989211&originalTime=0&startTime=1756449000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1749192051",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756450800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "15558091-a3b3-414f-a1a1-033b75989211_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756449000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Pardo New Rehab Plan due ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/387489817",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=c6baffc8-7efc-4949-a005-11e21d0e4981&originalTime=0&startTime=1758236400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1750207879",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758238200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c6baffc8-7efc-4949-a005-11e21d0e4981_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758236400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "13 weeks check with Daniel Abdilla",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/761772931",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=88bec980-9b53-4d03-b915-ee7774316a81&originalTime=0&startTime=1754271000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1751853040",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754272800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "88bec980-9b53-4d03-b915-ee7774316a81_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754271000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Suping Zhou Tele MCC with Dr Eugene Khoo",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/348591439",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=cb0a7b39-8f35-4ab1-952d-98ba821fe923&originalTime=0&startTime=1754956800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752631071",
+        "description": "Tele for client, RC can attend F2F or tele\n",
+        "end_time": {
+          "timestamp": "1754958600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cb0a7b39-8f35-4ab1-952d-98ba821fe923_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754956800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Masilina Naikovu MCC at 10am with Dr Henry Gao",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/747190228",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=929d00fb-f325-453c-97e9-e3565e290dd5&originalTime=0&startTime=1753660800",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1755230508",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-16",
+          "timezone": "UTC"
+        },
+        "event_id": "929d00fb-f325-453c-97e9-e3565e290dd5_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-07-28",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=7c3f1d26-81e2-479e-b6e7-fd8dbb2b1ee4&originalTime=0&startTime=1757307600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753681948",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757311200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7c3f1d26-81e2-479e-b6e7-fd8dbb2b1ee4_0",
+        "event_organizer": {
+          "display_name": "Jamie Zhang",
+          "user_id": "ou_e0b2ce1635208b0154f8aba8ea075fc9"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_fRyCZtguOsgJPCPYlc66bf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757307600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCC Xuemei Wang Chatswood Yunjie ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/928912359",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=a770e802-b61c-41e9-a204-c0b1d5efec23&originalTime=0&startTime=1756094400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754369997",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756097100",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a770e802-b61c-41e9-a204-c0b1d5efec23_0",
+        "event_organizer": {
+          "display_name": "Jamie Zhang",
+          "user_id": "ou_e0b2ce1635208b0154f8aba8ea075fc9"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_fRyCZtguOsgJPCPYlc66bf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756094400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NES team 3 -recovery oriented language/OR01/RTW rate benchmark",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/408907812",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=638ea618-725e-4848-a725-40506e02694a&originalTime=0&startTime=1756778400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755138888",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756782000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "638ea618-725e-4848-a725-40506e02694a_0",
+        "event_organizer": {
+          "display_name": "Jamie Zhang",
+          "user_id": "ou_e0b2ce1635208b0154f8aba8ea075fc9"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_fRyCZtguOsgJPCPYlc66bf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756778400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCC with neurologist Dr Nham Burwood with Masilina Naikovu pending mcc approval from insurer ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/182312340",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=622233cb-bfa0-47f9-a14a-472910f1860a&originalTime=0&startTime=1757377800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755146319",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757381400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "622233cb-bfa0-47f9-a14a-472910f1860a_0",
+        "event_organizer": {
+          "display_name": "Jamie Zhang",
+          "user_id": "ou_e0b2ce1635208b0154f8aba8ea075fc9"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_fRyCZtguOsgJPCPYlc66bf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757377800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCC with NTD MASILINA NAIKOVU and Dr Gao ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/369321824",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=54c10f6f-f06c-4eb2-8a69-e9122c6be66a&originalTime=0&startTime=1755481500",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755480907",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755483300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "54c10f6f-f06c-4eb2-8a69-e9122c6be66a_0",
+        "event_organizer": {
+          "display_name": "Jamie Zhang",
+          "user_id": "ou_e0b2ce1635208b0154f8aba8ea075fc9"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_fRyCZtguOsgJPCPYlc66bf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755481500",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Yunjie case handover with Jamie ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/661054639",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=ae2d94e2-a6e7-4475-9451-73b2d1b109f6&originalTime=0&startTime=1755662400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755496918",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755664200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ae2d94e2-a6e7-4475-9451-73b2d1b109f6_0",
+        "event_organizer": {
+          "display_name": "Jamie Zhang",
+          "user_id": "ou_e0b2ce1635208b0154f8aba8ea075fc9"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_fRyCZtguOsgJPCPYlc66bf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755662400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Louise birthday celebration in office level 2 ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/702978180",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=5e34b90f-8a4b-4483-ac15-e2417a78b2a4&originalTime=0&startTime=1755738000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755665550",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755739800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5e34b90f-8a4b-4483-ac15-e2417a78b2a4_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755738000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Review NRMA File with Jamie",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/481208660",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=736b50de-3a8c-4713-bff4-c396d064ee4f&originalTime=0&startTime=1755833400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755047883",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755837000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "736b50de-3a8c-4713-bff4-c396d064ee4f_0",
+        "event_organizer": {
+          "display_name": "Anastasia Hadjidemetri",
+          "user_id": "ou_d4c505df7178c2c156d78f186da65986"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_Ockl2Wb2dn03HR74X75qBf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755833400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/278425925",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=7798e13a-02b1-434e-a5bc-92910664745a&originalTime=0&startTime=1756168200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755749752",
+        "description": "Mr Pardo has completed vocational assessment on 30/08/2024 and the recommended job options are Checkout Operator, Warehouse Administrator and Call or Contact Centre Operator. \nNTD has not signed the vocational options yet- at least unable to obtain an copy\n",
+        "end_time": {
+          "timestamp": "1756170000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7798e13a-02b1-434e-a5bc-92910664745a_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756168200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Pardo F2F MCC-Dr Rubina",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/521475067",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=21baac0a-4d4a-44fd-b4fd-0e0943e2fbc8&originalTime=0&startTime=1756562400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755824887",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756564200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "21baac0a-4d4a-44fd-b4fd-0e0943e2fbc8_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756562400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Tele Initial Assessment with Maya",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/864426057",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=213e5077-226d-4f2f-99fc-bd51a3caed1c&originalTime=0&startTime=1756099800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755843386",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756105200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "213e5077-226d-4f2f-99fc-bd51a3caed1c_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756099800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Personal Leave",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/610854202",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=322c3ea4-c49b-4e6c-8d0e-cf7fceb8514c&originalTime=0&startTime=1756276200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755843899",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756277100",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "322c3ea4-c49b-4e6c-8d0e-cf7fceb8514c_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756276200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Pardo MCC report due",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/688486703",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=3b722931-f35d-4769-9f88-13105c4d9b3b&originalTime=0&startTime=1756447200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755843950",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756449000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b722931-f35d-4769-9f88-13105c4d9b3b_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756447200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Ariel Wang MCC report due ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/692436863",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=b26823d7-24c8-492b-96cb-f794efac8540&originalTime=0&startTime=1756881000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755843973",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756882800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b26823d7-24c8-492b-96cb-f794efac8540_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756881000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Masiina NTS MCC report due",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/713414010",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=3a18b6b7-ad33-4680-bed2-3afd5b751758&originalTime=0&startTime=1757399400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755844019",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757401200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3a18b6b7-ad33-4680-bed2-3afd5b751758_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757399400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Xuemei MCC report due ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/913833536",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=147a4b22-ad12-4fae-bd5e-062b815aafef&originalTime=0&startTime=1757485800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755844033",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757487600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "147a4b22-ad12-4fae-bd5e-062b815aafef_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757485800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Masilina NTD MCC report due",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/676150309",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=7a137645-93f8-4e73-bdde-7c2264721809&originalTime=0&startTime=1756080000",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1755845661",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-26",
+          "timezone": "UTC"
+        },
+        "event_id": "7a137645-93f8-4e73-bdde-7c2264721809_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-08-25",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=48f779c0-f761-4555-9c07-f5a085316ce8&originalTime=0&startTime=1756706400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756179268",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756710000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "48f779c0-f761-4555-9c07-f5a085316ce8_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756706400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Personal Leave ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/344372906",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=499c7237-5d9c-4155-823a-ae3d8ceb790b&originalTime=0&startTime=1756684800",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1756180530",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-09-02",
+          "timezone": "UTC"
+        },
+        "event_id": "499c7237-5d9c-4155-823a-ae3d8ceb790b_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-09-01",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=de44d67f-1132-4282-b54a-e62528763de0&originalTime=0&startTime=1757635200",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1756180617",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-09-18",
+          "timezone": "UTC"
+        },
+        "event_id": "de44d67f-1132-4282-b54a-e62528763de0_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-09-12",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=5efbebe7-23bb-47f2-8c58-61b6610e8734&originalTime=0&startTime=1756273500",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756258052",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756275300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5efbebe7-23bb-47f2-8c58-61b6610e8734_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756273500",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Call Melissa ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/619230822",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=0d9874b3-1694-46fc-8098-71b8b9db4757&originalTime=0&startTime=1757307600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756273363",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757309400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0d9874b3-1694-46fc-8098-71b8b9db4757_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757307600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jenny Xie-Tele Voc ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/217145025",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=fa39625e-25ff-4a37-b112-cfe7c108d35d&originalTime=0&startTime=1756343400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755648378",
+        "description": "Hi Jamie,\nIt has been confirmed that the MCC has been booked for 28 August instead of Friday.\nNo need to accept the invitation—I’ve just added you for your information :)\n",
+        "end_time": {
+          "timestamp": "1756346400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fa39625e-25ff-4a37-b112-cfe7c108d35d_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756343400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Ariel Wang F2F MCC with NTD Dr Gao",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/390558296",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=67ffd713-6176-4a6f-92e9-1e3fdfbe190b&originalTime=0&startTime=1756341600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338221",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756343400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "67ffd713-6176-4a6f-92e9-1e3fdfbe190b_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756341600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from home to NTD Strathfield",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/136600295",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=83442371-6623-4b42-b5e0-c47caed84b97&originalTime=0&startTime=1756346400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338259",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756348200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "83442371-6623-4b42-b5e0-c47caed84b97_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756346400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from NTD Strathfield to Office",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/111239580",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=a5a9a264-043c-4746-bfd7-e33d498b1763&originalTime=0&startTime=1756776600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338335",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756778400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a5a9a264-043c-4746-bfd7-e33d498b1763_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756776600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from home to NTS MCC at Burwood",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/264592103",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=87b14f5b-a559-486a-9072-0c16af14bf69&originalTime=0&startTime=1756782000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338349",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756783800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "87b14f5b-a559-486a-9072-0c16af14bf69_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756782000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from Burwood to Office",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/384129767",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=cb748cc9-e445-418d-8f0a-cee3c210027e&originalTime=0&startTime=1757305800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338376",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757307600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cb748cc9-e445-418d-8f0a-cee3c210027e_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757305800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from office to NTD MCC Chatswood",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/748556556",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=a8174a36-19d3-47fd-b762-607ee519f30e&originalTime=0&startTime=1757647200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338468",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757649600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a8174a36-19d3-47fd-b762-607ee519f30e_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757647200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from Hurstville to home/office",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/393173735",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=2c45f46e-5fef-4429-b0a7-b1abd247b329&originalTime=0&startTime=1757642400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338494",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757645100",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2c45f46e-5fef-4429-b0a7-b1abd247b329_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757642400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from office to NTD MCC at Hurstville",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/862238616",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=290cb40e-c263-4fc5-acfa-aacf17add618&originalTime=0&startTime=1757645100",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755736745",
+        "description": "Hi Jamie\nAs I will be on leave, could you please attend Jenny f2f MCC or assign someone else to attend this MCC at HV?\nThank you so much.\n",
+        "end_time": {
+          "timestamp": "1757646900",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "290cb40e-c263-4fc5-acfa-aacf17add618_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757645100",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jenny Xie NTD MCC @HV with Dr Jiang Li",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/486632287",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=ed1ea9b4-8d40-40b6-8837-c3d738e1abf5&originalTime=0&startTime=1757311200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338547",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757314800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ed1ea9b4-8d40-40b6-8837-c3d738e1abf5_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757311200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from Chatswood to home",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/783178471",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=89a9f279-545a-4681-bc8d-a1cd12c79947&originalTime=0&startTime=1757376000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338587",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757377800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "89a9f279-545a-4681-bc8d-a1cd12c79947_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757376000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from home to NTD MCC Strathfield",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/882874112",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=6c41afe6-c23e-4979-a1cb-3e5ef30a5261&originalTime=0&startTime=1757381400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338612",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757383200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6c41afe6-c23e-4979-a1cb-3e5ef30a5261_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757381400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from NTD MCC Strathfield to office",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/342842087",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=a6e12eb8-29ac-4013-9e44-9c053b748f7b&originalTime=0&startTime=1757554200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338650",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757556000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a6e12eb8-29ac-4013-9e44-9c053b748f7b_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757554200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from Strathfield to home",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/284842727",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=a83478ec-6c59-47db-b110-5a351c454a8d&originalTime=0&startTime=1757548800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756338676",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757550600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a83478ec-6c59-47db-b110-5a351c454a8d_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757548800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Travel from home to NTS at Strathfield",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/413701888",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=99ef2b7d-bb4d-431f-bb99-dd5e2416fccb&originalTime=0&startTime=1757550600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756182760",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757554200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "99ef2b7d-bb4d-431f-bb99-dd5e2416fccb_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757550600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Masilina Naikovu NTS MCC with Oral Surgeon Dr Benjamin Nham at Strathfield",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/408032231",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=62c9f95a-6fa3-482a-a677-242baa1758a0&originalTime=0&startTime=1758519000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755749046",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758520800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "62c9f95a-6fa3-482a-a677-242baa1758a0_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758519000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Suping Zhou Tele NTD MCC with Dr Eugene Khoo",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/113125742",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=ba64e3ee-844f-4349-b751-3164bc166534&originalTime=0&startTime=1758760200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756352388",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758762000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ba64e3ee-844f-4349-b751-3164bc166534_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758760200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Ariel Wang Tele NTD MCC with Dr Gao",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/435855181",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=c5a15822-76ef-44de-9709-4c956e1aa3b4&originalTime=0&startTime=1756359000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755582368",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756360800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c5a15822-76ef-44de-9709-4c956e1aa3b4_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756359000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Fortinightly File Review with Jamie ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/631370843",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=8ced217c-47d8-4000-b0a9-f98eddb96272&originalTime=0&startTime=1758150000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756355092",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758151800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8ced217c-47d8-4000-b0a9-f98eddb96272_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758150000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Melissa WD F2F appointment",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/362186662",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=14f75941-16fd-4531-b946-1e808007642c&originalTime=0&startTime=1756704600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756350092",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756706400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "14f75941-16fd-4531-b946-1e808007642c_0",
+        "event_organizer": {
+          "display_name": "Jamie Zhang",
+          "user_id": "ou_e0b2ce1635208b0154f8aba8ea075fc9"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_fRyCZtguOsgJPCPYlc66bf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756704600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NES 3-meeting New Bonus structure & how to respond to vocational assessment delay with insurer —-IMPORTANT ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/544226137",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=0f38cc68-0537-4e96-bef3-6c7fd7556c2e&originalTime=0&startTime=1758151800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756427336",
+        "description": "Melissa Kizana - Dr Ben only, psych claim\n",
+        "end_time": {
+          "timestamp": "1758153600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0f38cc68-0537-4e96-bef3-6c7fd7556c2e_0",
+        "event_organizer": {
+          "display_name": "Vincent Chan",
+          "user_id": "ou_c3be7cc0a3568fbd7fa47aee8887a168"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_mJTzUzlGWp9YB6pf2mH6Nf@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758151800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Yunjie F2F MCC - Dr Ben",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/660622428",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7495944940188008487&key=e7fae91b-3ef8-443d-96f4-93fe1cc81037&originalTime=0&startTime=1756699200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756364296",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756701000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e7fae91b-3ef8-443d-96f4-93fe1cc81037_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756699200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Maya Case Handovers ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/941764725",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 51,
+    "original_count": 68,
+    "cancelled_count": 17,
+    "empty_summary_count": 0,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:14.656345"
+  }
+}

@@ -1,0 +1,1114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=0&startTime=1743130800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1741923081",
+        "description": "",
+        "end_time": {
+          "timestamp": "1743134400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "FREQ=DAILY;INTERVAL=14",
+        "start_time": {
+          "timestamp": "1743130800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=fb692bd3-33ac-4c74-ae90-5620381bbec0&originalTime=0&startTime=1742526000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1740539961",
+        "description": "",
+        "end_time": {
+          "timestamp": "1742531400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fb692bd3-33ac-4c74-ae90-5620381bbec0_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_za08tjy07pEx1Er6oYGLbh@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=6;WKST=MO;BYDAY=FR",
+        "start_time": {
+          "timestamp": "1742526000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OT Hangz ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=55accc49-4277-4fbd-8bae-68a34ad5b3f2&originalTime=0&startTime=1753074000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752547615",
+        "description": "",
+        "end_time": {
+          "timestamp": "1753077600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "55accc49-4277-4fbd-8bae-68a34ad5b3f2_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "FREQ=WEEKLY;INTERVAL=1",
+        "start_time": {
+          "timestamp": "1753074000",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Case Reviews - PA",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/639462287",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=a227b77c-670e-47b7-b441-50200cb18cc6&originalTime=0&startTime=1760052600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752557619",
+        "description": "",
+        "end_time": {
+          "timestamp": "1760056200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "a227b77c-670e-47b7-b441-50200cb18cc6_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1760052600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "PIP  Review - Pranshu",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/989189637",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1756440000&startTime=1756440000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754871978",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756443600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1756440000",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1756440000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=89f25d08-6cf8-455d-bbca-c9c13c538557&originalTime=0&startTime=1756794600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755659187",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756796400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "89f25d08-6cf8-455d-bbca-c9c13c538557_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756794600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "MCC - Tracey Spencer",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=2605a81b-8885-4c18-813a-c401e1cf9ef6&originalTime=0&startTime=1756877400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755673044",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756879200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "2605a81b-8885-4c18-813a-c401e1cf9ef6_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756877400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "MCC - Zhonghua Sun",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=d1e0d99e-3e89-4fec-b835-ae6c5bc52ad9&originalTime=0&startTime=1758241800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752557500",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758247200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "d1e0d99e-3e89-4fec-b835-ae6c5bc52ad9_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758241800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "PIP Monthly Meeting - Pranshu",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/889884795",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=b2cba055-9402-433f-8df0-5bec0c4830ea&originalTime=0&startTime=1756693800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756084342",
+        "description": "Client requested to attend via videocall ",
+        "end_time": {
+          "timestamp": "1756695600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "b2cba055-9402-433f-8df0-5bec0c4830ea_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "feishu.cn_Oaw46N4eN6TaREbLhnYBld@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756693800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Pranshu Tele MCC - Diana Youssif",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/706504717",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=b9345c1c-c99d-4ec7-a8c0-55d494929fe1&originalTime=0&startTime=1756767600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756672980",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756778400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "b9345c1c-c99d-4ec7-a8c0-55d494929fe1_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756767600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Shiran Y - ADL Report",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=490b2346-8c6c-4b62-a7b8-4ea726f74190&originalTime=0&startTime=1756683000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756673049",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756683000",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "490b2346-8c6c-4b62-a7b8-4ea726f74190_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756683000",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Call Robert Vedric",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=59e31e67-821e-49e8-91a8-9bca828cc6fb&originalTime=0&startTime=1757026800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756673918",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757030400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "59e31e67-821e-49e8-91a8-9bca828cc6fb_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757026800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Siran Y - PR",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=55accc49-4277-4fbd-8bae-68a34ad5b3f2&originalTime=1756702800&startTime=1756702800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756684885",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756706400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "55accc49-4277-4fbd-8bae-68a34ad5b3f2_1756702800",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "55accc49-4277-4fbd-8bae-68a34ad5b3f2_0",
+        "start_time": {
+          "timestamp": "1756702800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Case Reviews - PA",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/639462287",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=0875a0f2-8ae5-4818-a2b8-d65a1c2c4b95&originalTime=0&startTime=1756944000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756192956",
+        "description": "Washington Neron\nWith Dr Sarah",
+        "end_time": {
+          "timestamp": "1756945800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0875a0f2-8ae5-4818-a2b8-d65a1c2c4b95_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Oaw46N4eN6TaREbLhnYBld@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756944000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Livian F2F MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/560922091",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=628f52a8-b373-4448-b47f-4f225721eb1c&originalTime=0&startTime=1756945800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756702108",
+        "description": "Robert Vedric - psych claim\n",
+        "end_time": {
+          "timestamp": "1756947600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "628f52a8-b373-4448-b47f-4f225721eb1c_0",
+        "event_organizer": {
+          "display_name": "Vincent Chan",
+          "user_id": "ou_c3be7cc0a3568fbd7fa47aee8887a168"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_mJTzUzlGWp9YB6pf2mH6Nf@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756945800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Pranshu F2F MCC - Dr Taslima",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=947c79b8-2e0c-46aa-a3f8-94ae7db6f243&originalTime=0&startTime=1757044800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756818305",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757055600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "947c79b8-2e0c-46aa-a3f8-94ae7db6f243_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757044800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "CM & Admin",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=c6dd37e0-02dc-4d6d-a6aa-5a3898024d45&originalTime=0&startTime=1756951200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756870841",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756953000",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "c6dd37e0-02dc-4d6d-a6aa-5a3898024d45_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756951200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Joshua MCC - WD",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=db7502be-0e5e-42a4-9850-86af2df9654c&originalTime=1757649600&startTime=1757649600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757028977",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757653200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_1757649600",
+        "event_organizer": {
+          "display_name": "Nina Shihadeh",
+          "user_id": "ou_7caee27f91bdb197f78215376b6b8bf5"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_wiox9u2zkYlfQJKjuqet7g@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "db7502be-0e5e-42a4-9850-86af2df9654c_0",
+        "start_time": {
+          "timestamp": "1757649600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "OES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/950397337",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=281cc944-3951-441c-a5b0-c400b9c25f0e&originalTime=0&startTime=1757293200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757030763",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757296800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "281cc944-3951-441c-a5b0-c400b9c25f0e_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757293200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Initial - Robert V",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=11a62d65-471a-4d6f-b023-8e59d255f5ce&originalTime=0&startTime=1757462400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757030966",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-11",
+          "timezone": "UTC"
+        },
+        "event_id": "11a62d65-471a-4d6f-b023-8e59d255f5ce_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-10",
+          "timezone": "UTC"
+        },
+        "status": "tentative",
+        "summary": "WFH",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=97efbda2-307b-4682-a9f8-cdb2c3b26436&originalTime=0&startTime=1757548800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757030981",
+        "description": "",
+        "end_time": {
+          "date": "2025-09-12",
+          "timezone": "UTC"
+        },
+        "event_id": "97efbda2-307b-4682-a9f8-cdb2c3b26436_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "free",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "date": "2025-09-11",
+          "timezone": "UTC"
+        },
+        "status": "tentative",
+        "summary": "WFH",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=09ac7724-90d6-404b-b8f3-1c08947143e6&originalTime=0&startTime=1757041200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756773191",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757043000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "09ac7724-90d6-404b-b8f3-1c08947143e6_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757041200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Niamh/ Pranshu - Handover Justin Eagle",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/592933430",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=1ad88e1a-af60-453a-a5d0-94dda4fa1048&originalTime=0&startTime=1757034000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097891",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757037600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "1ad88e1a-af60-453a-a5d0-94dda4fa1048_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757034000",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Diana Y - PR",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=a27218ae-7ba0-4dd9-a6fb-8507e62cd22f&originalTime=0&startTime=1758063600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757041790",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758064500",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "a27218ae-7ba0-4dd9-a6fb-8507e62cd22f_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758063600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Call Joshua - Cardiologist Follow up",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=55accc49-4277-4fbd-8bae-68a34ad5b3f2&originalTime=1757307600&startTime=1757307600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757306054",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757311200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "55accc49-4277-4fbd-8bae-68a34ad5b3f2_1757307600",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": true,
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "recurring_event_id": "55accc49-4277-4fbd-8bae-68a34ad5b3f2_0",
+        "start_time": {
+          "timestamp": "1757307600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Case Reviews - PA",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/639462287",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=d90df09c-38a2-490c-97bb-d0c3ff668351&originalTime=0&startTime=1757635200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757030732",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757642400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "d90df09c-38a2-490c-97bb-d0c3ff668351_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757635200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "ADL - Joseph",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=c4f7c10c-e383-4064-9e6b-b5b27c69d192&originalTime=0&startTime=1757646000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757030952",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757653200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "c4f7c10c-e383-4064-9e6b-b5b27c69d192_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757646000",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "FCE - Robert V",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/528697015",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=b9ebc7f6-4683-4e84-ab0b-46641d307fd0&originalTime=0&startTime=1757372400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757307292",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757401200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "b9ebc7f6-4683-4e84-ab0b-46641d307fd0_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757372400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "CM & Reporting ",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=04337879-9335-4fc0-8d43-54a53a86d01e&originalTime=0&startTime=1757458800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757307311",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757487600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "04337879-9335-4fc0-8d43-54a53a86d01e_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757458800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "CM & Reporting",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=87442f07-37d5-4c35-8bb4-38fcddd5fc2a&originalTime=0&startTime=1757545200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757307323",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757574000",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "87442f07-37d5-4c35-8bb4-38fcddd5fc2a_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757545200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "CM & Reporting",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=66d4eb8b-55da-4728-ac5d-031be1c99986&originalTime=0&startTime=1757631600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757307333",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757635200",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "66d4eb8b-55da-4728-ac5d-031be1c99986_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757631600",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Travel",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=52950420-6a37-4ae9-bb4e-624c45946a0a&originalTime=0&startTime=1757642400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757307339",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757646000",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "52950420-6a37-4ae9-bb4e-624c45946a0a_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757642400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Travel",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7205758091362779141&key=6aa4ce20-96f9-4bf7-a16e-6c8b08d35047&originalTime=0&startTime=1757656800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1757307348",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757660400",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "event_id": "6aa4ce20-96f9-4bf7-a16e-6c8b08d35047_0",
+        "event_organizer": {
+          "display_name": "Pranshu Arora",
+          "user_id": "ou_9ced54695c3c2e5263f26befe3b64ca3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_2D5LhJpoDOwF4NmAQryZqf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757656800",
+          "timezone": "Antarctica/Macquarie"
+        },
+        "status": "tentative",
+        "summary": "Admin",
+        "visibility": "default"
+      }
+    ],
+    "total_count": 33,
+    "original_count": 37,
+    "cancelled_count": 4,
+    "empty_summary_count": 0,
+    "query_start_time": 1756648800,
+    "query_end_time": 1764507599,
+    "retrieved_at": "2025-09-08T16:14:55.322401"
+  }
+}

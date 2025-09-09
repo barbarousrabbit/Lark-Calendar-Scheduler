@@ -1,0 +1,1682 @@
+[
+  {
+    "time": "2025-08-27 10:00:11",
+    "module": "app",
+    "level": "INFO",
+    "message": "执行定时任务"
+  },
+  {
+    "time": "2025-08-27 10:00:11",
+    "module": "app",
+    "level": "INFO",
+    "message": "开始执行主要任务"
+  },
+  {
+    "time": "2025-08-27 10:00:11",
+    "module": "app",
+    "level": "INFO",
+    "message": "开始OAuth授权流程..."
+  },
+  {
+    "time": "2025-08-27 10:00:11",
+    "module": "app",
+    "level": "INFO",
+    "message": "💡 Token会在5分钟内失效，每次执行都需要重新授权"
+  },
+  {
+    "time": "2025-08-27 10:00:11",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "授权页面已在浏览器中打开"
+  },
+  {
+    "time": "2025-08-27 10:00:18",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "检测到回调URL"
+  },
+  {
+    "time": "2025-08-27 10:00:18",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "成功提取授权码: 2JCrzc17y8D0QzG5oJe4..."
+  },
+  {
+    "time": "2025-08-27 10:00:18",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "成功获取访问令牌: eyJhbGciOiJFUzI1NiIsImZlYXR1cm..."
+  },
+  {
+    "time": "2025-08-27 10:00:18",
+    "module": "app",
+    "level": "INFO",
+    "message": "日历数据获取器初始化完成"
+  },
+  {
+    "time": "2025-08-27 10:00:18",
+    "module": "app",
+    "level": "INFO",
+    "message": "开始获取日历数据"
+  },
+  {
+    "time": "2025-08-27 10:00:18",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "成功加载访问令牌"
+  },
+  {
+    "time": "2025-08-27 10:00:19",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "成功获取 56 个日历"
+  },
+  {
+    "time": "2025-08-27 10:00:19",
+    "module": "app",
+    "level": "INFO",
+    "message": "开始获取所有日历事件..."
+  },
+  {
+    "time": "2025-08-27 10:00:20",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 22 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:20",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Company Car (Carlita): 27 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:20",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:20",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Bruce Zhang: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:21",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 18 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:21",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 112 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:21",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Annabel Wu: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:21",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 3 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:21",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Ciara Lynch: 63 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:22",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 16 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:22",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Vidisha Kamath Pai: 190 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:23",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:23",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Roisin Hogan: 26 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:23",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Lucinda Youssef: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:24",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 19 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:24",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Ange Wang: 72 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:24",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 14 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:24",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:24",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Danny Chan: 23 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:24",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:24",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Michael Le: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:25",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 24 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:25",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Devanshi Pawar: 212 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:26",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 21 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:26",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:26",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Jamie Zhang: 148 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:26",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 10 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:26",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Zebin Lin: 68 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:27",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 12 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:27",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 4 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:27",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Anastasia Hadjidemetri: 118 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:28",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 51 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:28",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Chelsea Qian: 117 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:28",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 16 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:28",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:28",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Maryam Yazdanpanahi: 94 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:29",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 12 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:29",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:29",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Sabrina Kerr: 109 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:29",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 6 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:29",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 99 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:29",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Jessica Elguindy: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:30",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:30",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Liam Coombe: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:30",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 10 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:30",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Elton Kass: 82 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:31",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 20 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:31",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Company Car (Carlos): 22 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:32",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 61 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:32",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Dewi Thomson: 221 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:33",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 55 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:33",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:33",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Winnie Liang: 290 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:33",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Admin2: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:34",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 19 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:34",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 47 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:34",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Doireann Burke: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:34",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 7 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:34",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Lucinda Youssef: 33 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:35",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 19 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:35",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "John Liang: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:35",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:35",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Regional Appointments: 20 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:36",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:36",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 3 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:36",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Wen Xu: 11 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:36",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 36 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:36",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Coco Won: 95 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:37",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 29 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:37",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Chonny Zheng: 189 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:38",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 13 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:38",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Pranshu Arora: 66 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:38",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 59 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:38",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:38",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Amelia Leavey: 119 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:39",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 18 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:39",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Jessica Moten: 29 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:39",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:39",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Office Administrator: 10 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:40",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 20 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:40",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Joey Thong: 195 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:40",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:40",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Ezanna Sin: 9 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:41",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 10 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:41",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 103 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:41",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Hayley Chen: 3 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:41",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 15 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:41",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Yiming Tang: 3 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:42",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:42",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Vivienne Miller: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:42",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 3 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:42",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Niamh Larkin: 73 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:43",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Lin Lin: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:43",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:43",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Rebecca Moore: 2 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:44",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 4 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:44",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Livian Zhang: 21 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:44",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 9 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:44",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 4 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:44",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Nina Shihadeh: 45 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:46",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 49 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:46",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Dr Zandor's MCC: 149 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:46",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 3 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:46",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:46",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Crystal Ngo: 34 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:47",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 58 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:47",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:47",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Charlotte Littlejohn: 117 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:47",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 10 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:47",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 76 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:47",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Olivia Ouyang: 2 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:48",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Ray Su: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:49",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 86 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:49",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:49",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Jenna O'Hagan: 196 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:49",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 14 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:49",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Yunjie Zhu: 33 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:49",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:49",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Andrew Molnar: 17 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:50",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 23 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:50",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Dr Jackson's MCC: 20 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Elaine Mernagh: 48 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 7 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Hannah Gilroy: 34 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "日历数据保存完成"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "日历数据获取完成"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "成功加载访问令牌"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "OAuth授权成功，获得新的访问令牌"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "INFO",
+    "message": "获取日历数据..."
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "INFO",
+    "message": "开始获取日历数据"
+  },
+  {
+    "time": "2025-08-27 10:00:51",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "成功加载访问令牌"
+  },
+  {
+    "time": "2025-08-27 10:00:52",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "成功获取 56 个日历"
+  },
+  {
+    "time": "2025-08-27 10:00:52",
+    "module": "app",
+    "level": "INFO",
+    "message": "开始获取所有日历事件..."
+  },
+  {
+    "time": "2025-08-27 10:00:52",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 58 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:52",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:52",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Charlotte Littlejohn: 117 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:53",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 29 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:53",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Chonny Zheng: 189 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:54",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 55 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:54",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:54",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Winnie Liang: 290 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:54",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:54",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Bruce Zhang: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:55",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:55",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Roisin Hogan: 26 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:56",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 22 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:56",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Company Car (Carlita): 27 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:56",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:56",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Elaine Mernagh: 48 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:57",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:57",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Office Administrator: 10 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:57",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 59 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:57",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:57",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Amelia Leavey: 119 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:58",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:58",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Vivienne Miller: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:59",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:59",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Andrew Molnar: 17 个事件"
+  },
+  {
+    "time": "2025-08-27 10:00:59",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 3 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:00:59",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:00:59",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Crystal Ngo: 34 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:00",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 7 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:00",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Lucinda Youssef: 33 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:00",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 20 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:00",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Joey Thong: 195 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:01",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 18 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:01",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 112 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:01",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Annabel Wu: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:02",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 16 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:02",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Vidisha Kamath Pai: 190 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:02",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Ray Su: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:03",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 51 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:03",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Chelsea Qian: 117 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:03",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 7 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:03",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Hannah Gilroy: 34 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:04",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 19 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:04",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 47 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:04",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Doireann Burke: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:04",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 61 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:04",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Dewi Thomson: 221 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:05",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 12 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:05",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 4 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:05",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Anastasia Hadjidemetri: 118 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:06",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 13 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:06",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Pranshu Arora: 66 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:06",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 10 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:06",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 76 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:06",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Olivia Ouyang: 2 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:07",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 10 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:07",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Elton Kass: 82 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:07",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:07",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Ezanna Sin: 9 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:08",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 23 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:08",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Dr Jackson's MCC: 20 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:09",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 19 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:09",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Ange Wang: 72 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:09",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 6 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:09",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 99 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:09",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Jessica Elguindy: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:10",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 4 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:10",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Livian Zhang: 21 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:10",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:10",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 3 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:10",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Wen Xu: 11 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:10",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 10 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:10",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 103 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:10",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Hayley Chen: 3 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:11",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 14 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:11",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:11",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Danny Chan: 23 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:12",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 12 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:12",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:12",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Sabrina Kerr: 109 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:12",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Lin Lin: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:12",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 3 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:12",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Ciara Lynch: 63 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:13",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:13",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Michael Le: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:13",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:13",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Rebecca Moore: 2 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:14",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:14",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Regional Appointments: 20 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:14",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 3 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:14",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Niamh Larkin: 73 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:15",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 86 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:15",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:15",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Jenna O'Hagan: 196 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:16",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 9 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:16",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 4 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:16",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Nina Shihadeh: 45 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:16",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 21 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:16",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 2 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:16",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Jamie Zhang: 148 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:17",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 19 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:17",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "John Liang: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:18",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 16 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:18",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:18",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Maryam Yazdanpanahi: 94 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:18",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 14 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:18",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Yunjie Zhu: 33 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:19",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 20 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:19",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Company Car (Carlos): 22 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:19",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 36 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:19",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Coco Won: 95 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:20",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 10 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:20",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Zebin Lin: 68 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:20",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 15 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:20",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Yiming Tang: 3 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:22",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 49 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:22",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Dr Zandor's MCC: 149 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:22",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 18 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:22",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Jessica Moten: 29 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:22",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Admin2: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:23",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 24 个cancelled事件"
+  },
+  {
+    "time": "2025-08-27 10:01:23",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Devanshi Pawar: 212 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:24",
+    "module": "app",
+    "level": "INFO",
+    "message": "已过滤 1 个空Summary事件"
+  },
+  {
+    "time": "2025-08-27 10:01:24",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Liam Coombe: 1 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:24",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "Lucinda Youssef: 0 个事件"
+  },
+  {
+    "time": "2025-08-27 10:01:24",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "日历数据保存完成"
+  },
+  {
+    "time": "2025-08-27 10:01:24",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "日历数据获取完成"
+  },
+  {
+    "time": "2025-08-27 10:01:24",
+    "module": "app",
+    "level": "INFO",
+    "message": "加载记录到跟踪器..."
+  },
+  {
+    "time": "2025-08-27 10:01:26",
+    "module": "app",
+    "level": "INFO",
+    "message": "总计加载 85 条记录"
+  },
+  {
+    "time": "2025-08-27 10:01:26",
+    "module": "app",
+    "level": "INFO",
+    "message": "上传待处理记录..."
+  },
+  {
+    "time": "2025-08-27 10:01:26",
+    "module": "app",
+    "level": "INFO",
+    "message": "找到 85 条待上传记录"
+  },
+  {
+    "time": "2025-08-27 10:01:32",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "上传完成: 成功 85 条，失败 0 条"
+  },
+  {
+    "time": "2025-08-27 10:01:32",
+    "module": "app",
+    "level": "SUCCESS",
+    "message": "主要任务执行完成"
+  }
+]

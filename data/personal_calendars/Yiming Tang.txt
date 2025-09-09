@@ -1,0 +1,88 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7306994062505443334&key=916ef33e-640c-4c9f-add2-b9bf7bfb9d5a&originalTime=0&startTime=1760563800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1744872395",
+        "description": "",
+        "end_time": {
+          "timestamp": "1760565600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "916ef33e-640c-4c9f-add2-b9bf7bfb9d5a_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_BjdJADmloWcp71HQBAWUgd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1760563800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Durability 26 Dian Zhao",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/278554362"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7306994062505443334&key=513f597e-a0a9-4b5b-a5af-7b0c65f75f92&originalTime=0&startTime=1756679400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1744872441",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756681200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "513f597e-a0a9-4b5b-a5af-7b0c65f75f92_0",
+        "event_organizer": {
+          "display_name": "Charlotte Littlejohn",
+          "user_id": "ou_256b9049f98dff748c3fa8c4046a88b3"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_BjdJADmloWcp71HQBAWUgd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756679400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Durability 26 Younsuck Woo",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/628257824",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 2,
+    "original_count": 16,
+    "cancelled_count": 14,
+    "empty_summary_count": 0,
+    "query_start_time": 1756648800,
+    "query_end_time": 1764507599,
+    "retrieved_at": "2025-09-08T16:14:59.894329"
+  }
+}

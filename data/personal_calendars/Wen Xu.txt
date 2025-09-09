@@ -1,0 +1,378 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=de60b63a-fd44-48c6-8903-f96e34d676c3&originalTime=0&startTime=1754280000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753783711",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754283600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "de60b63a-fd44-48c6-8903-f96e34d676c3_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_9cJAfg7TAL69Av0AKLdKfd@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754280000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New OTA Process Training with Ray",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/179756878",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=220ec99b-58c5-4646-b15b-369cd18cdac7&originalTime=0&startTime=1754003700",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753919166",
+        "description": "Lets aim to leave the office at 9.15am for a beautiful breakfast/brunch at Manon (French cafe), at QVB for 9.30am\n",
+        "end_time": {
+          "timestamp": "1754008200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "220ec99b-58c5-4646-b15b-369cd18cdac7_0",
+        "event_organizer": {
+          "display_name": "Anastasia Hadjidemetri",
+          "user_id": "ou_d4c505df7178c2c156d78f186da65986"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_Ockl2Wb2dn03HR74X75qBf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754003700",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "A celebration of you - Leaders and creating, driving a BETTER culture ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/646094057",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=c5322737-1d3f-4440-8522-109deee44d92&originalTime=0&startTime=1754287200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754045467",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754289000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c5322737-1d3f-4440-8522-109deee44d92_0",
+        "event_organizer": {
+          "display_name": "Wen Xu",
+          "user_id": "ou_e28edf34a29e794d892406f5cea5e6bd"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_RDMp0Hob0vPHsaDKHAjgTc@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754287200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Meeting with Finance re budget calculation",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=f8946f1c-4dd3-48ef-a537-e544646fdc88&originalTime=0&startTime=1754267400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754045578",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754269200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f8946f1c-4dd3-48ef-a537-e544646fdc88_0",
+        "event_organizer": {
+          "display_name": "Wen Xu",
+          "user_id": "ou_e28edf34a29e794d892406f5cea5e6bd"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_RDMp0Hob0vPHsaDKHAjgTc@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754267400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Meeting with IT for Server update",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=53b49f82-20f4-4c4a-8b69-e40227a6b568&originalTime=0&startTime=1754271000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754045401",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754272800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "53b49f82-20f4-4c4a-8b69-e40227a6b568_0",
+        "event_organizer": {
+          "display_name": "Wen Xu",
+          "user_id": "ou_e28edf34a29e794d892406f5cea5e6bd"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_RDMp0Hob0vPHsaDKHAjgTc@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754271000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Updated Policy Guideline HR - Individual & Team",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=6cdd4ed3-1368-44bc-9294-fa5b625b199e&originalTime=0&startTime=1754274600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754045365",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754276400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6cdd4ed3-1368-44bc-9294-fa5b625b199e_0",
+        "event_organizer": {
+          "display_name": "Wen Xu",
+          "user_id": "ou_e28edf34a29e794d892406f5cea5e6bd"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_RDMp0Hob0vPHsaDKHAjgTc@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754274600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Test Deleted Account Billing ID",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=2d32cc31-abc5-4723-b4e8-38910f293599&originalTime=0&startTime=1754614800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754528774",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754616600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2d32cc31-abc5-4723-b4e8-38910f293599_0",
+        "event_organizer": {
+          "display_name": "Vincent Chan",
+          "user_id": "ou_c3be7cc0a3568fbd7fa47aee8887a168"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_ZrbprFyl5Sl5mfTny1xTPd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754614800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/242370231",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=e519a52c-298a-4a73-b284-85740b061184&originalTime=0&startTime=1754623800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754545196",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754625600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e519a52c-298a-4a73-b284-85740b061184_0",
+        "event_organizer": {
+          "display_name": "Wen Xu",
+          "user_id": "ou_e28edf34a29e794d892406f5cea5e6bd"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_RDMp0Hob0vPHsaDKHAjgTc@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754623800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Meeting with Management – Jessica Haden",
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=4e4f9b3e-ba2f-4498-93a0-3294ab66a05c&originalTime=0&startTime=1755824400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754873492",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755828000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4e4f9b3e-ba2f-4498-93a0-3294ab66a05c_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755824400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Leaders Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/605425238",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=736b50de-3a8c-4713-bff4-c396d064ee4f&originalTime=0&startTime=1755833400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755047883",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755837000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "736b50de-3a8c-4713-bff4-c396d064ee4f_0",
+        "event_organizer": {
+          "display_name": "Anastasia Hadjidemetri",
+          "user_id": "ou_d4c505df7178c2c156d78f186da65986"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_Ockl2Wb2dn03HR74X75qBf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755833400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/278425925",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7041104559402598406&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 11,
+    "original_count": 15,
+    "cancelled_count": 1,
+    "empty_summary_count": 3,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:37.767841"
+  }
+}

@@ -1,0 +1,2567 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=eb9b9e16-4023-4e8b-b8cf-1f718bfa5b53&originalTime=0&startTime=1754262000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1738554607",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754263800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "eb9b9e16-4023-4e8b-b8cf-1f718bfa5b53_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754262000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "call Qi Mu",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/552284770",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=fe028873-5a05-40d9-95bc-fb78f3735bc5&originalTime=0&startTime=1759960800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1744197185",
+        "description": "",
+        "end_time": {
+          "timestamp": "1759964400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fe028873-5a05-40d9-95bc-fb78f3735bc5_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1759960800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "call Yuanning Shi 26 week follow up ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/248593292",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=c684e3f9-44b6-4f56-8ea7-8ecc1d17d695&originalTime=0&startTime=1757896200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1750653445",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757899800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c684e3f9-44b6-4f56-8ea7-8ecc1d17d695_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757896200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jun Zhan Dr Xuan Ye",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/264936644",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=916723bf-d5c1-4937-9618-e8b315902edb&originalTime=0&startTime=1754027100",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753315904",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754030700",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "916723bf-d5c1-4937-9618-e8b315902edb_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754027100",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Yanpiang Liang - MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/149815256",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=9d198c1d-19b6-4a75-9005-272816748334&originalTime=0&startTime=1754348400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753705647",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754377200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9d198c1d-19b6-4a75-9005-272816748334_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754348400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Study",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/528386862",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=a424f409-5f9d-4d1c-a85e-a387f422df34&originalTime=0&startTime=1756767600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753705699",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756796400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a424f409-5f9d-4d1c-a85e-a387f422df34_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756767600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Study",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/887883389",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=d9a966e0-ad12-43b4-b39f-8b2a40472eee&originalTime=0&startTime=1757977200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753705725",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758006000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d9a966e0-ad12-43b4-b39f-8b2a40472eee_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757977200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Study ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/593066661",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=f757bb6f-c371-492c-9d27-574ee1c1472e&originalTime=0&startTime=1754526600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753752013",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754533800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f757bb6f-c371-492c-9d27-574ee1c1472e_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754526600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jane Wang VOC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/142455031",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=220ec99b-58c5-4646-b15b-369cd18cdac7&originalTime=0&startTime=1754003700",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753919166",
+        "description": "Lets aim to leave the office at 9.15am for a beautiful breakfast/brunch at Manon (French cafe), at QVB for 9.30am\n",
+        "end_time": {
+          "timestamp": "1754008200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "220ec99b-58c5-4646-b15b-369cd18cdac7_0",
+        "event_organizer": {
+          "display_name": "Anastasia Hadjidemetri",
+          "user_id": "ou_d4c505df7178c2c156d78f186da65986"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_Ockl2Wb2dn03HR74X75qBf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754003700",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "A celebration of you - Leaders and creating, driving a BETTER culture ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/646094057",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=4246820c-d1c8-48ad-874d-b51a597dfdd6&originalTime=0&startTime=1756429200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754018419",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756432800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4246820c-d1c8-48ad-874d-b51a597dfdd6_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756429200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Joanna Chen Dr Jiang Li",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/401250198",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=40459087-45bf-4bd2-95e8-6c8727213bec&originalTime=0&startTime=1754265600",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1754276362",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-05",
+          "timezone": "UTC"
+        },
+        "event_id": "40459087-45bf-4bd2-95e8-6c8727213bec_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-08-04",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=cbd1a76b-57e9-47a2-9821-d0de729468b5&originalTime=0&startTime=1754352000",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1754276372",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-06",
+          "timezone": "UTC"
+        },
+        "event_id": "cbd1a76b-57e9-47a2-9821-d0de729468b5_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-08-05",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=65f52667-0c95-434a-a89d-92efedcbfb92&originalTime=0&startTime=1754870400",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1754276385",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-08-12",
+          "timezone": "UTC"
+        },
+        "event_id": "65f52667-0c95-434a-a89d-92efedcbfb92_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-08-11",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=3824fb0c-9659-4077-b95b-6499ec4fc021&originalTime=0&startTime=1754611200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754282974",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754614800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3824fb0c-9659-4077-b95b-6499ec4fc021_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754611200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Duoyi Liu interview with host employer",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/397304220",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=f994d89a-ee64-49b3-a73e-36431464f931&originalTime=0&startTime=1754449200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754290380",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754452800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f994d89a-ee64-49b3-a73e-36431464f931_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754449200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Zongyao Jiang VOC report",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/243650330",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=e4542074-f12d-4248-9615-0e2779efe3ea&originalTime=0&startTime=1754436600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754355919",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754440200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e4542074-f12d-4248-9615-0e2779efe3ea_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754436600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Coffee Chat",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/554590600",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=c8bfb767-6dc1-4487-a6e3-474d41e0a7d3&originalTime=0&startTime=1754521200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754363517",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754526600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c8bfb767-6dc1-4487-a6e3-474d41e0a7d3_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754521200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Presentation",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/218726916",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=2062489c-7c07-4d60-bf23-5908f68f3500&originalTime=0&startTime=1754442900",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753676887",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754448300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2062489c-7c07-4d60-bf23-5908f68f3500_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754442900",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Margret VOC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/557408906",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=9738bcab-29bb-49bb-9777-2311c8511294&originalTime=0&startTime=1755045000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754450933",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755050400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9738bcab-29bb-49bb-9777-2311c8511294_0",
+        "event_organizer": {
+          "display_name": "Hayley Chen",
+          "user_id": "ou_bac46ced2b19f6977b24cb9668e74543"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_y5V5rPDZgnPZohq0VrnhZa@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755045000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "videoconsultation Seyeddanyal Hosseini Revocational assessment ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/573163672",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=d3539147-75e7-4eef-a6e7-99ef6e9bcd46&originalTime=0&startTime=1755131400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754453259",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755136800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d3539147-75e7-4eef-a6e7-99ef6e9bcd46_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755131400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Allen VOC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/574806883",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=3e98759d-4325-4f44-ae0a-f775c75dbf7b&originalTime=0&startTime=1754955900",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754453796",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754960400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3e98759d-4325-4f44-ae0a-f775c75dbf7b_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754955900",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Dr Xuan Ye - Ailing Zheng",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/801351884",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=b1cf2a5f-35d1-44ad-9bdf-ed061e38019b&originalTime=0&startTime=1754539200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754457573",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754541000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b1cf2a5f-35d1-44ad-9bdf-ed061e38019b_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754539200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "contact: Salem Haikal schedule voc",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/699329431",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=75f6731d-6c9c-4d75-a454-a6b17b9b292a&originalTime=0&startTime=1754607600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754262739",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754610300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "75f6731d-6c9c-4d75-a454-a6b17b9b292a_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754607600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Conan Xu Interview",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/382802863",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=474100ab-12b9-45dd-91a0-ccde629bfe7b&originalTime=0&startTime=1754625600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754547942",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754627400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "474100ab-12b9-45dd-91a0-ccde629bfe7b_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754625600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "catch-up",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/918034389",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=f066cfea-c082-42b0-b78f-01a8393a435a&originalTime=0&startTime=1755144000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754549977",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755145800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f066cfea-c082-42b0-b78f-01a8393a435a_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755144000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "catch up",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/345316407",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=686ac267-132e-42d3-a455-ee63a89cb6d3&originalTime=0&startTime=1754616600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754282398",
+        "description": "ECs as mentioned,  this workshop will be the final consultation and training session to embed learnings and make any changes to our NEW, BETTER LMA template. This will be your opportunity to ask any questions (to limit the track changes for subsequent LMA submissions) or suggest any improvements to be made to make your jobs easier. \n\nTLs - please invite your Vocational Assessors who may be utilising their RC students as a resource to complete LMAs during their upcoming placement period, as a task recommended by me to allow you to fully assess RC competencies - mostly for Crystal as RC Student Supervisor and Coordinator.  \n",
+        "end_time": {
+          "timestamp": "1754621100",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "686ac267-132e-42d3-a455-ee63a89cb6d3_0",
+        "event_organizer": {
+          "display_name": "Anastasia Hadjidemetri",
+          "user_id": "ou_d4c505df7178c2c156d78f186da65986"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_Ockl2Wb2dn03HR74X75qBf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754616600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "LMA workshop",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/871150968",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=4e4f9b3e-ba2f-4498-93a0-3294ab66a05c&originalTime=0&startTime=1755824400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754873492",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755828000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4e4f9b3e-ba2f-4498-93a0-3294ab66a05c_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "location": {
+          "address": "",
+          "latitude": 360,
+          "longitude": 360,
+          "name": ""
+        },
+        "organizer_calendar_id": "larksuite.com_zOaAYE1sE1fQ7TzZjdIhYd@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755824400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "tentative",
+        "summary": "Leaders Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/605425238",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=c8cc3ef7-254f-4e70-a2b9-5c76d065a806&originalTime=0&startTime=1759120200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754958404",
+        "description": "",
+        "end_time": {
+          "timestamp": "1759123800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c8cc3ef7-254f-4e70-a2b9-5c76d065a806_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1759120200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Ailing Zheng post -op appt ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/796133363",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=9ed974b4-b0bc-4451-9f42-e232a74ecfff&originalTime=0&startTime=1755057600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754975067",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755063000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9ed974b4-b0bc-4451-9f42-e232a74ecfff_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755057600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Mandy Zeng JCPP ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/114703941",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=8bd3a116-35e9-48d5-b240-aebfc44be391&originalTime=0&startTime=1755155700",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754983148",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755159300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8bd3a116-35e9-48d5-b240-aebfc44be391_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755155700",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Quiz",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/718118257",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=736b50de-3a8c-4713-bff4-c396d064ee4f&originalTime=0&startTime=1755833400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755047883",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755837000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "736b50de-3a8c-4713-bff4-c396d064ee4f_0",
+        "event_organizer": {
+          "display_name": "Anastasia Hadjidemetri",
+          "user_id": "ou_d4c505df7178c2c156d78f186da65986"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_Ockl2Wb2dn03HR74X75qBf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755833400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NES Team Meeting",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/278425925",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=e1c629fb-2068-49fa-a7ef-9a21efda66e0&originalTime=0&startTime=1755147600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1747187594",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755151200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e1c629fb-2068-49fa-a7ef-9a21efda66e0_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755147600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "call catherine bai 13 week follow up ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/873173713",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=1f71e168-32c3-464a-8f66-1049761563d1&originalTime=0&startTime=1756166400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755054018",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756170000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "1f71e168-32c3-464a-8f66-1049761563d1_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756166400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Emily Lao MCC - cherrybrook",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/354068089",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=76cfa222-9711-492f-9e81-e5d15bb55d97&originalTime=0&startTime=1755151200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755055944",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755153000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "76cfa222-9711-492f-9e81-e5d15bb55d97_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755151200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "The Anh Do Voc report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/780493110",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=8ebbd296-d7dd-44b2-9d05-c21141fca7c1&originalTime=0&startTime=1755064800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755055976",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755069300",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8ebbd296-d7dd-44b2-9d05-c21141fca7c1_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755064800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "scheduel vocs... ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/640510863",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=24126a88-a0f2-4bd5-a416-9d03c2856fa4&originalTime=0&startTime=1755237600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755055998",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755241200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "24126a88-a0f2-4bd5-a416-9d03c2856fa4_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755237600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Emily Lao rehab plan ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/155873112",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=5080c268-9627-419e-9330-2445dbce13fd&originalTime=0&startTime=1755734400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755056168",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755738000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5080c268-9627-419e-9330-2445dbce13fd_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755734400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Margreta La VOC report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/892279727",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=fd920f20-8d98-45b6-adac-3b2b555ec8e6&originalTime=0&startTime=1755745200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755056181",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755748800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fd920f20-8d98-45b6-adac-3b2b555ec8e6_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755745200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "check up Jian Yang",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/567552584",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=06f3d1d2-09b2-4641-bab0-302fcdc42f1a&originalTime=0&startTime=1756339200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755056343",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756344600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "06f3d1d2-09b2-4641-bab0-302fcdc42f1a_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756339200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Seyeddanyal Hosseini VOC report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/202644399",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=f4afc269-62f3-4a99-8e45-354e683422b8&originalTime=0&startTime=1757286000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755060871",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757287800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f4afc269-62f3-4a99-8e45-354e683422b8_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757286000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "leave for psych fce to confirm",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/779371875",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=d33d06aa-91d9-4bd0-a555-e04647ddbecc&originalTime=0&startTime=1757464200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755061029",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757471400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d33d06aa-91d9-4bd0-a555-e04647ddbecc_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757464200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Catherine Elizabeth Luker face to face VOC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/342246755",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=136896d4-162e-45fd-a20a-f31726505b3c&originalTime=0&startTime=1757026800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755060863",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757030400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "136896d4-162e-45fd-a20a-f31726505b3c_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757026800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "leave for psych fce to confirm",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/835405155",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=c04fcb3c-4cc6-41b8-9955-b8db2cd913be&originalTime=0&startTime=1756958400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755135124",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756963800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c04fcb3c-4cc6-41b8-9955-b8db2cd913be_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756958400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Eda Nisa Akarsu Voc Ax - over the phone",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/673628575",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=a088b9d3-56a7-4a89-9324-fada98a6cb4d&originalTime=0&startTime=1755489600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754979355",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755493200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a088b9d3-56a7-4a89-9324-fada98a6cb4d_0",
+        "event_organizer": {
+          "display_name": "Elton Kass",
+          "user_id": "ou_39fcf8edce8be054f5900fa7df7662e4"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_chOE0rkQdV7q5sa5fAyHnb@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755489600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Ange VOC Ax with Jeremy ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/152597896",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=9dbe3886-d354-4319-b82a-5a470de7242a&originalTime=0&startTime=1755736200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755135805",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755741600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9dbe3886-d354-4319-b82a-5a470de7242a_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755736200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Syed Habib VOC face to face ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/768776191",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=9ce0cd6a-66c5-4468-8b8b-e103b1f7cc22&originalTime=0&startTime=1755217800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754978326",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755221400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9ce0cd6a-66c5-4468-8b8b-e103b1f7cc22_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755217800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Meeting ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/673649962",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=c4a6126a-29e5-4dcd-a379-1a02ae6ee595&originalTime=0&startTime=1755230400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754549586",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755232200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c4a6126a-29e5-4dcd-a379-1a02ae6ee595_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755230400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "catch-up",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/747096267",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=abfaaf8c-7114-4624-b5a8-40f0e4fda915&originalTime=0&startTime=1758259800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755240019",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758263400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "abfaaf8c-7114-4624-b5a8-40f0e4fda915_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758259800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jennifer Ling",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/249230631",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=b0c143fe-9e82-40d8-a994-adb95f06cc1f&originalTime=0&startTime=1755559800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755054483",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755565200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b0c143fe-9e82-40d8-a994-adb95f06cc1f_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755559800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Salem Haikal VOC video-conference",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/117946947",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=c8ca0f58-dadd-4c28-a3bc-02684d18f1d4&originalTime=0&startTime=1755474300",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755056025",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755479700",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c8ca0f58-dadd-4c28-a3bc-02684d18f1d4_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755474300",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "The Anh Do Voc report - complete ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/525328206",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=1bda0ea4-ea41-48cd-85c5-d4dd1d7429fe&originalTime=0&startTime=1755572400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755056248",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755576000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "1bda0ea4-ea41-48cd-85c5-d4dd1d7429fe_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755572400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Geoffery Kew VOC report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/982456835",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=e31e8b62-48a8-4671-9531-23a14b2d8bbb&originalTime=0&startTime=1756855800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755486287",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756861200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e31e8b62-48a8-4671-9531-23a14b2d8bbb_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756855800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hamed Khataw VOC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/817795671",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=3053dbeb-61a0-47f6-8556-33c4a3c4aa35&originalTime=0&startTime=1756686000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755486587",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756693200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3053dbeb-61a0-47f6-8556-33c4a3c4aa35_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756686000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Helen Adams -psych functional",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/953061975",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=dadc0eca-b764-4ab9-aaab-e447d04c3f6b&originalTime=0&startTime=1755748800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755563216",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755750600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "dadc0eca-b764-4ab9-aaab-e447d04c3f6b_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755748800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "jian Yang Tele mcc Dr Peng Wang",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/311388649",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=50e11b87-966d-4108-ac63-32bac1687801&originalTime=0&startTime=1755577800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755056264",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755585000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "50e11b87-966d-4108-ac63-32bac1687801_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755577800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Geoferry Kew Voc report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/625791120",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=ab03621a-8d06-497a-9859-212376b119ed&originalTime=0&startTime=1755838800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755663239",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755840600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ab03621a-8d06-497a-9859-212376b119ed_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755838800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "RTW plan",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/838351334",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=38f3c394-462f-484b-a602-f6188a7ba82b&originalTime=0&startTime=1755666000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754973279",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755669600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "38f3c394-462f-484b-a602-f6188a7ba82b_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755666000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Mandy Zeng VOC ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/309755128",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=8ea0f0e4-5f8b-494f-878a-3c3c576b59e2&originalTime=0&startTime=1756267200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755749581",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756272600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8ea0f0e4-5f8b-494f-878a-3c3c576b59e2_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756267200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "pending voc - Elton",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/334113134",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=2e238ea1-c239-4069-bbaa-4f38bc300962&originalTime=0&startTime=1756087200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755059833",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756094400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2e238ea1-c239-4069-bbaa-4f38bc300962_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756087200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Trent VOC video conference ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/826389880",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=dff88e04-bf9a-4be2-907c-cd65e18ec099&originalTime=0&startTime=1756254600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755567249",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756258200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "dff88e04-bf9a-4be2-907c-cd65e18ec099_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756254600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Gina Khanh VOC video conference",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/646419850",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=3146d005-a875-47fc-ae87-3ad35349d867&originalTime=0&startTime=1756353600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755818622",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756360800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3146d005-a875-47fc-ae87-3ad35349d867_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756353600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hannah Lin Brown VOC Video Conference ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/866418980",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=a88f317f-38e4-43c3-89d0-7469aec0798c&originalTime=0&startTime=1756076400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755822159",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756078200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a88f317f-38e4-43c3-89d0-7469aec0798c_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756076400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "pc to ailing zheng IR re surgery approval",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/538991400",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=2fcc7844-4139-4c6b-b41d-6620f79cf41e&originalTime=0&startTime=1756078200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755822174",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756080000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2fcc7844-4139-4c6b-b41d-6620f79cf41e_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756078200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "pc to catherin - re follow up 13 weeks",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/595580741",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=c424e2a4-983d-4a54-9025-21f13c8b9a01&originalTime=0&startTime=1756101600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755839816",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756105200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c424e2a4-983d-4a54-9025-21f13c8b9a01_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756101600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New VOC Template - Q &A",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/921203407",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=73298fe1-1236-4b46-873e-890cb5bee900&originalTime=0&startTime=1756177200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755056133",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756184400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "73298fe1-1236-4b46-873e-890cb5bee900_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756177200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Magret La VOC report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/281665358",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=e1aab6b8-490b-4c42-9bd7-aa179543448f&originalTime=0&startTime=1756081800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755863963",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756083600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e1aab6b8-490b-4c42-9bd7-aa179543448f_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756081800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "job seeking skill checklist - Lina",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/264891307",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=14169516-fe3a-47ca-b548-fb817cd8fbc3&originalTime=0&startTime=1758005400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756169517",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758007200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "14169516-fe3a-47ca-b548-fb817cd8fbc3_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758005400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Emily Lao Telehealth consult ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/944553246",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=3b6fc43b-04ba-4e27-bbed-3ebff07f3435&originalTime=0&startTime=1756269000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756097815",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756270800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3b6fc43b-04ba-4e27-bbed-3ebff07f3435_0",
+        "event_organizer": {
+          "display_name": "Maryam Yazdanpanahi",
+          "user_id": "ou_38040f95b6b0643322a81fa810ff8d8c"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1fiNd6Tw1meN7Y3kLCD8jh@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "New Employer Flowchart workshop ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/115951423",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=4816f16f-ef8f-4b9b-b348-875663ed7e19&originalTime=0&startTime=1756267200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756208616",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756269000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4816f16f-ef8f-4b9b-b348-875663ed7e19_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756267200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "catch up with Ange",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/183677818",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=e0b302ca-a200-46ec-b019-637dc1be3773&originalTime=0&startTime=1756274400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755857821",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756278000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e0b302ca-a200-46ec-b019-637dc1be3773_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756274400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jun Zhan MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/140987413",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=02be5a83-96d5-45e1-b0ab-3d6db3d6a46b&originalTime=0&startTime=1756872000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756256210",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756875600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "02be5a83-96d5-45e1-b0ab-3d6db3d6a46b_0",
+        "event_organizer": {
+          "display_name": "Joey Thong",
+          "user_id": "ou_a9d55f3c604d453354dce3669fa60307"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_1TMFpzznyG8vCXEND49xgf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756872000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jane Wang VOC report due 5/9/2025",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/139885082",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=0d9874b3-1694-46fc-8098-71b8b9db4757&originalTime=0&startTime=1757307600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756273363",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757309400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0d9874b3-1694-46fc-8098-71b8b9db4757_0",
+        "event_organizer": {
+          "display_name": "Yunjie Zhu",
+          "user_id": "ou_be66c112054e38f4c13ecfac13f0976a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "feishu.cn_Ucbpp4igio0MvzqvTkFXQe@group.calendar.feishu.cn",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757307600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jenny Xie-Tele Voc ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/217145025",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=a2600f5b-43f1-4707-8f6b-b6fff9c6ae33&originalTime=0&startTime=1756443600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756342883",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756445400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a2600f5b-43f1-4707-8f6b-b6fff9c6ae33_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756443600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "catch up",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/656347900",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=25afde28-bc0b-49bb-9e00-461db6d3614c&originalTime=0&startTime=1756697400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756356695",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756702800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "25afde28-bc0b-49bb-9e00-461db6d3614c_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756697400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hannah Lin Brown VOC report urgent",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/609473237",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=d15c5994-f039-4bd6-8691-a072824074b5&originalTime=0&startTime=1756425600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756357656",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756429200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "d15c5994-f039-4bd6-8691-a072824074b5_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756425600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "travel to hurstville",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/659472598",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=a54e8711-eff4-4ab9-9aa5-c8a7031c4d13&originalTime=0&startTime=1756432800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756357662",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756434600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a54e8711-eff4-4ab9-9aa5-c8a7031c4d13_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756432800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "travel ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/735399021",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=60c35a9e-0751-4b68-86f0-f5aaac06e5b9&originalTime=0&startTime=1756429200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756160734",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756432800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "60c35a9e-0751-4b68-86f0-f5aaac06e5b9_0",
+        "event_organizer": {
+          "display_name": "Crystal Ngo",
+          "user_id": "ou_97ba54c9d2b26f493d2b2962914e3aea"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_YwOaeChyB9NUly7X3kl5uc@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756429200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Catch up",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/550945931",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=9888b480-9223-4161-bc03-45d32d7ca1fd&originalTime=0&startTime=1756440000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756357696",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756441800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "9888b480-9223-4161-bc03-45d32d7ca1fd_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756440000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "catch-up ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/572935277",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=89d9c0e7-05de-4e47-9645-79a7833825c1&originalTime=0&startTime=1756364400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755056304",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756368000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "89d9c0e7-05de-4e47-9645-79a7833825c1_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756364400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jane Wong VOC report ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/977953078",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7215409208924569605&key=a8a3d707-180e-4a95-881e-e3cb020d195d&originalTime=0&startTime=1756445400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756359050",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756447200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "a8a3d707-180e-4a95-881e-e3cb020d195d_0",
+        "event_organizer": {
+          "display_name": "Ange Wang",
+          "user_id": "ou_6f8e545c5ee31d41fb205edbf200ec31"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_3cYqaI5x8U8ew3QKkSm3jb@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756445400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "catch-up",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/871219414",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 80,
+    "original_count": 99,
+    "cancelled_count": 19,
+    "empty_summary_count": 0,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:23.027397"
+  }
+}

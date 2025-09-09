@@ -1,0 +1,943 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=7a9b2f40-ca9b-423e-9b61-32c77cac4234&originalTime=0&startTime=1756267200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1751930312",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756279800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "7a9b2f40-ca9b-423e-9b61-32c77cac4234_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756267200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCC in Liverpool",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/871063774",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=6d2775f1-c653-4be9-a1af-13e86375e061&originalTime=0&startTime=1754266500",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1752454232",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754275500",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "6d2775f1-c653-4be9-a1af-13e86375e061_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754266500",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCC in Wentworth Point",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=2e2683ff-24eb-4830-bac8-b8ef3bb5e50b&originalTime=0&startTime=1754350200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753683139",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754368200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "2e2683ff-24eb-4830-bac8-b8ef3bb5e50b_0",
+        "event_organizer": {
+          "display_name": "Niamh Larkin",
+          "user_id": "ou_d45787039d7ca0825b46a16d55fa7019"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754350200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Niamh ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/837881685",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=638b0234-5d0e-43eb-ab4e-99a20e30a8b1&originalTime=0&startTime=1754611200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753768738",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754625600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "638b0234-5d0e-43eb-ab4e-99a20e30a8b1_0",
+        "event_organizer": {
+          "display_name": "Niamh Larkin",
+          "user_id": "ou_d45787039d7ca0825b46a16d55fa7019"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754611200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Niamh ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/404311285",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=0ce33fcc-2d55-4478-a790-9ffa4e41258a&originalTime=0&startTime=1754010000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754003810",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754022600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "0ce33fcc-2d55-4478-a790-9ffa4e41258a_0",
+        "event_organizer": {
+          "display_name": "Jessica Wong",
+          "user_id": "ou_86cb799a33a2c575ab23634f6aa4551a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754010000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jess WPA",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/610202004",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=f119c209-8a99-489a-86c9-932565c19aa8&originalTime=0&startTime=1754440200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754004681",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754458200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "f119c209-8a99-489a-86c9-932565c19aa8_0",
+        "event_organizer": {
+          "display_name": "Niamh Larkin",
+          "user_id": "ou_d45787039d7ca0825b46a16d55fa7019"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754440200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Niamh ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/563408362",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=afc2642f-b8b2-439c-9da0-a72143ee42f5&originalTime=0&startTime=1757549700",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753770393",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757558700",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "afc2642f-b8b2-439c-9da0-a72143ee42f5_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757549700",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "WD",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/271137625",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=91e3b862-1c7c-42bb-901b-7c2708b85213&originalTime=0&startTime=1754521200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754452362",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754542800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "91e3b862-1c7c-42bb-901b-7c2708b85213_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754521200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Niamh",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/638540196",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=cb9f23e9-64e1-4e84-937a-b09d84f2cd51&originalTime=0&startTime=1754866800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754610223",
+        "description": "",
+        "end_time": {
+          "timestamp": "1754884800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cb9f23e9-64e1-4e84-937a-b09d84f2cd51_0",
+        "event_organizer": {
+          "display_name": "Zebin Lin",
+          "user_id": "ou_f0ff1b28828bd16a3ed87180d474022e"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754866800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Zebin MCC",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/281635509",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=5b443464-d45b-475d-86a6-c0c5aee3b444&originalTime=0&startTime=1755043200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753675850",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755057600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5b443464-d45b-475d-86a6-c0c5aee3b444_0",
+        "event_organizer": {
+          "display_name": "Annabel Wu",
+          "user_id": "ou_e870237781758409ecabf25bb04dec61"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755043200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Elaine ADL Review",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/874599675",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=8be0a60d-7809-474f-9582-2e314684d5e5&originalTime=0&startTime=1754956800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754289726",
+        "description": "Maqurie Fields and Baulkenhills\n",
+        "end_time": {
+          "timestamp": "1754974800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "8be0a60d-7809-474f-9582-2e314684d5e5_0",
+        "event_organizer": {
+          "display_name": "Hannah Gilroy",
+          "user_id": "ou_0ad3b5f04618a0936a9c6f46a8e2dff9"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1754956800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Hannah ADL x2 ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/789105628",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=5dc15f4f-4235-4ac4-9f89-4f92ab08b7f8&originalTime=0&startTime=1755554400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754958873",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755759600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5dc15f4f-4235-4ac4-9f89-4f92ab08b7f8_0",
+        "event_organizer": {
+          "display_name": "Jessica Wong",
+          "user_id": "ou_86cb799a33a2c575ab23634f6aa4551a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755554400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jess - Bathurst",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/139338017",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=67f01381-010c-4c18-be12-3270fd9658c5&originalTime=0&startTime=1755133200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754366939",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755144000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "67f01381-010c-4c18-be12-3270fd9658c5_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755133200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCCs",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/790644455",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=e5fb62de-c0ad-4159-b5bb-a200a2377794&originalTime=0&startTime=1755500400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755134187",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755504000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "e5fb62de-c0ad-4159-b5bb-a200a2377794_0",
+        "event_organizer": {
+          "display_name": "Jessica Wong",
+          "user_id": "ou_86cb799a33a2c575ab23634f6aa4551a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755500400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jess",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/655120651",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=3ae7bc9e-b142-4b7d-8062-5fbf99dca6e9&originalTime=0&startTime=1755813600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755134197",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755817200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3ae7bc9e-b142-4b7d-8062-5fbf99dca6e9_0",
+        "event_organizer": {
+          "display_name": "Jessica Wong",
+          "user_id": "ou_86cb799a33a2c575ab23634f6aa4551a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755813600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jess",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/861991891",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=3c5d4cc8-eef8-4fa7-8eea-a7403da1ea63&originalTime=0&startTime=1755216000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755144529",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755230400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "3c5d4cc8-eef8-4fa7-8eea-a7403da1ea63_0",
+        "event_organizer": {
+          "display_name": "Niamh Larkin",
+          "user_id": "ou_d45787039d7ca0825b46a16d55fa7019"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755216000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Niamh",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/628201709",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=44812727-6d20-400d-b00d-7a597d9b7b56&originalTime=0&startTime=1755471600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755217791",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755493200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "44812727-6d20-400d-b00d-7a597d9b7b56_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755471600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Sabrina",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/981120733",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=46ca81e4-08f5-46e5-90b0-f100d7812219&originalTime=0&startTime=1755835200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755225814",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755842400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "46ca81e4-08f5-46e5-90b0-f100d7812219_0",
+        "event_organizer": {
+          "display_name": "Office Administrator",
+          "user_id": "ou_52942638145019184473f838208979b7"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755835200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Getting Washed :)",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/190212568",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=b9c15d02-3690-4821-ae1c-58c33a578639&originalTime=0&startTime=1755828000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755494658",
+        "description": "",
+        "end_time": {
+          "timestamp": "1755838800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "b9c15d02-3690-4821-ae1c-58c33a578639_0",
+        "event_organizer": {
+          "display_name": "Elaine Mernagh",
+          "user_id": "ou_8d2ebd7d44ddfb177bc21d2a95b2b567"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1755828000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Workplace Ax (Roseland)",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/125197657",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=cca1738f-4fde-4446-80bf-24310060d311&originalTime=0&startTime=1756692000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755497001",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756702800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "cca1738f-4fde-4446-80bf-24310060d311_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756692000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "NTS MCC at the Mater ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/823949343",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=c03f6725-cec9-459f-9355-12bbdd202ac1&originalTime=0&startTime=1756075500",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1753771801",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756084500",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "c03f6725-cec9-459f-9355-12bbdd202ac1_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756075500",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "WD",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/944673129",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=ba9abb0f-bbfc-4307-9497-7520136dfeee&originalTime=0&startTime=1758062700",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755647153",
+        "description": "",
+        "end_time": {
+          "timestamp": "1758069900",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "ba9abb0f-bbfc-4307-9497-7520136dfeee_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1758062700",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "WD",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/181435351",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=51c09d60-0e69-44b1-9816-68efb6244a86&originalTime=0&startTime=1757036700",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755673098",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757045700",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "51c09d60-0e69-44b1-9816-68efb6244a86_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757036700",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCC in Hurstville",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/368219530",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=27f00af5-974b-4170-8e35-aaf74e02efd6&originalTime=0&startTime=1756674900",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755478712",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756687500",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "27f00af5-974b-4170-8e35-aaf74e02efd6_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756674900",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCCs",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/130405145",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=669bf5f7-90ef-4469-851c-8a9107b7cf40&originalTime=0&startTime=1756429200",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756175632",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756440000",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "669bf5f7-90ef-4469-851c-8a9107b7cf40_0",
+        "event_organizer": {
+          "display_name": "Elaine Mernagh",
+          "user_id": "ou_8d2ebd7d44ddfb177bc21d2a95b2b567"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756429200",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "MCC Liverpool ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/420855138",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=dc920390-ec9f-40f0-aa5d-1ee3e06f08c0&originalTime=0&startTime=1756857600",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1754447835",
+        "description": "",
+        "end_time": {
+          "timestamp": "1756880100",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "dc920390-ec9f-40f0-aa5d-1ee3e06f08c0_0",
+        "event_organizer": {
+          "display_name": "Amelia Leavey",
+          "user_id": "ou_f8b49e6fe6eca3600a2753aba0e75245"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1756857600",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Amelia ",
+        "vchat": {
+          "vc_type": "no_meeting"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=fca81a91-62c3-4483-a280-f279913aa4b6&originalTime=0&startTime=1757629800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756276913",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757642400",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "fca81a91-62c3-4483-a280-f279913aa4b6_0",
+        "event_organizer": {
+          "display_name": "Elaine Mernagh",
+          "user_id": "ou_8d2ebd7d44ddfb177bc21d2a95b2b567"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757629800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Elaine Specialist APP ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/259591154",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=4a5f03b7-29a8-4c88-8ca7-701dffe042be&originalTime=0&startTime=1757026800",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756311660",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757037600",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "4a5f03b7-29a8-4c88-8ca7-701dffe042be_0",
+        "event_organizer": {
+          "display_name": "Jessica Wong",
+          "user_id": "ou_86cb799a33a2c575ab23634f6aa4551a"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757026800",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Jenna ",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/529272661",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=dfd95633-d143-48a8-a62e-f54fb693bd0d&originalTime=0&startTime=1757286000",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1756423719",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757314800",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "dfd95633-d143-48a8-a62e-f54fb693bd0d_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757286000",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Sabrina",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/288649303",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7480017850309885958&key=5e39a629-7309-43a6-9bdf-bef57183eee8&originalTime=0&startTime=1757372400",
+        "attendee_ability": "can_invite_others",
+        "color": -1,
+        "create_time": "1755133733",
+        "description": "",
+        "end_time": {
+          "timestamp": "1757401200",
+          "timezone": "Australia/Sydney"
+        },
+        "event_id": "5e39a629-7309-43a6-9bdf-bef57183eee8_0",
+        "event_organizer": {
+          "display_name": "Sabrina Kerr",
+          "user_id": "ou_1ca92e06cab0b98f8340bf61eaadd821"
+        },
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_xLTJ4zZsuyBOiGPJGYRuUf@group.calendar.larksuite.com",
+        "recurrence": "",
+        "start_time": {
+          "timestamp": "1757372400",
+          "timezone": "Australia/Sydney"
+        },
+        "status": "confirmed",
+        "summary": "Sabrina",
+        "vchat": {
+          "meeting_url": "https://vc-sg.larksuite.com/j/278406667",
+          "vc_type": "vc"
+        },
+        "visibility": "default"
+      }
+    ],
+    "total_count": 30,
+    "original_count": 54,
+    "cancelled_count": 24,
+    "empty_summary_count": 0,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:24.991035"
+  }
+}

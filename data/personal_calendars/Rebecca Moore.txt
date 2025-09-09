@@ -1,0 +1,121 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "items": [
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7423962164828995590&key=15e33038-34e2-4040-b75e-92413b8c56f4&originalTime=0&startTime=1758758400",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1756086780",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-09-27",
+          "timezone": "UTC"
+        },
+        "event_id": "15e33038-34e2-4040-b75e-92413b8c56f4_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-09-25",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      },
+      {
+        "app_link": "https://applink.larksuite.com/client/calendar/event/detail?calendarId=7423962164828995590&key=2fdb5341-a7cd-4289-8760-06ff34c94ea1&originalTime=0&startTime=1759708800",
+        "attendee_ability": "can_see_others",
+        "color": -1,
+        "create_time": "1756086781",
+        "description": "若删除此日程，飞书中相应的“请假”标签将自动消失，而请假系统中的休假申请不会被撤销。\n\nIf the event is deleted, the corresponding \"On Leave\" tag in Feishu will disappear, while the leave request in the time off system won't be revoked.",
+        "end_time": {
+          "date": "2025-10-09",
+          "timezone": "UTC"
+        },
+        "event_id": "2fdb5341-a7cd-4289-8760-06ff34c94ea1_0",
+        "free_busy_status": "busy",
+        "is_exception": false,
+        "organizer_calendar_id": "larksuite.com_wuWfY1PNNMCF48wznWSb5f@group.calendar.larksuite.com",
+        "recurrence": "",
+        "schemas": [
+          {
+            "ui_name": "MeetingChatIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingMinutesIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideoIcon",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingVideo",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "MeetingRoom",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RsvpReply",
+            "ui_status": "hide"
+          },
+          {
+            "ui_name": "RSVP",
+            "ui_status": "hide"
+          }
+        ],
+        "start_time": {
+          "date": "2025-10-06",
+          "timezone": "UTC"
+        },
+        "status": "confirmed",
+        "summary": "On Leave",
+        "visibility": "public"
+      }
+    ],
+    "total_count": 2,
+    "original_count": 3,
+    "cancelled_count": 0,
+    "empty_summary_count": 1,
+    "query_start_time": 1753970400,
+    "query_end_time": 1761915599,
+    "retrieved_at": "2025-08-29T11:27:20.303413"
+  }
+}
